@@ -19,7 +19,7 @@ title: Current
 @blackgirlscode 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WFK_UgYGofo?si=LeHJRvidThCa6IzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[EXPLORER1](https://explorer1.jpl.nasa.gov/)
+[EXPLORER1](https://explorer1.jpl.nasa.gov/) <~ @StateOfCalifornia
 ![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
 ![Earth](https://explorer1.jpl.nasa.gov/assets/images/galleries/1966_LOIRP_289764main_GPN-2000-001588_full.jpeg)
 ![EARTH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1947_316209main_smallsteps-v2_full.jpeg)
