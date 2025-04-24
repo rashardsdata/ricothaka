@@ -14,6 +14,10 @@ title: Current
    
  </div> 
 
+
+# CssARticlesToPRint
+[FlexStrink](https://cssreference.io/property/flex-shrink/):Defines how much a [flexbox item should shrink](https://avada.com/documentation/column-element-flex-grow-and-flex-shrink-options/) if there's not enough space available. [flex-shrink tailwindcss.com](https://tailwindcss.com/docs/flex-shrink) [Growing and Shrinking - theodinproject.com/](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+
 # EarthDay
 ### No Happy Holidays - Mary J. Blige
 @blackgirlscode 
