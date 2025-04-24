@@ -14,10 +14,31 @@ title: Current
    
  </div> 
 
-
+ [ Flexibility](https://www.w3.org/TR/css-flexbox-1/#flexibility)
+ download 5-7
+![Box](https://www.w3.org/TR/css-flexbox-1/images/flex-order-page.svg)
+![Webinar](https://pbs.twimg.com/media/GpUbP-qbQAAstby?format=jpg&name=large)
+![Webinar](https://pbs.twimg.com/media/GpPQeZ_awAAVsuk?format=jpg&name=large)
+![OpenNDAP](https://pbs.twimg.com/media/GpPRaExbcAA1eFs?format=jpg&name=large)
+[Twt](https://x.com/MooNLOVER404/status/1915103686407417993)
+![Events](https://pbs.twimg.com/media/GpU_jBVbYAA58Zm?format=jpg&name=large)
+![Unclaimed Dead](https://pbs.twimg.com/media/GpVMXPQbYAETBZF?format=jpg&name=large)
+`Today at the Burial of the Unclaimed Dead, faith leaders presided over the burial of 1624 decedents who died in 2019 and were laid to rest in a single grave.` [Tweet](https://x.com/lacountyme/status/1600983036832534528)
+![MASSGRAVE](https://pbs.twimg.com/media/GpVNPt5bYAc6BJs?format=jpg&name=large) [Related](https://x.com/RicoThaka/status/1915522292098195636) :
+[EulaGy](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A24325a29-4e9d-46a1-b627-765d6c53b8cc&utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=&viewer%21megaVerb=group-discover) 
+[Uncovering the Secrets of the International Space Station](https://youtu.be/Ei-TcECJVXU) @natgeosociety @nasa-jpl imma look at this video at some point... 
 # CssARticlesToPRint
 [FlexStrink](https://cssreference.io/property/flex-shrink/):Defines how much a [flexbox item should shrink](https://avada.com/documentation/column-element-flex-grow-and-flex-shrink-options/) if there's not enough space available. [flex-shrink tailwindcss.com](https://tailwindcss.com/docs/flex-shrink) [Growing and Shrinking - theodinproject.com/](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 
+![w3c.org](https://www.w3.org/TR/css-flexbox-1/images/rel-vs-abs-flex.svg)
+7. Flexibility
+The defining aspect of flex layout is the ability to make the flex items “flex”, altering their width/height to fill the available space in the main dimension. This is done with the flex property. A flex container distributes free space to its items (proportional to their flex grow factor) to fill the container, or shrinks them (proportional to their flex shrink factor) to prevent overflow.
+![FLEXBOX](https://www.w3.org/TR/css-flexbox-1/images/flex-pack.svg)
+
+![SSF2](https://pbs.twimg.com/media/GpVXOIBbYAI_okw?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1915533299059130858): [DigitalDivide](https://x.com/RicoThaka/status/1915532387062288790)
+![StreetFigterMovie](https://pbs.twimg.com/media/GpVTHmsaYAA6kwD?format=jpg&name=large)
+![guileVSken](https://pbs.twimg.com/media/GpVSEHAbYAEAXHO?format=jpg&name=large)
 # EarthDay
 ### No Happy Holidays - Mary J. Blige
 @blackgirlscode 
