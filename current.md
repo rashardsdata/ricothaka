@@ -14,6 +14,175 @@ title: Current
    
  </div> 
 
+ [ Flexibility](https://www.w3.org/TR/css-flexbox-1/#flexibility)
+ download 5-7
+![Box](https://www.w3.org/TR/css-flexbox-1/images/flex-order-page.svg)
+![Webinar](https://pbs.twimg.com/media/GpUbP-qbQAAstby?format=jpg&name=large)
+![Webinar](https://pbs.twimg.com/media/GpPQeZ_awAAVsuk?format=jpg&name=large)
+![OpenNDAP](https://pbs.twimg.com/media/GpPRaExbcAA1eFs?format=jpg&name=large)
+[Twt](https://x.com/MooNLOVER404/status/1915103686407417993)
+![Events](https://pbs.twimg.com/media/GpU_jBVbYAA58Zm?format=jpg&name=large)
+![Unclaimed Dead](https://pbs.twimg.com/media/GpVMXPQbYAETBZF?format=jpg&name=large)
+`Today at the Burial of the Unclaimed Dead, faith leaders presided over the burial of 1624 decedents who died in 2019 and were laid to rest in a single grave.` [Tweet](https://x.com/lacountyme/status/1600983036832534528)
+![MASSGRAVE](https://pbs.twimg.com/media/GpVNPt5bYAc6BJs?format=jpg&name=large) [Related](https://x.com/RicoThaka/status/1915522292098195636) :
+[EulaGy](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A24325a29-4e9d-46a1-b627-765d6c53b8cc&utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=&viewer%21megaVerb=group-discover) 
+[Uncovering the Secrets of the International Space Station](https://youtu.be/Ei-TcECJVXU) @natgeosociety @nasa-jpl imma look at this video at some point... 
+# CssARticlesToPRint
+[FlexStrink](https://cssreference.io/property/flex-shrink/):Defines how much a [flexbox item should shrink](https://avada.com/documentation/column-element-flex-grow-and-flex-shrink-options/) if there's not enough space available. [flex-shrink tailwindcss.com](https://tailwindcss.com/docs/flex-shrink) [Growing and Shrinking - theodinproject.com/](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+
+![w3c.org](https://www.w3.org/TR/css-flexbox-1/images/rel-vs-abs-flex.svg)
+7. Flexibility
+The defining aspect of flex layout is the ability to make the flex items “flex”, altering their width/height to fill the available space in the main dimension. This is done with the flex property. A flex container distributes free space to its items (proportional to their flex grow factor) to fill the container, or shrinks them (proportional to their flex shrink factor) to prevent overflow.
+![FLEXBOX](https://www.w3.org/TR/css-flexbox-1/images/flex-pack.svg)
+
+![SSF2](https://pbs.twimg.com/media/GpVXOIBbYAI_okw?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1915533299059130858): [DigitalDivide](https://x.com/RicoThaka/status/1915532387062288790)
+![StreetFigterMovie](https://pbs.twimg.com/media/GpVTHmsaYAA6kwD?format=jpg&name=large)
+![guileVSken](https://pbs.twimg.com/media/GpVSEHAbYAEAXHO?format=jpg&name=large)
+# EarthDay
+### No Happy Holidays - Mary J. Blige
+@blackgirlscode 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFK_UgYGofo?si=LeHJRvidThCa6IzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" width="100%" height=600px ></object>
+
+[EXPLORER1](https://explorer1.jpl.nasa.gov/) <~ @StateOfCalifornia
+![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
+![Earth](https://explorer1.jpl.nasa.gov/assets/images/galleries/1966_LOIRP_289764main_GPN-2000-001588_full.jpeg)
+![EARTH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1947_316209main_smallsteps-v2_full.jpeg)
+![EARTH @nasa](https://www.nasa.gov/wp-content/uploads/2025/04/2025-nasa-earth-day-poster-30x15-print-resolution.jpg)
+## Earth Rotation from Galileo Imagery: 3600 x Real-Time [JPL](https://www.jpl.nasa.gov/galileo/index.html)
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the Galileo spacecraft during a close pass of the Earth on December 11-12, 1990
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001372/a001372.00095_print.png" >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" >
+webm</a>
+  video.
+</video>
+
+### HipHop set
+[MiA-SteppinUp](https://youtu.be/rcYhNEffVMs) [Blazay Balzay - Danger](https://youtu.be/x7uJzdu7Pak?si=LBhCEBoEwJ4CnvR1) [Fugees [feat. A Tribe Called Quest & Busta Rhymes] - Rumble In The Jungle ](https://youtu.be/Ok6fmRt6MvU?si=dCtayHhGWhUmjFwm) [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn](https://youtu.be/a2pzmty3LVs?si=171yoroMclhues_J) [Group Home - Supa Star](https://youtu.be/MZCNnDSKJsM?si=-I5FI8k8de7G4mzc) [DelTron 3030 - Turbulence](https://youtu.be/NF0UWfNQw9E?si=MQtG2qIVWSwlOh0b) [Smif & Wesson - SoundBwoiBurriel](https://youtu.be/s5MogMGLWAA?si=32yP9bTbeDxEDWx_) [Nas - Represent](https://youtu.be/xiVY_yPgvMs?si=fkYZLtM9pUgrZcW9) [GangStarr- MakeThemPay](https://youtu.be/7i1qond0wEA?si=LzpWPoHJV9GFvIYP) [The Stomp · Ol' Dirty Bastard](https://youtu.be/ATbBVkKAFwg?si=eCfD56ReIbHMHApO) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [O.C. - Times Up](https://youtu.be/dcsPoM2MalY?si=ChQB16D0L9ulOtAz) [O.C. - My World ](https://youtu.be/d7dHzjxH2VI?list=RDd7dHzjxH2VI) [Immortal Technique- Freedom Of Speech](https://youtu.be/v4HeY1Krw-Y?list=RDATbBVkKAFwg) [In The World · Akinyele](https://youtu.be/FAnC3PM1NTY?list=RDFAnC3PM1NTY) [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro) [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hwNhfOQXQXobu7nZ) @blackgirlscode i have a [class](https://x.com/NASAEarthData/status/1914403540371693922) tomrrow on [`OPeNDAP`](https://opendap.github.io/documentation/QuickStart.pdf) so im [stressed](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro), i have to print some things to [look](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap) over tonight so im better prepared ... THANKS you guys are really [growing](https://youtu.be/UcKDx4cmvio?list=RDHWwCVqWmgro) - [NosTalgia](https://youtu.be/PPZ2-FVcM3M?list=RDHWwCVqWmgro) [📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro) [Immortal Technique - Toast to the Dead](https://youtu.be/kLBNMhzn8VI?list=RDkLBNMhzn8VI)
+
+![openDAP](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-04/OPeNDAP_banner_final.png?VersionId=MEsX9pz8FAetXTjWPC3wtEZ15INU16YZ&itok=Rb6Ia-6s)
+
+
+
+`Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
+[Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
+
+
+![Curiosity](https://upload.wikimedia.org/wikipedia/commons/6/6f/Perseverance_rover_design.png)
+
+<div class="tupperware" markdown="1">
+<figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+  
+ <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Curiosity: The First10years</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl"> Curiosity: The First10years</a></figcaption>
+</figure>
+ 
+</div>
+
+[The Curious Life of a Mars Rover  @natgeosociety Live](https://youtu.be/7zpojhD4hpI?si=-UDj3QaGPCAkNXIV)
+![MESSENGER Mercury Surface, Space Environment, Geochemistry and Ranging](https://messenger.jhuapl.edu/images/template/messenger_logo.png)
+[nasa.gov - MESSENGER](https://science.nasa.gov/mission/messenger/) [MErcury](https://photojournal.jpl.nasa.gov/targetFamily/mercury) Surface, Space ENvironment, GEochemistry, and Ranging [Wiki - @JHUAPL](https://en.wikipedia.org/wiki/Talk:MESSENGER) [MESSENGER – From Setbacks to Success](https://www.nasa.gov/history/messenger-from-setbacks-to-success/) Explore the surface of Mercury, investigate named craters and other features, see featured MESSENGER images, and take guided tours of the latest Mercury research in the [Google Earth interface](https://messenger.jhuapl.edu/Explore/Mercury-Google-Earth.html).
+
+[Messenger - Earth Departure Movie](https://messenger.jhuapl.edu/Explore/media/videos/mdis_depart.mpeg)
+
+
+![OPeNDAP](https://opendap.github.io/documentation/images/OPeNDAP-Logo-red.svg)
+
+
+# Little Orphan Annie (1932)
+<iframe src="https://archive.org/embed/vts-01-1_20240123" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<div class="tupperware">
+
+<a href="https://ia600705.us.archive.org/19/items/annie8/annie1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/annie1.png" alt="Ornithological Photography" /></a>
+<a href="https://ia800705.us.archive.org/19/items/annie8/annie2.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie2.png" alt="Ornithological Photography" /></a>
+</div>
+
+<div class="tupperware">
+
+  <a href="https://ia600705.us.archive.org/19/items/annie8/annie3.png"><img src="https://ia600705.us.archive.org/19/items/annie8/annie3.png" alt="Ornithological Photography" /></a>
+<a href="https://ia800705.us.archive.org/19/items/annie8/annie4.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie4.png" alt="Ornithological Photography" /></a>
+  <a href="https://ia800705.us.archive.org/19/items/annie8/annie5.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie5.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie6.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie6.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie7.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie7.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie8.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie8.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie9.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie9.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie10.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie10.png" alt="Ornithological Photography" /></a>
+      <a href="https://ia800705.us.archive.org/19/items/annie8/annie11.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie11.png" alt="Ornithological Photography" /></a>
+</div>
+
+# dear _Coral
+
+I dont know how familiar you got with [Annie](https://m.media-amazon.com/images/I/91xktm3KKRL._AC_UF894,1000_QL80_.jpg) The girl that was cast to play you look like you, it may be one of your cousins. At your grandmothers funeral i was told it was a showbizfamily, there was never room for science or graffiti, [ya mama](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) just a [rebel](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)... Digest the [stage HArdKnockLife](https://www.youtube.com/watch?v=LH6MstVxehQ) THEN!, listen to [JAyZ vErsion](https://youtu.be/TuELGO_-lEU?si=lIH3UasiuMoV7JKa) and a lot of y i had conversation with you mom will make sense! and why i tried so hard! its just clues, an some graff you may recognize fool... -dad
+
+[The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up) [Why I still love the 1982 version of Annie - By Rachel Marie Stone - thechristiancentury_dOt_oRg](https://www.christiancentury.org/blogs/archive/2014-12/why-i-still-love-1982-version-ofnbspannie)
+
+<h1 itemprop="name">Annie (1982 film)
+</h1>
+Annie is a 1982 American musical comedy-drama film based on the 1977 Broadway musical of the same name by Charles Strouse, Martin Charnin and Thomas Meehan, which in turn is based on the Little Orphan Annie comic strip [Wiki](https://en.wikipedia.org/wiki/Annie_(1982_film))
+
+[Watch on Archive.ORg](https://archive.org/details/annie-hd-720p_202205)
+<video controls poster="https://www.christiancentury.org/sites/default/files/styles/article_page_vertical/public/images/detail/two-annies.jpg" itemscope itemtype="https://schema.org/Movie">
+
+  <source src="https://archive.org/download/annie-hd-720p_202205/annie-hd-720p.mp4" type="video/mp4" />
+
+  Download the
+  <a href="https://archive.org/download/annie-hd-720p_202205/annie-hd-720p.mp4">MP4</a>
+  video.
+</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lEMLhZrZs5U?si=z49RtC9gvMAPRNGB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
+
+# Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
+I'm being stalked, these #hardScabs are on soft tissue, its a soft round
+ [RelatedTweet](https://x.com/RicoThaka/status/1913382700611965159)
+<div class="tupperware">
+
+<a href="https://ia600705.us.archive.org/19/items/annie8/scab1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab1.png" alt="Ornithological Photography" /></a>
+<a href="https://ia600705.us.archive.org/19/items/annie8/scab2.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab2.png" alt="Ornithological Photography" /></a>
+</div>
+
+### PortableLinks
+If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.io/liquid/) file is hosted on differing urls but have the same content, `{{ site.url }}{{ site.baseurl }}` between quotes is a [JekyllVariable](https://jekyllrb.com/docs/variables/) theres so much that can be [defined](https://jekyllrb.com/docs/liquid/) during [Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/) that [LiquidMarkup](https://shopify.github.io/liquid/basics/introduction/) will give the url of your [CurrentRepo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example)
+{% raw %}
+          <a href="https://thakarashard.github.io/">ThakaRashard</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
+{% endraw %}
+
+
+[MiXTAPE - FUNKMASTERFLEX_VOL1:60 Minutes of Funk vol.1](https://youtu.be/kReCUT4SUzY)
+[<img src="https://i.discogs.com/JcwSWHxRg6oZMPlNLeQEUdngxI45APth_46clvPOp_M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjY2/My0xMzQzMDIwMzk4/LTE3MTEuanBlZw.jpeg" />](https://i.discogs.com/JcwSWHxRg6oZMPlNLeQEUdngxI45APth_46clvPOp_M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjY2/My0xMzQzMDIwMzk4/LTE3MTEuanBlZw.jpeg)
+
+{% include cloud.md %}
+
+
 ![laurakerber](https://14c7719d28.cbaul-cdnwnd.com/c886a235faf46ba53093424949d934df/200000122-ecd8eecd92/20151028_185951.webp?ph=14c7719d28) 
 [laurakerber](https://laurakerber.webnode.page/photo-gallery/) `I am interested in physical volcanology, aeolian geomorphology, wind over complex surfaces, the ancient Martian climate`
 
