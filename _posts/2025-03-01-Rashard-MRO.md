@@ -7,13 +7,18 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
 
+# ABC News Live Reports
+![ContinentalBreakFast @nasa-jpl @stateofCalifornia](https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg)
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+
 # Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
 @VeronicaMcG #GM I want you to know my tooth broke, there some crackers thats contaminated, the silver haired cook gave me some crackers in some #BrownBagSacks @WeingartCenter @SalvationArmyUs  #Hollywood @HollywoodFoodCo
  its not hurting but iNeed #OccHealth i never had a broken tooth and my matriarchiy told me brushing with floride would rot the teeth out and i need direction, bc they are right, they have been prostituted so long they know a lot of things i could not cram in with the [BurningManSpaceCowboys](https://www.youtube.com/playlist?list=PLIO75rGU-6ps-AT3HT3LceIK64XX9u1cR&themeRefresh=1)
-[Reporting My BrokenTooth](https://x.com/RicoThaka/status/1916908503857565864)
+[Reporting My BrokenTooth](https://x.com/RicoThaka/status/1916908503857565864) [ipTv-org: https://iptv-org.github.io/](https://iptv-org.github.io/)
+
 [#LateForWork](https://x.com/RicoThaka/status/1916632995823522189) its a playlist that ppl have been trying to control my access to the internet over. Many of the Streaming Media companies get a lot of Social points for doing hiphop playlists for bars and pubs nation wide, someone with a reason started hurting me and killing my accounts, thats y Normani went out withme, it just got intimate... She was going through the same thing... 
 ### DWTS' Normani Kordei of Fifth Harmony on dealing with horrific cyberbullying: 'I can't carry hate in my heart'
-The member of Fifth Harmony took a hiatus from social media because of bullies. [How I got my NAsa Badge](https://x.com/RicoThaka/status/1916955327117099429)
+The member of Fifth Harmony took a hiatus from social media because of bullies. [ABCnews](https://abcnews.go.com/Entertainment/dwts-normani-kordei-harmony-dealing-horrific-cyberbullying-carry/story?id=47427362) [NORMANi-FANDOM](https://dancingwiththestars.fandom.com/wiki/Normani_Kordei) [How I got my NAsa Badge](https://x.com/RicoThaka/status/1916955327117099429) [CleaningUpGoogleAuth](https://x.com/RicoThaka/status/1916947697602596891)
 [MyTRELLO @trello Rashard_Iman_Kelly_NASAJPL_iSS_JUNO_MRO](https://trello.com/b/FWO7m3St/rashardmro)
 ![MyTRELLO @trello](https://pbs.twimg.com/media/Gpo6HbDbEAMMt8E?format=jpg&name=large)
 
