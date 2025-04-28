@@ -1,4 +1,9 @@
+# Dear_Coral
+i lost a tooth - [dad](https://thakarashard.github.io/rashardmro/) [![Twitter Follow](https://img.shields.io/badge/Social-BOEAPS__-blue?style=social&logo=X)](https://twitter.com/BOEAPS) [![Twitter Follow](https://img.shields.io/badge/Social-GADFCS__-blue?style=social&logo=X)](https://twitter.com/GADFCS) [![Twitter Follow](https://img.shields.io/badge/Social-GADHS__-blue?style=social&logo=X)](https://twitter.com/GADHS)  [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) [![Twitter Follow](https://img.shields.io/badge/Social-Essence__-blue?style=social&logo=X)](https://twitter.com/Essence) [![Twitter Follow](https://img.shields.io/badge/Social-wangawoman__-blue?style=social&logo=X)](https://twitter.com/wangawoman) 
+[Garou: Mark Of The Wolves Official Guidebook](https://archive.org/details/garou-mark-of-the-wolves-ascii-mook_202205/Garou%20Mark%20of%20the%20Wolves%20ASCII%20Mook/page/n3/mode/2up) [Garou - Mark of the Wolves (NGM-2530)](https://archive.org/details/arcade_garou)
+<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+ 
 <div class="tupperware">
 {% for post in site.posts %}
   {% if post.categories contains 'coral' %}
