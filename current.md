@@ -14,6 +14,29 @@ title: Current
    
  </div> 
 
+
+
+# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
+~6weeks ago - @rashard @nasa-jpl @deptofdefense @stateofcalifornia this got wacked when [RicoThaka on X Got Suspended](https://trello.com/b/CN1UytXe/housekeeping)
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
+
+[See Tweet](#elondeathnote)
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large) [Elon Musk Team Voyager Greeting](https://x.com/RicoThaka/status/1901378180516327817) [LightDay](https://x.com/RicoThaka/status/1901374945957204432) [Formadehyde](https://x.com/RicoThaka/status/1901370262685471205)
+
+
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294226832&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/amon-tobin" title="Amon Tobin" target="_blank" style="color: #cccccc; text-decoration: none;">Amon Tobin</a> · <a href="https://soundcloud.com/amon-tobin/verbal" title="Verbal" target="_blank" style="color: #cccccc; text-decoration: none;">Verbal</a></div>
+
+[edm](https://soundcloud.com/amon-tobin/sultan-drops?si=8996348b9e944abc96beae724c2a2069&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 <audio controls>
   <source src="https://ia802307.us.archive.org/32/items/nas-life-is-a-good/Life%20Is%20Good/08-Summer%20On%20Smash%20%28Ft.%20Miguel%20%26%20Swizz%20Beatz%29.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
@@ -739,20 +762,6 @@ The <figure> HTML element represents self-contained content, potentially with an
 ![@datadesk JOBS](https://pbs.twimg.com/media/GmRs32oaAAAxSRi?format=jpg&name=large)
 [Job Posting mercedes-benz](https://x.com/RicoThaka/status/1901695363435954390)
 
-# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
-### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
-
-[See Tweet](#elondeathnote)
-![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large) [Elon Musk Team Voyager Greeting](https://x.com/RicoThaka/status/1901378180516327817) [LightDay](https://x.com/RicoThaka/status/1901374945957204432) [Formadehyde](https://x.com/RicoThaka/status/1901370262685471205)
-
-
-
-
-<picture>
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
-  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
-</picture>
 
 ![MiSR](https://misr.jpl.nasa.gov/static/images/misr-hp-banner-v3.525a614971d7.jpg) [NAsa's Earth Observing System](https://eospso.gsfc.nasa.gov/atbd-category/45) To accomplish its scientific objectives, the MISR instrument measures Earth's brightness in 4 spectral bands, at each of 9 [look angles](https://misr.jpl.nasa.gov/mission/introduction/misrs-viewing-geometry-and-scattering-angles/) [MiSR-GALLERY @nasa-jpl](https://misr.jpl.nasa.gov/gallery/)
 
