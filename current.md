@@ -14,6 +14,13 @@ title: Current
    
  </div> 
 
+  <h1>GitGitGadget</h1>
+  <img src="https://gitgitgadget.github.io/images/gitgitgadget-explanation.png" alt="GitGitGadget" />        <h1 id="งツว-1980--͜ʖ͡">(งツ)ว 1980 (° ͜ʖ͡°)╭∩╮</h1>
+  <p>So you cloned https://github.com/git/git and implemented a bug fix or a new feature? And you already pushed it to your own fork?</p> <a href="https://gitgitgadget.github.io/#how-can-you-use-gitgitgadget">ReadMore</a>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="Count Basie - Have A Nice Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<h3 id="learning-linux">learning Linux</h3>
+<p><a href="https://linuxjourney.com/">Linux Journey</a> <a href="https://distrosea.com/">DistroSea: Test Linux distros online</a></p>
+<a href="https://www.youtube.com/watch?v=Cg1j3kMD2a4">Must Be dues - Melba Moore - song</a></p>
 
 
 # @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
