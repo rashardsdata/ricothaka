@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+require "English"
+require_relative "lib/jekyll/version"
 
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-hacker"
@@ -13,7 +15,18 @@ Gem::Specification.new do |s|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
-  s.required_ruby_version = ">= 2.4.0"
+  s.metadata      = {
+    "source_code_uri" => "https://github.com/ricothakarashard/ricothakarashard.github.io",
+    "bug_tracker_uri" => "https://github.com/ricothakarashard/ricothakarashard.github.io/issues",
+    "changelog_uri"   => "https://github.com/ricothakarashard/ricothakarashard.github.io/releases",
+    "homepage_uri"    => s.homepage,
+  }
+
+  s.rdoc_options     = ["--charset=UTF-8"]
+  s.extra_rdoc_files = %w(README.markdown LICENSE)
+
+  s.required_ruby_version     = ">= 2.7.0"
+  s.required_rubygems_version = ">= 2.7.0"
 
   s.platform = Gem::Platform::RUBY
   s.add_runtime_dependency "jekyll", "> 4", "< 5.0"

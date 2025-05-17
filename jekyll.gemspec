@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.license       = "MIT"
   s.authors       = ["Rashard Iman(thaka)Kelly @nasa-jpl", "Tom Preston-Werner", "Parker Moore", "Matt Rogers"]
   s.email         = ["ricothakarashard@proton.me"]
-  s.homepage      = "https://ricothakarashard.github.io
+  s.homepage      = "https://ricothakarashard.github.io"
   s.summary       = "A simple, blog aware, static site generator."
   s.description   = "Jekyll is a simple, blog aware, static site generator."
 
