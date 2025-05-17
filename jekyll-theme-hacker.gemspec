@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-hacker"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Jason Costello", "GitHub, Inc."]
+  s.authors       = [ "Rashard Iman Kelly @nasa-jpl", "Jason Costello", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-hacker@github.com"]
   s.homepage      = "https://github.com/pages-themes/hacker"
   s.summary       = "Hacker is a Jekyll theme for GitHub Pages"
@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ">= 2.4.0"
 
   s.platform = Gem::Platform::RUBY
-  s.add_runtime_dependency "jekyll", "> 3.5", "< 5.0"
+  s.add_runtime_dependency "jekyll", "> 4", "< 5.0"
   s.add_runtime_dependency "jekyll-seo-tag", "~> 2.0"
   s.add_development_dependency "html-proofer", "~> 3.0"
   s.add_development_dependency "rubocop-github", "~> 0.16"
