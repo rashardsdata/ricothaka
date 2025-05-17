@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-hacker"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
-  s.authors       = [ "Rashard Iman Kelly @nasa-jpl", "Jason Costello", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-hacker@github.com"]
-  s.homepage      = "https://github.com/pages-themes/hacker"
+  s.authors       = ["Rashard Iman(thaka)Kelly @nasa-jpl", "Tom Preston-Werner", "Parker Moore", "Matt Rogers"]
+  s.email         = ["ricothakarashard@proton.me"]
+  s.homepage      = "https://ricothakarashard.github.io"
   s.summary       = "Hacker is a Jekyll theme for GitHub Pages"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
