@@ -14,6 +14,23 @@ title: Current
    
  </div> 
 
+# Terminator 2
+
+<video controls preload="none" width="100%" height="auto" poster="https://www.aestheticwalldecor.com/cdn/shop/files/terminator-2-judgement-day-classic-movie-poster-aesthetic-wall-decor.jpg?v=1692555485">
+
+<source src="https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/terminator-2-judgment-day-vhs-mkv-encode/Terminator%202_%20Judgment%20Day%20%28VHS%29%20MKV%20Encode.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+
+[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [itiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
+
 
  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/494894382&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/waypoint-burning-man-sunrise-set-2018" title="Waypoint - Burning Man Sunrise Set 2018" target="_blank" style="color: #cccccc; text-decoration: none;">Waypoint - Burning Man Sunrise Set 2018</a></div>
 
@@ -84,22 +101,6 @@ Taylor Fox spent five years working at libraries before joining Cybercrime Magaz
 
 
 
-# Terminator 2
-
-<video controls preload="none" width="100%" height="auto" poster="https://www.aestheticwalldecor.com/cdn/shop/files/terminator-2-judgement-day-classic-movie-poster-aesthetic-wall-decor.jpg?v=1692555485">
-
-<source src="https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/terminator-2-judgment-day-vhs-mkv-encode/Terminator%202_%20Judgment%20Day%20%28VHS%29%20MKV%20Encode.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-
-
-[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [itiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
 
 
 [Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
