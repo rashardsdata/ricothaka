@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 gemspec :name => "jekyll"
-
+gem update jekyll
 gem "rake", "~> 13.0"
 
 group :development do
