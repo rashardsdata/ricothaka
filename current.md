@@ -13,8 +13,97 @@ title: Current
   {% endfor %}
    
  </div> 
- 
+
+
+ <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/494894382&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/waypoint-burning-man-sunrise-set-2018" title="Waypoint - Burning Man Sunrise Set 2018" target="_blank" style="color: #cccccc; text-decoration: none;">Waypoint - Burning Man Sunrise Set 2018</a></div>
+
 [https://talk.jekyllrb.com/](https://talk.jekyllrb.com/)
+
+
+[My Childs Removal Document](https://x.com/BubbleGumPop510/status/1725672533847163192)
+<div class="tupperware">
+
+<img src="https://pbs.twimg.com/media/F_LR_0LaMAAxFYA?format=jpg&name=small" />
+<img src="https://pbs.twimg.com/media/F_LSA12aUAAL20z?format=jpg&name=900x900" />
+</div>
+
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
+
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
+
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="600" height="400"></object>   
+
+# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
+<video controls preload="none" 
+  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+# Europa Clipper separates from Falcon Heavy's Second Stage after deployment
+NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched Oct. 14, 2024, from NASA’s Kennedy Space Center in [Florida.](https://blogs.nasa.gov/europaclipper/2024/10/14/nasas-europa-clipper-spacecraft-separates-from-falcon-heavy-second-stage/) [Europa Clipper Instrument Summaries](https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf) 
+
+
+
+[wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
+
+# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
+
+[See Tweet](#elondeathnote)
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
+
+
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
+
+
+
+## Las Vegas: [Bus](https://www.rtcsnv.com/)
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/60218c77ef098d3a41bfa7ad/vsco60218c793112f.jpg" />
+
+[Guidelines for Proposers to ROSES Dual-Anonymous Peer Review Programs](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1014953/solicitationId=%7B4B711EDE-75AF-5D9D-963D-C5D15D5F9529%7D/viewSolicitationDocument=1/SMDDAPRguidelines_120224_clean.pdf)
+[NASA Solicitation and Proposal Integrated Review and Evaluation System](https://nspires.nasaprs.com/external/) [Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/) [CityClerk](https://x.com/RicoThaka/status/1729339063151611927)
+[FoodLine-DTLA](https://x.com/BubbleGumPop626/status/1743039251963658565) [Private Security on The rise](https://x.com/BubbleGumPop626/status/1757580894725124594) [atlantaFamilyDrama](https://x.com/BubbleGumPop626/status/1750663365285040364) [Anti Trump-Musk protest](https://x.com/FrancisLozano7/status/1891625655017574775) [DarkEnerGyCamera](https://x.com/BubbleGumPop626/status/1849916504269328469) [OnlyFans on 60min](https://x.com/BubbleGumPop626/status/1794117625137750222) [WW2 in Color](https://x.com/RicoThaka/status/1891922920869404698) [AfricanAmericansDuringWW2](https://x.com/RicoThaka/status/1891924067055464871) 
+
+## Bookworms Beware: Hackers Launch Cyberattacks On Libraries Globally
+Sausalito, Calif. – May 15, 2024
+
+Taylor Fox spent five years working at libraries before joining Cybercrime Magazine as a media coordinator. The former page and clerk dug up some interesting market data on a disturbing trend that is affecting bookworms across the world: Our libraries are under cyberattack. [ReadMore](https://cybersecurityventures.com/bookworms-beware-hackers-launch-cyberattacks-on-libraries-globally/)
+
+
+
+# Terminator 2
+
+<video controls preload="none" width="100%" height="auto" poster="https://www.aestheticwalldecor.com/cdn/shop/files/terminator-2-judgement-day-classic-movie-poster-aesthetic-wall-decor.jpg?v=1692555485">
+
+<source src="https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/terminator-2-judgment-day-vhs-mkv-encode/Terminator%202_%20Judgment%20Day%20%28VHS%29%20MKV%20Encode.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+
+[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [itiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
+
+
+[Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
+
 ![@nasa @whitehouse reddit https://www.reddit.com/r/nasa/](https://upload.wikimedia.org/wikipedia/hr/c/ca/Reddit_logo_2017.png)
 # CROSSPOSTFOR jpl.[nasa](https://www.reddit.com/r/nasa/).gov  @nasa-jpl
 @USnavy @boeing @deptofdefense
@@ -887,91 +976,10 @@ ICONS</span></h2>
 </div>
 
 
-[My Childs Removal Document](https://x.com/BubbleGumPop510/status/1725672533847163192)
-<div class="tupperware">
 
-<img src="https://pbs.twimg.com/media/F_LR_0LaMAAxFYA?format=jpg&name=small" />
-<img src="https://pbs.twimg.com/media/F_LSA12aUAAL20z?format=jpg&name=900x900" />
-</div>
 
 [Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
 
-# Europa Clipper Camera Passes First Test in Space
-Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
-
-Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
-
-![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
-
-<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="600" height="400"></object>   
-
-# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
-<video controls preload="none" 
-  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
-  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-# Europa Clipper separates from Falcon Heavy's Second Stage after deployment
-NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched Oct. 14, 2024, from NASA’s Kennedy Space Center in [Florida.](https://blogs.nasa.gov/europaclipper/2024/10/14/nasas-europa-clipper-spacecraft-separates-from-falcon-heavy-second-stage/) [Europa Clipper Instrument Summaries](https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf) 
-
-
-
-[wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
-
-# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
-### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
-
-[See Tweet](#elondeathnote)
-![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
-
-
-
-
-<picture>
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
-  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
-</picture>
-
-
-
-## Las Vegas: [Bus](https://www.rtcsnv.com/)
-<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/60218c77ef098d3a41bfa7ad/vsco60218c793112f.jpg" />
-
-[Guidelines for Proposers to ROSES Dual-Anonymous Peer Review Programs](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1014953/solicitationId=%7B4B711EDE-75AF-5D9D-963D-C5D15D5F9529%7D/viewSolicitationDocument=1/SMDDAPRguidelines_120224_clean.pdf)
-[NASA Solicitation and Proposal Integrated Review and Evaluation System](https://nspires.nasaprs.com/external/) [Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/) [CityClerk](https://x.com/RicoThaka/status/1729339063151611927)
-[FoodLine-DTLA](https://x.com/BubbleGumPop626/status/1743039251963658565) [Private Security on The rise](https://x.com/BubbleGumPop626/status/1757580894725124594) [atlantaFamilyDrama](https://x.com/BubbleGumPop626/status/1750663365285040364) [Anti Trump-Musk protest](https://x.com/FrancisLozano7/status/1891625655017574775) [DarkEnerGyCamera](https://x.com/BubbleGumPop626/status/1849916504269328469) [OnlyFans on 60min](https://x.com/BubbleGumPop626/status/1794117625137750222) [WW2 in Color](https://x.com/RicoThaka/status/1891922920869404698) [AfricanAmericansDuringWW2](https://x.com/RicoThaka/status/1891924067055464871) 
-
-## Bookworms Beware: Hackers Launch Cyberattacks On Libraries Globally
-Sausalito, Calif. – May 15, 2024
-
-Taylor Fox spent five years working at libraries before joining Cybercrime Magazine as a media coordinator. The former page and clerk dug up some interesting market data on a disturbing trend that is affecting bookworms across the world: Our libraries are under cyberattack. [ReadMore](https://cybersecurityventures.com/bookworms-beware-hackers-launch-cyberattacks-on-libraries-globally/)
-
-
-
-# Terminator 2
-
-<video controls preload="none" width="100%" height="auto" poster="https://www.aestheticwalldecor.com/cdn/shop/files/terminator-2-judgement-day-classic-movie-poster-aesthetic-wall-decor.jpg?v=1692555485">
-
-<source src="https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/terminator-2-judgment-day-vhs-mkv-encode/Terminator%202_%20Judgment%20Day%20%28VHS%29%20MKV%20Encode.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-
-
-[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [itiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
-
-
-[Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
 ![iss](https://pbs.twimg.com/media/GipAWaibYAQOkZR?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1885390186068271340) [Reminding Karen](https://x.com/RicoThaka/status/1882498520122548642) to get a [DataCube](https://x.com/DrGeoffSmith/status/1235461899376103424)
 [Old Design - ThakaSartu-ASTRONOMY](https://ricothaka.github.io/astronomy/) [RelatedTweet - LightBox on thakarashard](https://x.com/RicoThaka/status/1896767752276426861) [gonder](https://x.com/RicoThaka/status/1896743573414195464) [ManessA](https://x.com/thakasartu/status/1896706861338112040) [GitHub On TheGO](https://x.com/RicoThaka/status/1896717090893287429) @nasa @nasa-jpl [SoilMoistture](https://x.com/RicoThaka/status/1882516168214487485) [BarbiePopulation - CaliforniaFire](https://x.com/RicoThaka/status/1885168225497080224)
