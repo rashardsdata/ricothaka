@@ -13,7 +13,8 @@ title: Current
   {% endfor %}
    
  </div> 
-
+ 
+[https://talk.jekyllrb.com/](https://talk.jekyllrb.com/)
 ![@nasa @whitehouse reddit https://www.reddit.com/r/nasa/](https://upload.wikimedia.org/wikipedia/hr/c/ca/Reddit_logo_2017.png)
 # CROSSPOSTFOR jpl.[nasa](https://www.reddit.com/r/nasa/).gov  @nasa-jpl
 @USnavy @boeing @deptofdefense
