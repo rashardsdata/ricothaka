@@ -16,7 +16,7 @@ title: Current
 
 
 # Compiling
-Quite Literally [Jekyll4.4](https://ricothakarashard.github.io/jekyll/), @nasa-jpl y is [Dr_Laurie](https://www.firstinspires.org/about/leadership/dr-laurie-leshin) [2023annual report](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf) on [CLOUDFRONT](https://aws.amazon.com/cloudfront/) `https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf` what happened to the lab? 
+Quite Literally [Jekyll4.4](https://ricothakarashard.github.io/jekyll/), @nasa-jpl y is [Dr_Laurie](https://www.firstinspires.org/about/leadership/dr-laurie-leshin) [2023annual report](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf) on [CLOUDFRONT](https://aws.amazon.com/cloudfront/) `https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf` what happened to the lab? [Hall thruster](https://www.jpl.nasa.gov/site/research/media/posters/2022/R22116p.pdf)
 ### @nasa-jpl 2023 Annual Report
 #### Director's Message
 Reflecting on 2023, this was a foundational year for JPL as we launched signature initiatives that will position the Lab to succeed and lead well into the future. [READMORE](https://www.jpl.nasa.gov/annual-report/) [DOWNLOADPDF](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
