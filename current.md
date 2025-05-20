@@ -17,6 +17,8 @@ title: Current
 
 # Compiling
 
+# _Mary J. Blige - Sincerity (feat. DMX & Nas)_ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0PhxOv_8D0?si=SPCZ8E79-hWNfuxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PortableLinks
 If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.io/liquid/) file is hosted on differing urls but have the same content,{% raw %}`{{ site.url }}{{ site.baseurl }}` {% endraw %} between quotes is a [JekyllVariable](https://jekyllrb.com/docs/variables/) theres so much that can be [defined](https://jekyllrb.com/docs/liquid/) during [Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/) that [LiquidMarkup](https://shopify.github.io/liquid/basics/introduction/) will give the url of your [CurrentRepo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example)
