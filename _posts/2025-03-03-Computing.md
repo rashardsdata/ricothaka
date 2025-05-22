@@ -154,7 +154,7 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 ![Artifacts_RetroArch_JPG](https://pbs.twimg.com/media/Gh7CW55aIAAdZA2?format=jpg&name=medium)
 [RelatedTweeT](https://x.com/RicoThaka/status/1882156673227501885)
 
-# /[rashardlearned](https://ricothaka.github.io/rashardlearned/2025/01/17/ComputerShiT.html)
+# /[rashardlearned](https://ricothakarashard.github.io/rashardlearned/2025/01/17/ComputerShiT.html)
 I dont know what im going to do with this repo, bc now i understand [Jekyll Theming](https://jekyllrb.com/docs/themes/) its way too much overhead to maintain using [LibraryResources](https://www.longbeach.gov/library) 
 
 
@@ -173,7 +173,7 @@ I dont know what im going to do with this repo, bc now i understand [Jekyll Them
 
 # Ed Tutorial on the dev site 
 
-[Discovering ed: the gnu editor](https://ricothaka.github.io/GNU-ed)
+[Discovering ed: the gnu editor](https://ricothakarashard.github.io/GNU-ed)
 ![gnu_ED on rikothaka.github.io](https://pbs.twimg.com/media/GlehG1bbwAEIUCA?format=jpg&name=large)
 
 <div class="tupperware">
@@ -305,9 +305,9 @@ q                          $                          ^_^]The character counts f
 
 <article>
 # Android as a Linux device
-<video controls src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" width="100%">
+<video controls src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4" poster="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" width="100%">
         Sorry, your browser doesn't support embedded videos, but don't worry, you can
-        <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
+        <a href="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
         and watch it with your favorite video player!
       </video>
 
@@ -316,7 +316,7 @@ q                          $                          ^_^]The character counts f
 
 # CloudMobile_c7
 ### The Durant_Library garbagepail find
-I got really comfortable coding and making github commits to the point i never felt offline. A guy was wierdly waiting for the power outlet at Grand Molina park in downtown los angeles, and i really think he put me to sleep and stole it. I completed an episode of Johnny Quest and left satisfied as my phone hit 100%. Judging by his air he know ppl from magic at the very least bc he had very little respect asking if both outlets were being used. I woke up it was gonr, my backpack was stolen today. Im so confused in so many directions bc since the body is made up of mostly water its a big old magnet! So the object you carry hold magnitism like your own. ITs not as bad as losing my daughter, but i get the displacement when her mother started having sex with other men. We had trouble walking, its like the ground was moving at times, When this phone got stolen I experianced those feelings again so I know me an my child had a good charge. I miss her so much. Imma leave some #MemorialTweets It was a good phone [ReadMore BLOGPost on /compiling](https://ricothaka.github.io/compiling/cloudMobile-Sratus-C7) 
+I got really comfortable coding and making github commits to the point i never felt offline. A guy was wierdly waiting for the power outlet at Grand Molina park in downtown los angeles, and i really think he put me to sleep and stole it. I completed an episode of Johnny Quest and left satisfied as my phone hit 100%. Judging by his air he know ppl from magic at the very least bc he had very little respect asking if both outlets were being used. I woke up it was gonr, my backpack was stolen today. Im so confused in so many directions bc since the body is made up of mostly water its a big old magnet! So the object you carry hold magnitism like your own. ITs not as bad as losing my daughter, but i get the displacement when her mother started having sex with other men. We had trouble walking, its like the ground was moving at times, When this phone got stolen I experianced those feelings again so I know me an my child had a good charge. I miss her so much. Imma leave some #MemorialTweets It was a good phone [ReadMore BLOGPost on /compiling](https://ricothakarashard.github.io/compiling/cloudMobile-Sratus-C7) 
 
 
 # [GreyHound 1999](https://www.facebook.com/CaptainOfJoy/photos)
@@ -374,7 +374,7 @@ Hi MRO, want you to have an update on what my computing situation has been since
 <div class="pinupImage expandingGallery">
 <img src="https://i.gifer.com/UiFO.gif" />
 <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/GYmk8QmasAEk6i2?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
@@ -402,18 +402,18 @@ There is such an abstraction when running the manufacure bundeld android. But it
 <div class="pinupGallery">
 <div class="expandingGallery"> 
 <img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/imageAndroid.jpg" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/normani.jpg" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/b71f46f6-0411-413d-a040-91272c2d1d761646827136492420232%20(3).jpg" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/a9b80235-cc27-4182-bb53-e06aa44028784995180549302988617.jpg" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/48ab025f-ae8b-46d6-b924-c34ff12226186239781980657984756.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/imageAndroid.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/normani.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/b71f46f6-0411-413d-a040-91272c2d1d761646827136492420232%20(3).jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/a9b80235-cc27-4182-bb53-e06aa44028784995180549302988617.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/48ab025f-ae8b-46d6-b924-c34ff12226186239781980657984756.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
 <img src="https://pbs.twimg.com/media/GBuuXERakAABNTx?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F5kTRrvacAA36ea?format=png&name=medium" />
 <img src="https://pbs.twimg.com/media/F9JWlldagAA7Tk_?format=jpg&name=medium" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
 </div>
 </div>
@@ -497,7 +497,7 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 
 ![RiCoTHAKA/LinuXKerneL](https://pbs.twimg.com/media/GjOh-70aQAMkraB?format=jpg&name=large)
 [LinuX KErnel Repo](https://x.com/thakasartu/status/1888030971414594018) [ricoThaka/linux/tree/master](https://github.com/ricoThaka/linux/tree/master)
-# [./HoleToAnotherUniverse/linux](https://ricothaka.github.io/linux/)
+# [./HoleToAnotherUniverse/linux](https://ricothakarashard.github.io/linux/)
 
 
 We will start with a dump.. and after put a subfolder into posts and populate with a loop pointed at the subfolder
