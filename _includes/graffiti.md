@@ -1,4 +1,6 @@
-
+# Video Im in Doing graff
+Daddy O - "Played Out" OFFICIAL MUSIC VIDEO @nasa-jpl @nasa @boeing @blackgirlscode @whitehouse @cityoflosangeles @stateofcalifornia
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=DivuCxebevJZtNX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [![Erika Blackbook Schetch i did in Tuson after we got married we were partners](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)
 
