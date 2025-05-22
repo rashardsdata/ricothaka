@@ -17,6 +17,24 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+### NASA’s Parker Solar Probe Discovers Natural Radio Emission in Venus’ Atmosphere
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona – the Sun’s upper atmosphere – in 2021,During a brief swing by Venus, NASA’s Parker Solar Probe detected a natural radio signal that revealed the spacecraft had flown through the planet’s upper atmosphere.
+![ParkerSolarProbe](https://science.nasa.gov/wp-content/uploads/2023/03/parker-solar-probe-logo-1024x1024-2304629351.png)
+
+<video controls preload="none" width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013847/13847_Parker_Venus.00100_print.jpg">
+
+<source src="https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013847/13847_Parker_Venus.mp4" type="video/mp4" />    
+<source src="https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013847/13847_Parker_Venus.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108517650797%2F&show_text=false&width=268&t=0" width="268" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 @stateofcalifornia @cityoflosangeles @whitehouse
 ### Corals Birthday
 <iframe src="https://www.facebook.com/plugins/video.php?height=316&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817758251719157%2F&show_text=true&width=560&t=0" width="560" height="431" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
