@@ -17,6 +17,17 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+
+### Today Friday 5/23.
+
+[MyLinuxPage]({{ site.url }}{{ site.baseurl }}/linux) an [MyBinder]({{ site.url }}{{ site.baseurl }}/mybinder)
+
+
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
 [AcmeMapper](https://mapper.acme.com/)
 ### NASA’s Parker Solar Probe Discovers Natural Radio Emission in Venus’ Atmosphere
 On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona – the Sun’s upper atmosphere – in 2021,During a brief swing by Venus, NASA’s Parker Solar Probe detected a natural radio signal that revealed the spacecraft had flown through the planet’s upper atmosphere.
