@@ -62,7 +62,7 @@ If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.
 {{ site.baseurl }}
 # Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
 I'm being stalked, these #hardScabs are on soft tissue, its a soft round
- [RelatedTweet](https://x.com/RicoThaka/status/1913382700611965159)
+ [RelatedTweet](https://x.com/ricothakarashard/status/1913382700611965159)
 <div class="tupperware">
 
 <a href="https://ia600705.us.archive.org/19/items/annie8/scab1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab1.png" alt="Ornithological Photography" /></a>
@@ -168,6 +168,6 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 
 <picture itemprop="image">
   <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
-  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
-  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+  <source srcset="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
 </picture>
