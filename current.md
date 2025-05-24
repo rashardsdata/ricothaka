@@ -19,6 +19,9 @@ title: Current
 # Compiling
 
 ### Today Sat 5/24.###
+<object data="https://dn721908.ca.archive.org/0/items/mega-man-2-nes-manual/Mega-Man-2-Game-Manual.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
 >NEXTSESH(iSH) [dockerfile.app/learn](https://www.dockerfile.app/learn#dockerfile/base-image)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/297250369&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/camploofficial" title="Camp Lo" target="_blank" style="color: #cccccc; text-decoration: none;">Camp Lo</a> · <a href="https://soundcloud.com/camploofficial/black-jesus" title="Black Jesus" target="_blank" style="color: #cccccc; text-decoration: none;">Black Jesus</a></div>
 
