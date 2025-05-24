@@ -18,7 +18,11 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
-### Today Friday 5/23.
+### Today Sat 5/24.###
+>NEXTSESH(iSH) [dockerfile.app/learn](https://www.dockerfile.app/learn#dockerfile/base-image)
+[NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
+@nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/784455875487203328/v2" data-did="1aadbb6d3e6972b81bc450b5e84b361bdb25ec0a"  ><a href="https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport">https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 [MyLinuxPage]({{ site.url }}{{ site.baseurl }}/linux) an [MyBinder]({{ site.url }}{{ site.baseurl }}/mybinder)
 
