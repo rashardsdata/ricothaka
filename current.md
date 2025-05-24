@@ -20,6 +20,8 @@ title: Current
 
 ### Today Sat 5/24.###
 >NEXTSESH(iSH) [dockerfile.app/learn](https://www.dockerfile.app/learn#dockerfile/base-image)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/297250369&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/camploofficial" title="Camp Lo" target="_blank" style="color: #cccccc; text-decoration: none;">Camp Lo</a> · <a href="https://soundcloud.com/camploofficial/black-jesus" title="Black Jesus" target="_blank" style="color: #cccccc; text-decoration: none;">Black Jesus</a></div>
+
 [NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
 @nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/784455875487203328/v2" data-did="1aadbb6d3e6972b81bc450b5e84b361bdb25ec0a"  ><a href="https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport">https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
