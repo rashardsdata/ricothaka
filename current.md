@@ -19,6 +19,9 @@ title: Current
 # Compiling
 
 ### Today Sat 5/24.###
+# [Mary J Blige](https://www.youtube.com/watch?v=WER5Q1ZoYms&themeRefresh=1)* – Strength Of A Woman: `U + Me` [DiSCOGS](https://www.discogs.com/master/1172926-Mary-J-Blige-Strength-Of-A-Woman)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
 ### Picturing Earth: Astronaut Photography In Focus
 [Astronaut Photography Interactive Map @nasa @whitehouse @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode](https://eol.jsc.nasa.gov/ExplorePhotos/) : : [Astronaut Pictures of Earth](https://storymaps.arcgis.com/stories/8dc1cafd3f4a4c70b9ce314d8c06f329) [DARKERSKY4CE](https://darkersky4ce.inaf.it/instrument-sheet-iss-astronaut-photography/)
 [CHANNEL @nasa @youtube.com/@NASAEarthObservatory](https://www.youtube.com/@NASAEarthObservatory)
