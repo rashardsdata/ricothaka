@@ -17,6 +17,9 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+### Surface Biology and Geology 2025 LP DAAC Workshop: Finding Coincident Airborne and Orbital Data
+[@nasa ViTALS #ECOSTRESS @nasa-jpl @usgs](https://nasa.github.io/VITALS/)
+![PODAAC](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUccFK-k1PTi5X5AxdGgvQRc2c5ud-mvTShYU6yB6BbeSU5mEMkr3gr5W9w-8AtJvd3JD9y4e0C8yOr9kGLVPJW81wl4Ha69G5L_5RjnRlfXFmQjfyuuur1jQH4oKPkFIvpDzmHnbNkWEmV1HEyDCUY=s2048?key=GCQrf0BnbF-shzgHwIC_Rw)
 ### Today Thur 5/29.###
 ![COBBLER](https://pbs.twimg.com/media/GsIim-DaUAAMWJI?format=jpg&name=large)
 [@cityoflosangeles cobbler tweet](https://x.com/BubbleGumPop510/status/1928142024714207292)
