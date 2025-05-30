@@ -17,6 +17,38 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+### Today Thur 5/29.###
+![COBBLER](https://pbs.twimg.com/media/GsIim-DaUAAMWJI?format=jpg&name=large)
+[@cityoflosangeles cobbler tweet](https://x.com/BubbleGumPop510/status/1928142024714207292)
+![ALPine @docker](https://pbs.twimg.com/media/GsIqwyyaUAIZebV?format=png&name=large)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/91ROtOtXRh">https://t.co/91ROtOtXRh</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> is <a href="https://twitter.com/hashtag/MULTiMiSSiON?src=hash&amp;ref_src=twsrc%5Etfw">#MULTiMiSSiON</a> right now! including <a href="https://twitter.com/Firefly_Space?ref_src=twsrc%5Etfw">@Firefly_Space</a> the ppl that introduced me to <a href="https://twitter.com/hashtag/Grafana?src=hash&amp;ref_src=twsrc%5Etfw">#Grafana</a> <a href="https://twitter.com/grafana?ref_src=twsrc%5Etfw">@grafana</a> i had <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> training <a href="https://twitter.com/RentPathNetwork?ref_src=twsrc%5Etfw">@RentPathNetwork</a> it was <a href="https://twitter.com/DockerCon?ref_src=twsrc%5Etfw">@DockerCon</a> <a href="https://twitter.com/hashtag/QUALiTY?src=hash&amp;ref_src=twsrc%5Etfw">#QUALiTY</a> <a href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">@Defcon</a> <a href="https://twitter.com/6Gems?ref_src=twsrc%5Etfw">@6Gems</a> <a href="https://t.co/z9GRk4tPGj">https://t.co/z9GRk4tPGj</a> imma let this one runout <a href="https://t.co/nSSz3sKTr5">pic.twitter.com/nSSz3sKTr5</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1928150451519660240?ref_src=twsrc%5Etfw">May 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### Today Sat 5/24.###
+# [Mary J Blige](https://www.youtube.com/watch?v=WER5Q1ZoYms&themeRefresh=1)* – Strength Of A Woman: `U + Me` [DiSCOGS](https://www.discogs.com/master/1172926-Mary-J-Blige-Strength-Of-A-Woman)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
+### Picturing Earth: Astronaut Photography In Focus
+[Astronaut Photography Interactive Map @nasa @whitehouse @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode](https://eol.jsc.nasa.gov/ExplorePhotos/) : : [Astronaut Pictures of Earth](https://storymaps.arcgis.com/stories/8dc1cafd3f4a4c70b9ce314d8c06f329) [DARKERSKY4CE](https://darkersky4ce.inaf.it/instrument-sheet-iss-astronaut-photography/)
+[CHANNEL @nasa @youtube.com/@NASAEarthObservatory](https://www.youtube.com/@NASAEarthObservatory)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TtdOVbWjXo?si=nX6btX_zXKOKkPO6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<object data="https://dn721908.ca.archive.org/0/items/mega-man-2-nes-manual/Mega-Man-2-Game-Manual.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[MEGAMANGAMES_EMU](https://www.megamangames.net/)
+>NEXTSESH(iSH) [dockerfile.app/learn](https://www.dockerfile.app/learn#dockerfile/base-image)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/297250369&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/camploofficial" title="Camp Lo" target="_blank" style="color: #cccccc; text-decoration: none;">Camp Lo</a> · <a href="https://soundcloud.com/camploofficial/black-jesus" title="Black Jesus" target="_blank" style="color: #cccccc; text-decoration: none;">Black Jesus</a></div>
+
+[NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
+@nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/784455875487203328/v2" data-did="1aadbb6d3e6972b81bc450b5e84b361bdb25ec0a"  ><a href="https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport">https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+[MyLinuxPage]({{ site.url }}{{ site.baseurl }}/linux) an [MyBinder]({{ site.url }}{{ site.baseurl }}/mybinder)
+
+
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
 [AcmeMapper](https://mapper.acme.com/)
 ### NASA’s Parker Solar Probe Discovers Natural Radio Emission in Venus’ Atmosphere
 On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona – the Sun’s upper atmosphere – in 2021,During a brief swing by Venus, NASA’s Parker Solar Probe detected a natural radio signal that revealed the spacecraft had flown through the planet’s upper atmosphere.
