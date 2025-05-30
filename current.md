@@ -17,6 +17,61 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+# NASA EMIT Instrument Maps Global Airborne Mineral Dust
+### press release [link](https://www.psi.edu/blog/project/earth-surface-mineral-dust-source-investigation-emit/) [ArticleSource](https://www.psi.edu/blog/nasa-emit-instrument-maps-global-airborne-mineral-dust/)
+![emit @nasa](https://www.psi.edu/wp-content/uploads/UPPER-emit-tetracorder-lake-mead-v1-1-copy-2.jpg)
+>This EMIT scene shows Lake Mead in Arizona-Nevada, United States. A) Tetracorder analysis for ferric and ferrous iron bearing minerals. Hematite (iron rust) and goethite (iron oxyhydroxide) are the two main minerals when abundant in dust can result in warming the atmosphere, and the Tetracorder analysis also derives the particle sizes from space. Hematite and goethite are two of the 10 minerals of concern for climate modelers, B) Visible color. C) Tetracorder analysis for the other eight EMIT minerals of concern. Note the intricate complexity of the mineral distributions in both panels A and B.
+Credit: Roger Clark/PSI/EMIT Team/JPL/NASA.
+
+December 11, 2023, Tucson, Ariz. – NASA’S EMIT mission, placed on the International Space Station to learn how dust storms on Earth warm or cool the planet, has created the first complete maps of the world’s dust source regions, providing precise locations of 10 key minerals based on how they reflect and absorb light.
+
+EMIT – short for Earth Surface Mineral Dust Source Investigation – is a powerful imaging spectrometer developed by NASA’s Jet Propulsion Laboratory in Southern California in response to the need for more detailed surface mineral composition information. Planetary Science Institute Senior Scientist Roger Clark, a co-investigator on the mission, led the development of the software called Tetracorder that identifies and maps the key minerals.
+
+“Aside from the 10 key minerals that are part of its primary mission, EMIT data are used to identify an encyclopedic range of substances at or near Earth’s surface,” Clark said. “Rather than ‘mineralogy,’ let’s just call it chemistry – wherever we need chemistry to understand something on the surface, we can do that with imaging spectroscopy. Now, with EMIT, we’re going to see the big picture, and that’s certainly going to open some eyes.”
+
+Tetracorder identifies and maps hundreds of minerals, types of vegetation, snow and ice, and other chemicals, including human-made materials. The identified components in each EMIT scene are made available to the public.
+
+During its 17 months in orbit, the mission has also demonstrated a range of other capabilities, including detecting plumes of methane and carbon dioxide being emitted by landfills, oil facilities, and other infrastructure.
+
+To date, EMIT has captured more than 50,000 “scenes” – 50-by-50-mile (80-by-80-kilometer) images of the Earth’s surface – in its study area, which covers arid regions within a 6,900-mile-wide (11,000-kilometer-wide) belt around Earth’s midsection. Taken together, the scenes include millions of measurements to create detailed maps of surface composition.
+
+Scientists have long suspected airborne mineral dust affects the climate. They know that darker, iron oxide-rich substances absorb the Sun’s heat and warms the surrounding air, while non-iron-based, whiter substances reflect light and heat, cooling the air. Whether those effects have a net warming or cooling impact, however, has remained uncertain.
+
+Researchers have an idea of how dust travels through the atmosphere, but the missing piece has been the composition – the color, essentially – of the surface in the places dust typically originates, which until now was derived from fewer than 5,000 sampling sites around the world.
+
+EMIT’s maps of dust-source regions offer much more detail. For example, in Somalia and Ethiopia on the Horn of Africa, there’s a strong abundance of the reddish-brown iron oxide hematite, and across the Arabian Peninsula, there’s a swath of goethite, a yellowish-brown iron oxyhydroxide. The maps also register a significant swath of kaolinite, a white silicate clay, in central Algeria in the Sahara.
+
+Beyond harnessing EMIT data to improve Earth climate modeling, scientists can use the information to study dust’s impact on the ecosystems where it lands. There’s strong evidence that particles settling in the ocean can spur phytoplankton blooms, which can have implications for aquatic ecosystems and the planets carbon cycle, and that dust originating in the Andes of South America, as well as parts of northern and sub-Saharan Africa, provides nutrients for rainforest growth in the Amazon basin.
+
+Aside from the 10 key minerals that are part of its primary mission, EMIT data are used to identify an encyclopedic range of substances at or near Earth’s surface, including types of vegetation, snow and ice, and even human-made surfaces, on a much broader geographic scale than previously possible.
+
+“We’ve had imaging spectrometers flying around the Moon and other planets, mapping the mineralogy on those bodies with great discoveries. But EMIT is the first imaging spectrometer to image large parts of the Earth – and the coverage is still growing –  comparable to what we’ve done in other parts of the Solar System. While we’ve known of the many minerals on the surface of the Earth, we can now put it into perspective with other planets,” Clark said. “EMIT is showing us the incredible diversity and complexity of minerals on the Earth that no other planet comes close to. EMIT also shows us the incredible diversity of life.”
+
+Clark’s work on the EMIT project was funded by awards to PSI from NASA’s EMIT mission, JPL Subcontract No.1616046. Tetracorder development is funded by awards to PSI from the EMIT project, NASA’s TREX node of the Solar System Exploration Research Virtual Institute 2016 (NNH16ZDA001N), NSF grant AST-1819209, and a contract from Centro Nacional de Supercomputación (Spain).
+
+MEDIA CONTACT:
+Alan Fischer
+Public Information Officer
+520-382-0411
+fischer@psi.edu
+
+SCIENCE CONTACT:
+Roger Clark
+Senior Scientist
+rclark@psi.edu
+
+PSI INFORMATION
+Mark V. Sykes
+Director
+520-622-6300
+sykes@psi.edu
+
+PSI HOMEPAGE
+
+![EMit](https://www.psi.edu/wp-content/uploads/emit-logo-small1.png)
+[EMiT](https://earth.jpl.nasa.gov/emit/): [USERGUiDE](https://lpdaac.usgs.gov/documents/1568/EMITL1BRAD_User_Guide_v1.pdf)
+ [EMIT-Data-Resources repository @nasa-jpl](https://github.com/nasa/EMIT-Data-Resources) <~ _iforkedit!_ @blackgirlscode 
+
 ### Surface Biology and Geology 2025 LP DAAC Workshop: Finding Coincident Airborne and Orbital Data
 [@nasa ViTALS #ECOSTRESS @nasa-jpl @usgs](https://nasa.github.io/VITALS/)
 ![PODAAC](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUccFK-k1PTi5X5AxdGgvQRc2c5ud-mvTShYU6yB6BbeSU5mEMkr3gr5W9w-8AtJvd3JD9y4e0C8yOr9kGLVPJW81wl4Ha69G5L_5RjnRlfXFmQjfyuuur1jQH4oKPkFIvpDzmHnbNkWEmV1HEyDCUY=s2048?key=GCQrf0BnbF-shzgHwIC_Rw)
