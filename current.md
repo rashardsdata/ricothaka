@@ -17,6 +17,15 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+### CONSTITUTION OF THE STATE OF CALIFORNIA ([1849](https://digitalcommons.csumb.edu/hornbeck_usa_3_d/108/))
+Sec. 1 – All men are by nature free and independent, and have certain inalienable rights, among which are those of enjoying and defending life and liberty, ...
+[DOWNLOAD PDF 1849 CALiFORNiA CONSTiTUTiON](https://www.dircost.unito.it/cs/pdf/18490000_UsaCalifornia_eng.pdf)
+The original Constitution for California was adopted at the California Constitutional Convention on October 10, 1849, and ratified on November 13, 1849. The United States Congress in 1848 failed to set up any government for California either territorial or state, and adjourning early in 1849 without taking any action. - [@csumb 1849 - California Constitution](https://digitalcommons.csumb.edu/hornbeck_usa_3_d/108/)
+### Records of the Constitutional Convention of 1849 
+[Records of the Constitutional Convention of 1849 ](https://archives.cdn.sos.ca.gov/pdf/1849-california-constitution-for-website-9-16-20.pdf) [SPANiSH](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+@nasa @whitehouse @stateofcalifornia @cityoflosangeles 
+[The Constitution of 1849](https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Introduction_to_California_Government_and_Politics_(Reti)/02%3A_California_Constitutional_Development/2.02%3A_The_Constitution_of_1849) It was 1849. The Mexican War has ended, and American troops occupied California. Most people believed that the state would join the United States. The military governed California as temporary administrators using existing California laws originating from Mexico. General Bennett Riley, the military governor, called for a constitutional convention to meet in Monterey on September 1 [READMORE](https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Introduction_to_California_Government_and_Politics_(Reti)/02%3A_California_Constitutional_Development/2.02%3A_The_Constitution_of_1849)
+
 # NASA EMIT Instrument Maps Global Airborne Mineral Dust
 ### press release [link](https://www.psi.edu/blog/project/earth-surface-mineral-dust-source-investigation-emit/) [ArticleSource](https://www.psi.edu/blog/nasa-emit-instrument-maps-global-airborne-mineral-dust/)
 ![emit @nasa](https://www.psi.edu/wp-content/uploads/UPPER-emit-tetracorder-lake-mead-v1-1-copy-2.jpg)
