@@ -17,6 +17,11 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+
+### #HELP!!!!!!!!!!!! 
+# im being forced to remove a tweet!!!!!!!!! -#RASHARD i have no phone or reliable contact other than EMAIL
+<iframe src="https://archive.org/embed/article_1_declaration_of_rights_section_1__sec_2_californiaconstitution" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ### CONSTITUTION OF THE STATE OF CALIFORNIA ([1849](https://digitalcommons.csumb.edu/hornbeck_usa_3_d/108/))
 Sec. 1 – All men are by nature free and independent, and have certain inalienable rights, among which are those of enjoying and defending life and liberty, ...
 [DOWNLOAD PDF 1849 CALiFORNiA CONSTiTUTiON](https://www.dircost.unito.it/cs/pdf/18490000_UsaCalifornia_eng.pdf)
