@@ -18,6 +18,20 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+<div class="tupperware">
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0uDyE5dBBF3YAaGmnCRDABGgtpkNG3KpgpFgXvBRZnCU7ZjEibvpbEhRjsMCBh1JNl%26id%3D100084464911565&show_text=true&width=500" width="500" height="1162" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028CD5QN9i1hZX3U7WqSv7jcnaq25a3bpEBcjPKjn8835aXtcH6gkP4x5rXNGdj8jSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="610" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0J8wyTsogAdypoKLijJrtrbm6DbnffRr4x2CsQSGErS9anhVVBg1CNRhZX2Qi1bwYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="901" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108540984128%2F&show_text=true&width=269&t=0" width="269" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+</div>
+
+
+
 ### #HELP!!!!!!!!!!!! 
 # im being forced to remove a tweet!!!!!!!!! -#RASHARD i have no phone or reliable contact other than EMAIL
 <iframe src="https://archive.org/embed/article_1_declaration_of_rights_section_1__sec_2_californiaconstitution" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
