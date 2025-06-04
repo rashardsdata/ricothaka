@@ -14,6 +14,52 @@ title: Current
    
  </div> 
 
+
+<iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A?si=pUvP__3sFDBA6Ue3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+@cityoflosangeles @stateofcalifornia @nasa @nasa-jpl @whitehouse 
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108517650797%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+[LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
+
+<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
+
+[PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uQnXvRndcE?si=S4vSOQ0ABfUDxQh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@USnavy @boeing @deptofdefense
+## who can help this user ? [https://www.reddit.com/r/nasa/comments/1kkntff/accidentally_posted_under_the_wrong_account_can/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/nasa/comments/1kkntff/accidentally_posted_under_the_wrong_account_can/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[x.com/nasaHistory](x.com/nasaHistory) - [#rashardlanasa.github.io](https://rashardlanasa.github.io/)
+
+
+<iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+## Logcat
+### command-line tool
+[Logcat](https://developer.android.com/tools/logcat) is a command-line tool that dumps a log of system messages including messages that you have written from your app with the Log class. [View logs with Logcat](https://developer.android.com/studio/debug/logcat) The Logcat window in Android Studio helps you debug your app by displaying logs from your device in real time [Using adb logcat with a real phone (and not the emulator) STACKOVERFLOW:USER:`user:425749`](https://stackoverflow.com/questions/3707880/using-adb-logcat-with-a-real-phone-and-not-the-emulator)
+
+
+# NAMCO SYSTEM 22
+### CPU : Motorola 68EC020 32-bit @ 24.576 MH
+
+
+<iframe src="https://archive.org/embed/arcade_raveracw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![system22](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1024px-Sys22_point_rom_pcb_01.jpg)
+
+![namcoSystem21](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Namco_System_21_Polygonizer_logo.svg/1024px-Namco_System_21_Polygonizer_logo.svg.png)
+>By Namco Ltd. - Namco Ltd., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=88836027">Link</a>
+[SYSTEM16](https://www.system16.com/hardware.php?id=537)
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [ソウルキャリバー Sōrukyaribā World, SOC14/VER.C](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
+>
  [ Flexibility](https://www.w3.org/TR/css-flexbox-1/#flexibility)
  download 5-7
 ![Box](https://www.w3.org/TR/css-flexbox-1/images/flex-order-page.svg)
