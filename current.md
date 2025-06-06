@@ -17,8 +17,8 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
-
-
+[Fire Marshall Bill In Space](https://youtu.be/BU7861MufFs?si=ZdpmPKIsr0idXTF1) [Nasa Mars $112k is what Jose Paid me](https://youtu.be/V6wtj04dJ_g?si=Bvgym0T5sRJ0istr)
+@blackgirlscode [Time Machine - "Mind In A Spin"](https://www.youtube.com/watch?v=0qpn1S4ex8I) [./HoleToAnotherUniverse/linux](https://ricothakarashard.github.io/linux/)
 ![ironlak](https://ia600706.us.archive.org/18/items/canscann-29/canscann-09.png)
 
 <div class="tupperware">
