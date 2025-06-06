@@ -21,8 +21,12 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/fa6a8d37-5700-4e9a-8ec6-f4bc9f2266a6)
 <iframe src="https://archive.org/embed/CaliforniaLinuxHostingRHEL9viaBROWSER_BUildingAPACHE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/interestingasfuck/comments/1l4xh0s/homes_are_falling_into_the_ocean_in_north/">Homes are falling into the ocean in North Carolina's Outer Banks</a><br> by<a href="https://www.reddit.com/user/Endolithic/">u/Endolithic</a> in<a href="https://www.reddit.com/r/interestingasfuck/">interestingasfuck</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
 ## [binder](https://ricothakarashard.github.io/mybinder/)
 <a href="https://ricothakarashard.github.io/mybinder/" ><img src="https://github.com/user-attachments/assets/05a1ff21-c9aa-4b80-a2ee-aa97643627ff" /> </a>
+
 
 
 [Difference between mail,mailx,sendmail](https://community.unix.com/t/difference-between-mail-mailx-sendmail/229025)
