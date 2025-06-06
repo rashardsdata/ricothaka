@@ -17,6 +17,14 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+### California Linux Hosting RHEL 9via BROWSER BUilding APACHE
+
+![image](https://github.com/user-attachments/assets/fa6a8d37-5700-4e9a-8ec6-f4bc9f2266a6)
+<iframe src="https://archive.org/embed/CaliforniaLinuxHostingRHEL9viaBROWSER_BUildingAPACHE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+## [binder](https://ricothakarashard.github.io/mybinder/)
+<a href="https://ricothakarashard.github.io/mybinder/" ><img src="https://github.com/user-attachments/assets/05a1ff21-c9aa-4b80-a2ee-aa97643627ff" /> </a>
+
+
 [Difference between mail,mailx,sendmail](https://community.unix.com/t/difference-between-mail-mailx-sendmail/229025)
 [What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) [Send Email in Linux from Command Line - DigitalOcean](https://www.digitalocean.com/community/tutorials/send-email-linux-command-line) [@nasa @nasa-jpl @whitehouse @dhs-gov National Aeronautics and RELEASE DATE: 11-04-2020 Space AdministrationEMAIL SERVICES](https://nodis3.gsfc.nasa.gov/OPD_docs/NAII_2810_2_.pdf)
 
