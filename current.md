@@ -17,8 +17,9 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+[Difference between mail,mailx,sendmail](https://community.unix.com/t/difference-between-mail-mailx-sendmail/229025)
+[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) [Send Email in Linux from Command Line - DigitalOcean](https://www.digitalocean.com/community/tutorials/send-email-linux-command-line)
 
-[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) 
 `LinuxQuestions.org > Forums > Linux Forums > Linux - Software`
 ### Reload this Page Error: cannot remove "libtoolT"
 [discussion](https://www.linuxquestions.org/questions/linux-software-2/error-cannot-remove-libtoolt-941927/)
