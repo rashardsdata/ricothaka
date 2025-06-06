@@ -21,6 +21,7 @@ title: Current
 [What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) 
 `LinuxQuestions.org > Forums > Linux Forums > Linux - Software`
 ### Reload this Page Error: cannot remove "libtoolT"
+[discussion](https://www.linuxquestions.org/questions/linux-software-2/error-cannot-remove-libtoolt-941927/)
 ![image](https://github.com/user-attachments/assets/2f8f0dcd-9b6c-4a29-aba6-8dcde89e73c8)
 ![image](https://github.com/user-attachments/assets/2f7fadcc-1dfc-4ee4-8f76-d1a10c61985b)
 
