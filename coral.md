@@ -1,5 +1,9 @@
 # Dear_Coral
 # Street Fighter Alpha - Warriors' Dreams (USA)
+### Reception
+In Japan, Game Machine listed Street Fighter Zero on their August 1, 1995 issue as being the second most-successful arcade game of the month.[23] It went on to be the second highest-grossing arcade game of 1995 in Japan, below Virtua Fighter 2.[24] In North America, RePlay reported Street Fighter Alpha was the most-popular arcade game in August 1995.[25] [wiki](https://en.wikipedia.org/wiki/Street_Fighter_Alpha)
+![image](https://github.com/user-attachments/assets/224930b0-2ec3-4633-b996-707a77b21838)
+
 <iframe src="https://archive.org/embed/psx_sfa" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Dear_Coral
