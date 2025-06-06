@@ -18,7 +18,7 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 [Difference between mail,mailx,sendmail](https://community.unix.com/t/difference-between-mail-mailx-sendmail/229025)
-[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) [Send Email in Linux from Command Line - DigitalOcean](https://www.digitalocean.com/community/tutorials/send-email-linux-command-line)
+[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) [Send Email in Linux from Command Line - DigitalOcean](https://www.digitalocean.com/community/tutorials/send-email-linux-command-line) [@nasa @nasa-jpl @whitehouse @dhs-gov National Aeronautics and RELEASE DATE: 11-04-2020 Space AdministrationEMAIL SERVICES](https://nodis3.gsfc.nasa.gov/OPD_docs/NAII_2810_2_.pdf)
 
 `LinuxQuestions.org > Forums > Linux Forums > Linux - Software`
 ### Reload this Page Error: cannot remove "libtoolT"
