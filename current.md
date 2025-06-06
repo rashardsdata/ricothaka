@@ -17,6 +17,13 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+
+[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) 
+`LinuxQuestions.org > Forums > Linux Forums > Linux - Software`
+### Reload this Page Error: cannot remove "libtoolT"
+![image](https://github.com/user-attachments/assets/2f8f0dcd-9b6c-4a29-aba6-8dcde89e73c8)
+![image](https://github.com/user-attachments/assets/2f7fadcc-1dfc-4ee4-8f76-d1a10c61985b)
+
 [Fire Marshall Bill In Space](https://youtu.be/BU7861MufFs?si=ZdpmPKIsr0idXTF1) [Nasa Mars $112k is what Jose Paid me](https://youtu.be/V6wtj04dJ_g?si=Bvgym0T5sRJ0istr)
 @blackgirlscode [Time Machine - "Mind In A Spin"](https://www.youtube.com/watch?v=0qpn1S4ex8I) [./HoleToAnotherUniverse/linux](https://ricothakarashard.github.io/linux/)
 ![ironlak](https://ia600706.us.archive.org/18/items/canscann-29/canscann-09.png)
