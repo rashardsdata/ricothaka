@@ -1,4 +1,7 @@
 # Dear_Coral
+I was in union station earlier passing through. The librarys have been really contaminated lately, i get shocked a lot by ppl rigging traps and i got sores from ppl putting something on my skin that hurts... its hurting now!!!!!!!!!! @nasa-jpl i dont want to lose this try this [JupyterNotebook](https://hub.gesis.mybinder.org/user/dhs-gov-tech_scout-o3smbdgm/lab) i found in [@dhs-gov/tech_scout](https://github.com/dhs-gov/tech_scout) @blackgirlscode `python tech_scout.py` @nasa @stateofcalifornia @cityoflosangeles 
+![image](https://github.com/user-attachments/assets/d0de44e0-237e-4bc3-a3eb-dc1ad4b0d9a6)
+
 # Street Fighter Alpha - Warriors' Dreams (USA)
 ### Reception
 In Japan, Game Machine listed Street Fighter Zero on their August 1, 1995 issue as being the second most-successful arcade game of the month.[23] It went on to be the second highest-grossing arcade game of 1995 in Japan, below Virtua Fighter 2.[24] In North America, RePlay reported Street Fighter Alpha was the most-popular arcade game in August 1995.[25] [wiki](https://en.wikipedia.org/wiki/Street_Fighter_Alpha)
