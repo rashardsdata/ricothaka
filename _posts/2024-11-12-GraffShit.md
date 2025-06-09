@@ -17,12 +17,13 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 <iframe src="https://archive.org/embed/nas-the-lost-tapes-2" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=0D4cjgEQcFrg46DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[12ozProphet Forum: Forum List](https://forum.12ozprophet.com/)
+[12ozProphet Forum: Forum List](https://forum.12ozprophet.com/) [MOREGRAFFiTiFLiCKSHERE_click](https://ricothakarashard.github.io/GraffShit)
 ![image](https://github.com/user-attachments/assets/5a9200e0-d24e-48d4-a45e-7938578dedb7)
 ![image](https://github.com/user-attachments/assets/896b20f3-bbba-4400-a9c4-85aff4a42105)
 ![image](https://github.com/user-attachments/assets/b8c4d634-a101-494a-ae8c-d70652f20125)
 
 <div class="tupperware" markdown="1">
+  
 ![image](https://github.com/user-attachments/assets/efd36614-8350-4199-b20a-2d89fac32a43)
 ![image](https://github.com/user-attachments/assets/21680a50-141c-4d07-94f3-579e77ef12e3)
 
