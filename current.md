@@ -19,6 +19,38 @@ title: Current
 # Compiling
 
 
+### Dekae FA, Inkheads - Miami, March 2023
+The Free Agents (FA) Crew was Established in 1985 somewhere between Washington DC, and Miami by Glove (aka Lucky Seven/ Beer). [ReadMore - Crew History](https://freeagentscrew.com/crew-history/) 
+[Dekay1](https://freeagentscrew.com/dk/) 
+[HandSelecta](https://www.youtube.com/@handselecta) [MOREGRAFFiTiFLiCKSHERE_click](https://ricothakarashard.github.io/GraffShit)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=yt9OXbAafnD1ytir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![image](https://github.com/user-attachments/assets/3619d12a-46fd-4cd5-88ac-2d4c718c7605)
+![image](https://github.com/user-attachments/assets/05f60caa-008a-44f2-8296-0bfbfd2a2f8d)
+
+### California Linux Hosting RHEL 9via BROWSER BUilding APACHE
+
+![image](https://github.com/user-attachments/assets/fa6a8d37-5700-4e9a-8ec6-f4bc9f2266a6)
+<iframe src="https://archive.org/embed/CaliforniaLinuxHostingRHEL9viaBROWSER_BUildingAPACHE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/interestingasfuck/comments/1l4xh0s/homes_are_falling_into_the_ocean_in_north/">Homes are falling into the ocean in North Carolina's Outer Banks</a><br> by<a href="https://www.reddit.com/user/Endolithic/">u/Endolithic</a> in<a href="https://www.reddit.com/r/interestingasfuck/">interestingasfuck</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+## [binder](https://ricothakarashard.github.io/mybinder/)
+<a href="https://ricothakarashard.github.io/mybinder/" ><img src="https://github.com/user-attachments/assets/05a1ff21-c9aa-4b80-a2ee-aa97643627ff" /> </a>
+
+
+
+[Difference between mail,mailx,sendmail](https://community.unix.com/t/difference-between-mail-mailx-sendmail/229025)
+[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) [Send Email in Linux from Command Line - DigitalOcean](https://www.digitalocean.com/community/tutorials/send-email-linux-command-line) [@nasa @nasa-jpl @whitehouse @dhs-gov National Aeronautics and RELEASE DATE: 11-04-2020 Space AdministrationEMAIL SERVICES](https://nodis3.gsfc.nasa.gov/OPD_docs/NAII_2810_2_.pdf)
+
+`LinuxQuestions.org > Forums > Linux Forums > Linux - Software`
+### Reload this Page Error: cannot remove "libtoolT"
+[discussion](https://www.linuxquestions.org/questions/linux-software-2/error-cannot-remove-libtoolt-941927/)
+![image](https://github.com/user-attachments/assets/2f8f0dcd-9b6c-4a29-aba6-8dcde89e73c8)
+![image](https://github.com/user-attachments/assets/2f7fadcc-1dfc-4ee4-8f76-d1a10c61985b)
+
+[Fire Marshall Bill In Space](https://youtu.be/BU7861MufFs?si=ZdpmPKIsr0idXTF1) [Nasa Mars $112k is what Jose Paid me](https://youtu.be/V6wtj04dJ_g?si=Bvgym0T5sRJ0istr)
+@blackgirlscode [Time Machine - "Mind In A Spin"](https://www.youtube.com/watch?v=0qpn1S4ex8I) [./HoleToAnotherUniverse/linux](https://ricothakarashard.github.io/linux/)
 ![ironlak](https://ia600706.us.archive.org/18/items/canscann-29/canscann-09.png)
 
 <div class="tupperware">
