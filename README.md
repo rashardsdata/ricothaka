@@ -1,4 +1,6 @@
 # RiCOTHAKARASHARD = RAshardKElly[Thaka] 
+<img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
+![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 Thaka is my given name, Rashard is my Government name, i only trust my governemt name... My preffered name is Rashard. My friend name me thaka before she died. its time for it to rest... i am rashard [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 # Rashard iMan(Thaka) Kelly NasaJpl MRO JUNO iSS
