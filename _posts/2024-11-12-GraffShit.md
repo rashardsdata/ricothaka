@@ -12,7 +12,7 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
-# Welcome to the Bronx | NYC Hood Vlogs
+# Welcome to the Bronx : [NYC Hood Vlogs](https://www.youtube.com/@HoodVlogs)
 Spending a day with [Charliee](https://www.instagram.com/charlieecole/?hl=en) Cole in the Bronx, New York City 
 [YOUTUBE:Charliee Cole @CharlieeColeMusic - `legend`](https://www.youtube.com/c/CharlieeColeMusic)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aC_xUrWkysE?si=j94kB8nkWJATeIDK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
