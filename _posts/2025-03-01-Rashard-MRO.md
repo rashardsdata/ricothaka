@@ -7,6 +7,28 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
 
+# ABC News Live Reports
+![ContinentalBreakFast @nasa-jpl @stateofCalifornia](https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg)
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+
+[PLANET_MARS_FROM_MRO-ESP_060346_1340_ESP_086800_1340- 07-Feb-2025 19:00](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_060300_060399/ESP_060346_1340_ESP_086800_1340/ESP_060346_1340_ESP_086800_1340_RED.browse.png)
+07-Feb-2025 19:00
+# Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
+@VeronicaMcG #GM I want you to know my tooth broke, there some crackers thats contaminated, the silver haired cook gave me some crackers in some #BrownBagSacks @WeingartCenter @SalvationArmyUs  #Hollywood @HollywoodFoodCo
+ its not hurting but iNeed #OccHealth i never had a broken tooth and my matriarchiy told me brushing with floride would rot the teeth out and i need direction, bc they are right, they have been prostituted so long they know a lot of things i could not cram in with the [BurningManSpaceCowboys](https://www.youtube.com/playlist?list=PLIO75rGU-6ps-AT3HT3LceIK64XX9u1cR&themeRefresh=1)
+[Reporting My BrokenTooth](https://x.com/RicoThaka/status/1916908503857565864) [ipTv-org: https://iptv-org.github.io/](https://iptv-org.github.io/)
+
+[#LateForWork](https://x.com/RicoThaka/status/1916632995823522189) its a playlist that ppl have been trying to control my access to the internet over. Many of the Streaming Media companies get a lot of Social points for doing hiphop playlists for bars and pubs nation wide, someone with a reason started hurting me and killing my accounts, thats y Normani went out withme, it just got intimate... She was going through the same thing... 
+### DWTS' Normani Kordei of Fifth Harmony on dealing with horrific cyberbullying: 'I can't carry hate in my heart'
+The member of Fifth Harmony took a hiatus from social media because of bullies. [ABCnews](https://abcnews.go.com/Entertainment/dwts-normani-kordei-harmony-dealing-horrific-cyberbullying-carry/story?id=47427362) [NORMANi-FANDOM](https://dancingwiththestars.fandom.com/wiki/Normani_Kordei) [How I got my NAsa Badge](https://x.com/RicoThaka/status/1916955327117099429) [CleaningUpGoogleAuth](https://x.com/RicoThaka/status/1916947697602596891)
+[MyTRELLO @trello Rashard_Iman_Kelly_NASAJPL_iSS_JUNO_MRO](https://trello.com/b/FWO7m3St/rashardmro)
+![MyTRELLO @trello](https://pbs.twimg.com/media/Gpo6HbDbEAMMt8E?format=jpg&name=large)
+
+
+[https://en.wikipedia.org/wiki/Downey,_California](https://en.wikipedia.org/wiki/Downey,_California)
+## Downey, California
+Downey is a city located in Southeast Los Angeles County, California, United States, 13 mi (21 km) southeast of Downtown Los Angeles. It is considered part of the Gateway Cities. The city is the birthplace of the Apollo space program and Taco Bell. It is also the home of the oldest operating McDonald's restaurant in the world. As of the 2020 census, the city had a total population of 114,355.[WiKi](https://en.wikipedia.org/wiki/Downey,_California)
+![DOWNEY_CA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vultee_Vengeance_production_at_Downey_CA.jpg/1024px-Vultee_Vengeance_production_at_Downey_CA.jpg)
 # Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
 I'm being stalked, these #hardScabs are on soft tissue, its a soft round
  [RelatedTweet](https://x.com/RicoThaka/status/1913382700611965159)

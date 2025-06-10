@@ -1,4 +1,20 @@
+# Dear_Coral
+I was in union station earlier passing through. The librarys have been really contaminated lately, i get shocked a lot by ppl rigging traps and i got sores from ppl putting something on my skin that hurts... its hurting now!!!!!!!!!! @nasa-jpl i dont want to lose this try this [JupyterNotebook](https://hub.gesis.mybinder.org/user/dhs-gov-tech_scout-o3smbdgm/lab) i found in [@dhs-gov/tech_scout](https://github.com/dhs-gov/tech_scout) @blackgirlscode `python tech_scout.py` @nasa @stateofcalifornia @cityoflosangeles 
+![image](https://github.com/user-attachments/assets/d0de44e0-237e-4bc3-a3eb-dc1ad4b0d9a6)
 
+# Street Fighter Alpha - Warriors' Dreams (USA)
+### Reception
+In Japan, Game Machine listed Street Fighter Zero on their August 1, 1995 issue as being the second most-successful arcade game of the month.[23] It went on to be the second highest-grossing arcade game of 1995 in Japan, below Virtua Fighter 2.[24] In North America, RePlay reported Street Fighter Alpha was the most-popular arcade game in August 1995.[25] [wiki](https://en.wikipedia.org/wiki/Street_Fighter_Alpha)
+![image](https://github.com/user-attachments/assets/224930b0-2ec3-4633-b996-707a77b21838)
+
+<iframe src="https://archive.org/embed/psx_sfa" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Dear_Coral
+i lost a tooth - [dad](https://thakarashard.github.io/rashardmro/) [![Twitter Follow](https://img.shields.io/badge/Social-BOEAPS__-blue?style=social&logo=X)](https://twitter.com/BOEAPS) [![Twitter Follow](https://img.shields.io/badge/Social-GADFCS__-blue?style=social&logo=X)](https://twitter.com/GADFCS) [![Twitter Follow](https://img.shields.io/badge/Social-GADHS__-blue?style=social&logo=X)](https://twitter.com/GADHS)  [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) [![Twitter Follow](https://img.shields.io/badge/Social-Essence__-blue?style=social&logo=X)](https://twitter.com/Essence) [![Twitter Follow](https://img.shields.io/badge/Social-wangawoman__-blue?style=social&logo=X)](https://twitter.com/wangawoman) 
+[Garou: Mark Of The Wolves Official Guidebook](https://archive.org/details/garou-mark-of-the-wolves-ascii-mook_202205/Garou%20Mark%20of%20the%20Wolves%20ASCII%20Mook/page/n3/mode/2up) [Garou - Mark of the Wolves (NGM-2530)](https://archive.org/details/arcade_garou)
+<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ 
 <div class="tupperware">
 {% for post in site.posts %}
   {% if post.categories contains 'coral' %}

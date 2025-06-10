@@ -1,20 +1,22 @@
-# RiCOTHAKA = Thakas HomePAge
+# RiCOTHAKARASHARD = RAshardKElly[Thaka] 
+<img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
+![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 Thaka is my given name, Rashard is my Government name, i only trust my governemt name... My preffered name is Rashard. My friend name me thaka before she died. its time for it to rest... i am rashard [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 # Rashard iMan(Thaka) Kelly NasaJpl MRO JUNO iSS
-
+![RASHARD](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/rashard_iman_kelly_NASAJPL_TAKLENBY_JOSE_m_Pi.jpg)
 https://en.wikipedia.org/wiki/Pioneer_Venus_Orbiter
 
 
 [ReRunJob](https://github.com/ThakaRashard/RashardFloat/actions/runs/13463057759/job/37622659995) @blackgirlscode its a good float example see [KarenBass](https://thepeoplesvoice.tv/la-mayor-karen-bass-trained-in-terror-tactics-and-bomb-making-alongside-domestic-terrorists-in-cuba/) photo on [this post](https://thakarashard.github.io/rashardmro/2024/12/04/Presidential.html)
 
-![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+![Thumbnail of Rashard](![RASHARD](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/rashard_iman_kelly_NASAJPL_TAKLENBY_JOSE_m_Pi.jpg))
 ![ECOSTRESS](https://pbs.twimg.com/media/GY5293NaQAAn_vO?format=png&name=4096x4096)
-![WifeyNormaniPretty](https://pbs.twimg.com/media/GY6BllZbAAAr0wb?format=jpg&name=large)
-![Normani Trophy](https://pbs.twimg.com/media/GYmIBnBasAMiZZD?format=jpg&name=large)
+![WifeyNormaniPretty_mypast](https://pbs.twimg.com/media/GY6BllZbAAAr0wb?format=jpg&name=large)
+![Normani Trophy_mypast](https://pbs.twimg.com/media/GYmIBnBasAMiZZD?format=jpg&name=large)
 ![contractor jose m pi of mori](https://pbs.twimg.com/media/GY1rbfAbQAE8_Ud?format=jpg&name=medium)
-![missing wife](https://pbs.twimg.com/media/GYxDcRSbQAIwnil?format=jpg&name=large)
-![homeless](https://pbs.twimg.com/media/GYxDSRpbQAMqOug?format=jpg&name=medium)
+![missing wife_mypast](https://pbs.twimg.com/media/GYxDcRSbQAIwnil?format=jpg&name=large)
+![homeless_mypast](https://pbs.twimg.com/media/GYxDSRpbQAMqOug?format=jpg&name=medium)
 ![me](https://pbs.twimg.com/media/GYrk74hasAAPBcX?format=jpg&name=large)
 ![her1](https://pbs.twimg.com/media/GYrETgPaoAAx51H?format=png&name=small)
 ![work](https://pbs.twimg.com/media/GYlIgfQacAA0MQz?format=png&name=small)
