@@ -17,6 +17,11 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+
+
+
+# Federal lawmakers accuse Ga. child welfare of ‘systematically failing’
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo2He3Qg6cA?si=ZNQ-8fKMK4xhe6sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 # Thakarashard.github.io 
 LA_RiOTS:LiVE_NEWS:DEMO
 
