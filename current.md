@@ -19,6 +19,9 @@ title: Current
 # Compiling
 
 
+# Presidents Day working in la. River review VID 20250217 120844
+@nasa @nasa-jpl @cityoflosangeles @stateofcalifornia  
+<iframe src="https://archive.org/embed/vid-20250217-120844" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Federal lawmakers accuse Ga. child welfare of ‘systematically failing’
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fo2He3Qg6cA?si=ZNQ-8fKMK4xhe6sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
