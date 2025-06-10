@@ -17,8 +17,21 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+# Thakarashard.github.io 
+LA_RiOTS:LiVE_NEWS:DEMO
+
+<iframe src="https://archive.org/embed/screen-recording-2025-06-09-7.25.08-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div class="tupperware" markdown="1">
+
+![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
+![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
 
 
+</div>
+
+# LIVE: ABCNewsLive
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 ### Dekae FA, Inkheads - Miami, March 2023
 The Free Agents (FA) Crew was Established in 1985 somewhere between Washington DC, and Miami by Glove (aka Lucky Seven/ Beer). [ReadMore - Crew History](https://freeagentscrew.com/crew-history/) 
 [Dekay1](https://freeagentscrew.com/dk/) 
