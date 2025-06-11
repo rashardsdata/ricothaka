@@ -18,6 +18,9 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+![image](https://github.com/user-attachments/assets/983ca3c5-1b70-45ec-8ea8-a5be28dbee45)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU?si=CyMyDdC_pfNdgjkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Presidents Day working in la. River review VID 20250217 120844
 @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia  
