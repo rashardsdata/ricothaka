@@ -12,7 +12,15 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
 
+![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
+[Los Angeles’ image is scuffed since ICE raids and protests, with World Cup and Olympics on horizon](https://apnews.com/article/los-angeles-trump-immigration-ice-raids-protests-6823da82d8d25e12d392088c7cde40c5)
+![LA_GRAFFiTi](https://dims.apnews.com/dims4/default/13f87f6/2147483647/strip/true/crop/6000x4000+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F81%2Fbd325b55c3cbcdc70f14348b2bd2%2F5ef23217fe0346a686b97d11c36b6abb)
+![tats_cru](https://dims.apnews.com/dims4/default/9494e60/2147483647/strip/true/crop/3040x2026+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Ff9%2Fb9c2ae34bbf649a6068d859d2f9d%2Fafd39913e3fc4a25b65959be41e01833)
+
+[Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
 ![12ozPRophet](https://media.invisioncic.com/h329776/monthly_2025_02/12ozProphet-logo-retina-light_0f1954.png)
 <iframe src="https://archive.org/embed/nas-the-lost-tapes-2" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=0D4cjgEQcFrg46DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
