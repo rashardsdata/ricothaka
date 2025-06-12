@@ -18,27 +18,26 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
-![image](https://github.com/user-attachments/assets/0d6ed085-9197-4401-b1e1-f77ec9447965)
-
-<div class="tupperware" markdown="1">
-
-![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
-![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
 
 
+# LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+ <div class="tupperware">
+
+<a href="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec"><img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="Ornithological Photography" /></a>
+<a href="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7"><img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="Ornithological Photography" /></a>
 </div>
 
-<div class="tupperware" >
-
-![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
-![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
-
-
-</div>
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 # @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521)
 Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNmIfvsf2ng?si=GjXodMhGH-a4i9Xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![image](https://github.com/user-attachments/assets/0d6ed085-9197-4401-b1e1-f77ec9447965)
+
+
 
 `oks like the webpage at https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0 might be having issues, or it may have moved permanently to a new web ad` 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/facebook/comments/1l65vqj/mass_meta_account_shut_down_i_was_reviewed_and/">Mass Meta account shut down. I was reviewed and disabled. My FB account &amp;</a><br> by<a href="https://www.reddit.com/user/Mysterious-Belt-2992/">u/Mysterious-Belt-2992</a> in<a href="https://www.reddit.com/r/facebook/">facebook</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
