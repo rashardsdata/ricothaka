@@ -18,6 +18,20 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+<div class="tupperware" markdown="1">
+
+![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
+![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
+
+
+</div>
+<div class="tupperware" >
+
+![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
+![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
+
+
+</div>
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 # @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521)
 Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
@@ -68,13 +82,7 @@ LA_RiOTS:LiVE_NEWS:DEMO
 
 
 <iframe src="https://archive.org/embed/screen-recording-2025-06-09-7.25.08-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<div class="tupperware" markdown="1">
 
-![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
-![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
-
-
-</div>
 
 # LIVE: ABCNewsLive
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
