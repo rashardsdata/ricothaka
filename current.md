@@ -22,6 +22,7 @@ title: Current
 Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNmIfvsf2ng?si=GjXodMhGH-a4i9Xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+`oks like the webpage at https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0 might be having issues, or it may have moved permanently to a new web ad` 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/facebook/comments/1l65vqj/mass_meta_account_shut_down_i_was_reviewed_and/">Mass Meta account shut down. I was reviewed and disabled. My FB account &amp;</a><br> by<a href="https://www.reddit.com/user/Mysterious-Belt-2992/">u/Mysterious-Belt-2992</a> in<a href="https://www.reddit.com/r/facebook/">facebook</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 '''shell
