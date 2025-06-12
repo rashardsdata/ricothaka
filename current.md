@@ -18,6 +18,12 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+@blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook @stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
+![image](https://github.com/user-attachments/assets/47047575-6c6e-4a7c-801c-3396acffd235)
+
+![image](https://github.com/user-attachments/assets/9512054f-b4c5-430d-a020-22b5101b6591)
+
 ![image](https://github.com/user-attachments/assets/983ca3c5-1b70-45ec-8ea8-a5be28dbee45)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU?si=CyMyDdC_pfNdgjkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
