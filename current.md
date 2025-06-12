@@ -18,6 +18,8 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+![image](https://github.com/user-attachments/assets/0d6ed085-9197-4401-b1e1-f77ec9447965)
+
 <div class="tupperware" markdown="1">
 
 ![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
@@ -25,6 +27,7 @@ title: Current
 
 
 </div>
+
 <div class="tupperware" >
 
 ![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
