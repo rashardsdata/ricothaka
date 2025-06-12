@@ -17,6 +17,34 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+# @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521)
+Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNmIfvsf2ng?si=GjXodMhGH-a4i9Xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+`oks like the webpage at https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0 might be having issues, or it may have moved permanently to a new web ad` 
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/facebook/comments/1l65vqj/mass_meta_account_shut_down_i_was_reviewed_and/">Mass Meta account shut down. I was reviewed and disabled. My FB account &amp;</a><br> by<a href="https://www.reddit.com/user/Mysterious-Belt-2992/">u/Mysterious-Belt-2992</a> in<a href="https://www.reddit.com/r/facebook/">facebook</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+'''shell
+Palo Alto 155.190.2.33
+active
+Last accessed on Jun 11, 2025
+Seen in U
+Palo Alto 155.190.2.33
+Last accessed on Jun 11, 2025
+Seen in US
+Device:
+Chrome on Chrome OS
+
+Last location:
+Palo Alto, California, United States
+
+Signed in:
+June 11, 2025
+Palo Alto, California, United States
+@nasa @nasa-jpl @cityoflosangeles @meta @dod-ccpo
+![image](https://github.com/user-attachments/assets/c8cdb4c4-3d0d-4d85-8435-04116577b3f1)
+
 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook @stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
