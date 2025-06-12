@@ -14,6 +14,7 @@ title: Current
    
  </div> 
 
+
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
@@ -64,6 +65,7 @@ Palo Alto, California, United States
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fo2He3Qg6cA?si=ZNQ-8fKMK4xhe6sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 # Thakarashard.github.io 
 LA_RiOTS:LiVE_NEWS:DEMO
+
 
 <iframe src="https://archive.org/embed/screen-recording-2025-06-09-7.25.08-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <div class="tupperware" markdown="1">
@@ -284,6 +286,116 @@ Quite Literally [Jekyll4.4](https://ricothakarashard.github.io/jekyll/), @nasa-j
 ### @nasa-jpl 2023 Annual Report
 #### Director's Message
 Reflecting on 2023, this was a foundational year for JPL as we launched signature initiatives that will position the Lab to succeed and lead well into the future. [READMORE](https://www.jpl.nasa.gov/annual-report/) [DOWNLOADPDF](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+
+
+<iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A?si=pUvP__3sFDBA6Ue3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+@cityoflosangeles @stateofcalifornia @nasa @nasa-jpl @whitehouse 
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108517650797%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+[LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
+
+<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
+
+[PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uQnXvRndcE?si=S4vSOQ0ABfUDxQh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@USnavy @boeing @deptofdefense
+## who can help this user ? [https://www.reddit.com/r/nasa/comments/1kkntff/accidentally_posted_under_the_wrong_account_can/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/nasa/comments/1kkntff/accidentally_posted_under_the_wrong_account_can/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[x.com/nasaHistory](x.com/nasaHistory) - [#rashardlanasa.github.io](https://rashardlanasa.github.io/)
+
+
+<iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+## Logcat
+### command-line tool
+[Logcat](https://developer.android.com/tools/logcat) is a command-line tool that dumps a log of system messages including messages that you have written from your app with the Log class. [View logs with Logcat](https://developer.android.com/studio/debug/logcat) The Logcat window in Android Studio helps you debug your app by displaying logs from your device in real time [Using adb logcat with a real phone (and not the emulator) STACKOVERFLOW:USER:`user:425749`](https://stackoverflow.com/questions/3707880/using-adb-logcat-with-a-real-phone-and-not-the-emulator)
+
+
+# NAMCO SYSTEM 22
+### CPU : Motorola 68EC020 32-bit @ 24.576 MH
+
+
+<iframe src="https://archive.org/embed/arcade_raveracw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![system22](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1024px-Sys22_point_rom_pcb_01.jpg)
+
+![namcoSystem21](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Namco_System_21_Polygonizer_logo.svg/1024px-Namco_System_21_Polygonizer_logo.svg.png)
+>By Namco Ltd. - Namco Ltd., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=88836027">Link</a>
+[SYSTEM16](https://www.system16.com/hardware.php?id=537)
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [ソウルキャリバー Sōrukyaribā World, SOC14/VER.C](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
+>
+ [ Flexibility](https://www.w3.org/TR/css-flexbox-1/#flexibility)
+ download 5-7
+![Box](https://www.w3.org/TR/css-flexbox-1/images/flex-order-page.svg)
+![Webinar](https://pbs.twimg.com/media/GpUbP-qbQAAstby?format=jpg&name=large)
+![Webinar](https://pbs.twimg.com/media/GpPQeZ_awAAVsuk?format=jpg&name=large)
+![OpenNDAP](https://pbs.twimg.com/media/GpPRaExbcAA1eFs?format=jpg&name=large)
+[Twt](https://x.com/MooNLOVER404/status/1915103686407417993)
+![Events](https://pbs.twimg.com/media/GpU_jBVbYAA58Zm?format=jpg&name=large)
+![Unclaimed Dead](https://pbs.twimg.com/media/GpVMXPQbYAETBZF?format=jpg&name=large)
+`Today at the Burial of the Unclaimed Dead, faith leaders presided over the burial of 1624 decedents who died in 2019 and were laid to rest in a single grave.` [Tweet](https://x.com/lacountyme/status/1600983036832534528)
+![MASSGRAVE](https://pbs.twimg.com/media/GpVNPt5bYAc6BJs?format=jpg&name=large) [Related](https://x.com/RicoThaka/status/1915522292098195636) :
+[EulaGy](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A24325a29-4e9d-46a1-b627-765d6c53b8cc&utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=&viewer%21megaVerb=group-discover) 
+[Uncovering the Secrets of the International Space Station](https://youtu.be/Ei-TcECJVXU) @natgeosociety @nasa-jpl imma look at this video at some point... 
+# CssARticlesToPRint
+[FlexStrink](https://cssreference.io/property/flex-shrink/):Defines how much a [flexbox item should shrink](https://avada.com/documentation/column-element-flex-grow-and-flex-shrink-options/) if there's not enough space available. [flex-shrink tailwindcss.com](https://tailwindcss.com/docs/flex-shrink) [Growing and Shrinking - theodinproject.com/](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+
+![w3c.org](https://www.w3.org/TR/css-flexbox-1/images/rel-vs-abs-flex.svg)
+7. Flexibility
+The defining aspect of flex layout is the ability to make the flex items “flex”, altering their width/height to fill the available space in the main dimension. This is done with the flex property. A flex container distributes free space to its items (proportional to their flex grow factor) to fill the container, or shrinks them (proportional to their flex shrink factor) to prevent overflow.
+![FLEXBOX](https://www.w3.org/TR/css-flexbox-1/images/flex-pack.svg)
+
+![SSF2](https://pbs.twimg.com/media/GpVXOIBbYAI_okw?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1915533299059130858): [DigitalDivide](https://x.com/RicoThaka/status/1915532387062288790)
+![StreetFigterMovie](https://pbs.twimg.com/media/GpVTHmsaYAA6kwD?format=jpg&name=large)
+![guileVSken](https://pbs.twimg.com/media/GpVSEHAbYAEAXHO?format=jpg&name=large)
+# EarthDay
+### No Happy Holidays - Mary J. Blige
+@blackgirlscode 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFK_UgYGofo?si=LeHJRvidThCa6IzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" width="100%" height=600px ></object>
+
+[EXPLORER1](https://explorer1.jpl.nasa.gov/) <~ @StateOfCalifornia
+![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
+![Earth](https://explorer1.jpl.nasa.gov/assets/images/galleries/1966_LOIRP_289764main_GPN-2000-001588_full.jpeg)
+![EARTH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1947_316209main_smallsteps-v2_full.jpeg)
+![EARTH @nasa](https://www.nasa.gov/wp-content/uploads/2025/04/2025-nasa-earth-day-poster-30x15-print-resolution.jpg)
+## Earth Rotation from Galileo Imagery: 3600 x Real-Time [JPL](https://www.jpl.nasa.gov/galileo/index.html)
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the Galileo spacecraft during a close pass of the Earth on December 11-12, 1990
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001372/a001372.00095_print.png" >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" >
+webm</a>
+  video.
+</video>
+
+### HipHop set
+[MiA-SteppinUp](https://youtu.be/rcYhNEffVMs) [Blazay Balzay - Danger](https://youtu.be/x7uJzdu7Pak?si=LBhCEBoEwJ4CnvR1) [Fugees [feat. A Tribe Called Quest & Busta Rhymes] - Rumble In The Jungle ](https://youtu.be/Ok6fmRt6MvU?si=dCtayHhGWhUmjFwm) [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn](https://youtu.be/a2pzmty3LVs?si=171yoroMclhues_J) [Group Home - Supa Star](https://youtu.be/MZCNnDSKJsM?si=-I5FI8k8de7G4mzc) [DelTron 3030 - Turbulence](https://youtu.be/NF0UWfNQw9E?si=MQtG2qIVWSwlOh0b) [Smif & Wesson - SoundBwoiBurriel](https://youtu.be/s5MogMGLWAA?si=32yP9bTbeDxEDWx_) [Nas - Represent](https://youtu.be/xiVY_yPgvMs?si=fkYZLtM9pUgrZcW9) [GangStarr- MakeThemPay](https://youtu.be/7i1qond0wEA?si=LzpWPoHJV9GFvIYP) [The Stomp · Ol' Dirty Bastard](https://youtu.be/ATbBVkKAFwg?si=eCfD56ReIbHMHApO) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [O.C. - Times Up](https://youtu.be/dcsPoM2MalY?si=ChQB16D0L9ulOtAz) [O.C. - My World ](https://youtu.be/d7dHzjxH2VI?list=RDd7dHzjxH2VI) [Immortal Technique- Freedom Of Speech](https://youtu.be/v4HeY1Krw-Y?list=RDATbBVkKAFwg) [In The World · Akinyele](https://youtu.be/FAnC3PM1NTY?list=RDFAnC3PM1NTY) [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro) [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hwNhfOQXQXobu7nZ) @blackgirlscode i have a [class](https://x.com/NASAEarthData/status/1914403540371693922) tomrrow on [`OPeNDAP`](https://opendap.github.io/documentation/QuickStart.pdf) so im [stressed](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro), i have to print some things to [look](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap) over tonight so im better prepared ... THANKS you guys are really [growing](https://youtu.be/UcKDx4cmvio?list=RDHWwCVqWmgro) - [NosTalgia](https://youtu.be/PPZ2-FVcM3M?list=RDHWwCVqWmgro) [📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro) [Immortal Technique - Toast to the Dead](https://youtu.be/kLBNMhzn8VI?list=RDkLBNMhzn8VI)
+
+![openDAP](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-04/OPeNDAP_banner_final.png?VersionId=MEsX9pz8FAetXTjWPC3wtEZ15INU16YZ&itok=Rb6Ia-6s)
+
+
+
+`Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
+[Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
+
+
+![Curiosity](https://upload.wikimedia.org/wikipedia/commons/6/6f/Perseverance_rover_design.png)
+
 # Terminator 2
 
 <video controls preload="none" width="100%" height="auto" poster="https://www.aestheticwalldecor.com/cdn/shop/files/terminator-2-judgement-day-classic-movie-poster-aesthetic-wall-decor.jpg?v=1692555485">
