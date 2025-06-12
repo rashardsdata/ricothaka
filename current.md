@@ -23,6 +23,10 @@ title: Current
 # LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UjvTSiE9iA?si=YJkxl1EwOoLtJmdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
