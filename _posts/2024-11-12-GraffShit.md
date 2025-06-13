@@ -13,6 +13,21 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 {% endfor %}
 
 
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Who is rioting in downtown L.A., demonstrators or habitual agitators?](https://ktla.com/news/local-news/who-is-rioting-in-downtown-l-a-demonstrators-or-habitual-agitators/)
+[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history) @ktla @abc7 [Arrests made after stores looted amid continued unrest in downtown Los Angeles](https://abc7.com/post/stores-looted-amid-continued-unrest-downtown-los-angeles/16713513/) @reuters [Cleanup of graffiti, damage begins in Los Angeles as anti-ICE protests continue](https://www.reuters.com/world/us/cleanup-graffiti-damage-begins-los-angeles-anti-ice-protests-continue-2025-06-10/)
+
+
+[Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
+[Los Angeles’ image is scuffed since ICE raids and protests, with World Cup and Olympics on horizon](https://apnews.com/article/los-angeles-trump-immigration-ice-raids-protests-6823da82d8d25e12d392088c7cde40c5)
+![LA_GRAFFiTi](https://dims.apnews.com/dims4/default/13f87f6/2147483647/strip/true/crop/6000x4000+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F81%2Fbd325b55c3cbcdc70f14348b2bd2%2F5ef23217fe0346a686b97d11c36b6abb)
+![tats_cru](https://dims.apnews.com/dims4/default/9494e60/2147483647/strip/true/crop/3040x2026+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Ff9%2Fb9c2ae34bbf649a6068d859d2f9d%2Fafd39913e3fc4a25b65959be41e01833)
+
+[Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+
 
 [Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia
 [![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history)
