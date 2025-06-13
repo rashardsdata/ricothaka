@@ -25,7 +25,9 @@ Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Ku
   height="400"></object>
 
   [Finger-pointing continues in downtown LA graffiti saga FOX11 @foxbroadcasting](https://www.youtube.com/watch?v=dCh_ggVG_qo)  [DTLA](https://youtube.com/shorts/Mz5FyXKdo8E?si=WOQITWoZf3PdJGOt) [LA city workers remove graffiti debris from violent protests](https://youtu.be/nGvMB2LpF8k?t=2) [Will Smith - Pretty @blackGirlscode (Official Video)](https://www.youtube.com/watch?v=NMeIUNcCUjE) [Lisa from Temecula - SNL](https://youtu.be/zxxCaw74ptk) [Sheriff Robert Luna discusses the law enforcement response in downtown LA](https://youtu.be/gWFlTgfG02A?si=_BUizea568Nd0HF0) [LA County Close Up Episode 237](https://youtu.be/0Wvud_dhwk4) @cityoflosangeles @stateofcalifornia 
-
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
 <picture>
   <source  srcset="https://ca-times.brightspotcdn.com/dims4/default/1d5fbb4/2147483647/strip/true/crop/3758x2132+0+0/resize/1024x581!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F80%2F518470384c4eb4a13da730261e60%2Fla-me-vandalism-mob002.JPG">
   <source  srcset="https://github.com/user-attachments/assets/d8872e9f-01fc-44bb-9cf8-7299d652b023">
@@ -33,11 +35,11 @@ Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Ku
   <img src="https://ca-times.brightspotcdn.com/dims4/default/1d5fbb4/2147483647/strip/true/crop/3758x2132+0+0/resize/1024x581!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F80%2F518470384c4eb4a13da730261e60%2Fla-me-vandalism-mob002.JPG" alt="Flowers" style="width:auto;">
 </picture>
 
-# California Constitution
+# California Constitution @thomsonreuters @EPFL-LAPD
 <object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
 <p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
 
-[Arrests made after stores looted amid continued unrest in downtown Los Angeles](https://abc7.com/post/stores-looted-amid-continued-unrest-downtown-los-angeles/16713513/) @reuters [Cleanup of graffiti, damage begins in Los Angeles as anti-ICE protests continue](https://www.reuters.com/world/us/cleanup-graffiti-damage-begins-los-angeles-anti-ice-protests-continue-2025-06-10/)
+[Arrests made after stores looted amid continued unrest in downtown Los Angeles](https://abc7.com/post/stores-looted-amid-continued-unrest-downtown-los-angeles/16713513/) @reuters [Cleanup of graffiti, damage begins in Los Angeles as anti-ICE protests continue](https://www.reuters.com/world/us/cleanup-graffiti-damage-begins-los-angeles-anti-ice-protests-continue-2025-06-10/) [Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
 
 
 [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
@@ -48,23 +50,13 @@ Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Ku
 ![tats_cru](https://dims.apnews.com/dims4/default/9494e60/2147483647/strip/true/crop/3040x2026+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Ff9%2Fb9c2ae34bbf649a6068d859d2f9d%2Fafd39913e3fc4a25b65959be41e01833)
 
 [Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
-[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
-
-
-
-[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia
 [![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history)
 
 
 [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
 
-![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
-[Los Angeles’ image is scuffed since ICE raids and protests, with World Cup and Olympics on horizon](https://apnews.com/article/los-angeles-trump-immigration-ice-raids-protests-6823da82d8d25e12d392088c7cde40c5)
-![LA_GRAFFiTi](https://dims.apnews.com/dims4/default/13f87f6/2147483647/strip/true/crop/6000x4000+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F81%2Fbd325b55c3cbcdc70f14348b2bd2%2F5ef23217fe0346a686b97d11c36b6abb)
-![tats_cru](https://dims.apnews.com/dims4/default/9494e60/2147483647/strip/true/crop/3040x2026+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Ff9%2Fb9c2ae34bbf649a6068d859d2f9d%2Fafd39913e3fc4a25b65959be41e01833)
-
 [Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
-[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
 
 
 
