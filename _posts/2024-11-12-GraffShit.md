@@ -14,7 +14,30 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 
 
 [Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Who is rioting in downtown L.A., demonstrators or habitual agitators?](https://ktla.com/news/local-news/who-is-rioting-in-downtown-l-a-demonstrators-or-habitual-agitators/)
-[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history) @ktla @abc7 [Arrests made after stores looted amid continued unrest in downtown Los Angeles](https://abc7.com/post/stores-looted-amid-continued-unrest-downtown-los-angeles/16713513/) @reuters [Cleanup of graffiti, damage begins in Los Angeles as anti-ICE protests continue](https://www.reuters.com/world/us/cleanup-graffiti-damage-begins-los-angeles-anti-ice-protests-continue-2025-06-10/)
+[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history) @ktla @abc7 
+
+# Crews clean off graffiti from City Hall
+Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Kuo](https://www.latimes.com/people/kelvin-kuo) [LATiMES - Shocking vandalism rampage in downtown L.A. sparks outrage as LAPD seeks suspects](https://www.latimes.com/california/story/2025-05-27/dtla-vandalism-investigation)
+<object
+  type="application/pdf"
+  data="https://ia601809.us.archive.org/19/items/image_20250428_2325/CiTYHALLGRAFFSimpleScanStation20250611190559.pdf"
+  width="500"
+  height="400"></object>
+
+  [Finger-pointing continues in downtown LA graffiti saga FOX11 @foxbroadcasting](https://www.youtube.com/watch?v=dCh_ggVG_qo)  [DTLA](https://youtube.com/shorts/Mz5FyXKdo8E?si=WOQITWoZf3PdJGOt) [LA city workers remove graffiti debris from violent protests](https://youtu.be/nGvMB2LpF8k?t=2) [Will Smith - Pretty @blackGirlscode (Official Video)](https://www.youtube.com/watch?v=NMeIUNcCUjE) [Lisa from Temecula - SNL](https://youtu.be/zxxCaw74ptk) [Sheriff Robert Luna discusses the law enforcement response in downtown LA](https://youtu.be/gWFlTgfG02A?si=_BUizea568Nd0HF0) [LA County Close Up Episode 237](https://youtu.be/0Wvud_dhwk4) @cityoflosangeles @stateofcalifornia 
+
+<picture>
+  <source  srcset="https://ca-times.brightspotcdn.com/dims4/default/1d5fbb4/2147483647/strip/true/crop/3758x2132+0+0/resize/1024x581!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F80%2F518470384c4eb4a13da730261e60%2Fla-me-vandalism-mob002.JPG">
+  <source  srcset="https://github.com/user-attachments/assets/d8872e9f-01fc-44bb-9cf8-7299d652b023">
+
+  <img src="https://ca-times.brightspotcdn.com/dims4/default/1d5fbb4/2147483647/strip/true/crop/3758x2132+0+0/resize/1024x581!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F80%2F518470384c4eb4a13da730261e60%2Fla-me-vandalism-mob002.JPG" alt="Flowers" style="width:auto;">
+</picture>
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[Arrests made after stores looted amid continued unrest in downtown Los Angeles](https://abc7.com/post/stores-looted-amid-continued-unrest-downtown-los-angeles/16713513/) @reuters [Cleanup of graffiti, damage begins in Los Angeles as anti-ICE protests continue](https://www.reuters.com/world/us/cleanup-graffiti-damage-begins-los-angeles-anti-ice-protests-continue-2025-06-10/)
 
 
 [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
