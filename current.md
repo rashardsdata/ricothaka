@@ -20,6 +20,13 @@ title: Current
 # Compiling
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[WATCH LIVE: Large police presence in response to 'No Kings' protest in DeKalb County](https://youtu.be/n96hPSTWujE?t=207) [WATCH: Mayor Bass and Los Angeles leaders speak out against ICE raids that sparked protests](https://www.youtube.com/watch?v=v0IH7T8qzLg)
+### Server error. Try again later. ’No Kings’ protest live: Nationwide anti-Trump protest coincides with DC Army parade date 
+<iframe src="https://archive.org/embed/screen-recording-2025-06-14-11.21.27-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
