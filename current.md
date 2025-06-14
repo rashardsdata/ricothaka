@@ -19,7 +19,7 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
-
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/Georgia/comments/1lbgkyn/no_kings_day_rallies_in_protest_of_trump_taking/">'No Kings' Day rallies in protest of Trump taking place across metro Atlanta</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Georgia/">Georgia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
