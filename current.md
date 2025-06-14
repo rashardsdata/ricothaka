@@ -20,6 +20,18 @@ title: Current
 # Compiling
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[WATCH LIVE: Large police presence in response to 'No Kings' protest in DeKalb County](https://youtu.be/n96hPSTWujE?t=207) [WATCH: Mayor Bass and Los Angeles leaders speak out against ICE raids that sparked protests](https://www.youtube.com/watch?v=v0IH7T8qzLg)
+### Server error. Try again later. ’No Kings’ protest live: Nationwide anti-Trump protest coincides with DC Army parade date 
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/longbeach/comments/1l974tc/im_the_flag_guy/">I’m the flag guy</a><br> by<a href="https://www.reddit.com/user/mattbookpro101491/">u/mattbookpro101491</a> in<a href="https://www.reddit.com/r/longbeach/">longbeach</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![image](https://github.com/user-attachments/assets/ab2725c6-5daa-43e9-a70f-1f25a72b5e49)
+
+<iframe src="https://archive.org/embed/screen-recording-2025-06-14-11.21.27-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
