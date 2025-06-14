@@ -18,12 +18,27 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
-
-
-
+### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
+<object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+<object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
+[RashardsBinder](https://rashardmro.github.io/mybinder/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [WATCH LIVE: Large police presence in response to 'No Kings' protest in DeKalb County](https://youtu.be/n96hPSTWujE?t=207) [WATCH: Mayor Bass and Los Angeles leaders speak out against ICE raids that sparked protests](https://www.youtube.com/watch?v=v0IH7T8qzLg)
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/Georgia/comments/1lbgkyn/no_kings_day_rallies_in_protest_of_trump_taking/">'No Kings' Day rallies in protest of Trump taking place across metro Atlanta</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Georgia/">Georgia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+{% highlight markdown %}
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif">](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+{% endhighlight %}
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif" />](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+
+```markdown
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+```
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+
 ### Server error. Try again later. ’No Kings’ protest live: Nationwide anti-Trump protest coincides with DC Army parade date 
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/longbeach/comments/1l974tc/im_the_flag_guy/">I’m the flag guy</a><br> by<a href="https://www.reddit.com/user/mattbookpro101491/">u/mattbookpro101491</a> in<a href="https://www.reddit.com/r/longbeach/">longbeach</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
@@ -31,7 +46,7 @@ title: Current
 ![image](https://github.com/user-attachments/assets/ab2725c6-5daa-43e9-a70f-1f25a72b5e49)
 
 <iframe src="https://archive.org/embed/screen-recording-2025-06-14-11.21.27-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/privacy/comments/18pjhef/what_is_doxxing_and_what_can_you_do_if_you_are/">What is doxxing and what can you do if you are doxxed?</a><br> by<a href="https://www.reddit.com/user/wewewawa/">u/wewewawa</a> in<a href="https://www.reddit.com/r/privacy/">privacy</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 # LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
