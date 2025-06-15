@@ -1,3 +1,18 @@
+
+# [Super Mario World (スーパーマリオワールド](https://mario.fandom.com/wiki/Super_Mario_World)
+Sūpāmariowārudo [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro)
+<object data="https://archive.org/embed/super-mario-world-usa_202406" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+[Messij 2005 · CoLD SToRAGE rmx](https://www.youtube.com/watch?v=74M78rAyCPk) [WipEout - Messij Xtnd (CoLD SToRAGE, Piano Version)](https://youtu.be/Ggvm1pHSHjo) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU) [Sonta "Your Mistake" [Official Video]](https://youtu.be/FiGAkDE7s7o) 
+<object width="560" height="315" data="https://www.youtube.com/embed/I5JBLkjgP4Q?si=nZsaeTIgUkVR8aCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
+![image](https://github.com/user-attachments/assets/bf0ee2f0-322c-4eac-9a95-ee51c0c20be3)
+
+![image](https://github.com/user-attachments/assets/7911e83d-6a3e-458b-abc8-f702128e302e)
+
+<object data="https://archive.org/embed/tetris_gb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+![BACKBOX](https://github.com/user-attachments/assets/b8cd38ab-8e71-45da-989f-0850a728e36f)
+
 # Dear_Coral
 I was in union station earlier passing through. The librarys have been really contaminated lately, i get shocked a lot by ppl rigging traps and i got sores from ppl putting something on my skin that hurts... its hurting now!!!!!!!!!! @nasa-jpl i dont want to lose this try this [JupyterNotebook](https://hub.gesis.mybinder.org/user/dhs-gov-tech_scout-o3smbdgm/lab) i found in [@dhs-gov/tech_scout](https://github.com/dhs-gov/tech_scout) @blackgirlscode `python tech_scout.py` @nasa @stateofcalifornia @cityoflosangeles 
 ![image](https://github.com/user-attachments/assets/d0de44e0-237e-4bc3-a3eb-dc1ad4b0d9a6)
