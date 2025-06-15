@@ -1,4 +1,4 @@
-
+![Super Mario World (スーパーマリオワールド](https://upload.wikimedia.org/wikipedia/commons/1/10/Super_Mario_World_game_logo.svg)
 # [Super Mario World (スーパーマリオワールド](https://mario.fandom.com/wiki/Super_Mario_World)
 Sūpāmariowārudo [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro)
 <object data="https://archive.org/embed/super-mario-world-usa_202406" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
