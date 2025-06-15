@@ -5,6 +5,8 @@ categories: nasajpl family x twitter socialcatchup workblogging
 published: true
 image: pico_twitter_font.gif
 ---
+[Walt Disney's Silly Symphonies - The Complete Collection (1929-39)](https://archive.org/details/walt-disneys-silly-symphonies-the-complete-collection-1929-39/02+-+El+Terrible+Toreador+(1929).mp4)
+<iframe src="https://archive.org/embed/walt-disneys-silly-symphonies-the-complete-collection-1929-39" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![Screenshot 2025-06-15 3 37 54 PM](https://github.com/user-attachments/assets/ef636fbf-2007-4ed7-af6d-00733f51e5e8)
 
@@ -20,7 +22,7 @@ Palo Alto 155.190.2.33
 stale
 Last accessed on Jun 13, 2025
 Seen in US
-
+[CONSOLE_LiViNGROOM](https://archive.org/details/consolelivingroom)
   <?xml version="1.0" encoding="utf-8"?>
   <!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
   <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
