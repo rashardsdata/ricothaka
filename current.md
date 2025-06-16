@@ -18,6 +18,8 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+
+[https://rashardsmaps.tumblr.com/](https://rashardsmaps.tumblr.com/)
 ![UC_BERKELEY](https://oercs.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_base/assets/images/logo-berkeley-white-2.svg)
 ## Protect yourself from "Doxxing"
 ### What is Doxxing?
