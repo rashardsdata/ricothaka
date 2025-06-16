@@ -29,6 +29,64 @@ title: Current
 ![image](https://github.com/user-attachments/assets/e431d7d5-c457-451c-a560-8e7b7b72a6c4)
 [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDpBNZevgJH1g) [The World Is A Ghetto · War](https://www.youtube.com/watch?v=VIIbT89V7EI&list=RDVIIbT89V7EI&start_radio=1)
 [Internet Archive Blogs - GeoCities, Preserved!](https://blog.archive.org/2009/08/25/geocities-preserved/)
+
+ <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
+                    <option value="#~" selected>Quick Select</option>
+                    <option value="https://rashardmro.tumblr.com~">MRO_TUMBLR</option>
+                    <option value="https://rashardmro.github.io~">MRO_GiTHUB</option>
+                    <option value="https://codepen.io/thakarashard~">Rashard_onCodepen</option>
+                  </select>
+                  <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
+                  
+```javascript copy
+<script language="JavaScript">
+<!--
+function P7_JumpMenu(selObj,restore){ //v1.3 by Project Seven
+	var theFullString = selObj.options[selObj.selectedIndex].value;
+	if (restore) selObj.selectedIndex=0;
+	var theLength = theFullString.length;
+	var endPos = theFullString.lastIndexOf("~");
+	var theUrl, theTarget, theParent;
+	if (endPos > 0) {theUrl = theFullString.substring(0,endPos);}
+	else {theUrl = theFullString;}
+	endPos++
+	if (endPos < theLength) {theTarget = theFullString.substring(endPos,theLength)}
+	else {theTarget = "window:Main";}
+	if (theTarget == "window:New") {window.open(theUrl);}
+	else if (theTarget == "window:Main") {eval("parent.location='"+theUrl+"'");}
+	else {eval("parent.frames[\'"+theTarget+"\'].location='"+theUrl+"'");}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function P7_JumpMenuGo(selName,restore){ //v1.1 Beta Version by Project Seven
+  var selObj = MM_findObj(selName); if (selObj) P7_JumpMenu(selObj,restore);
+}
+//-->
+</script>
+```
+
+```html copy
+<tr> 
+                <td width="22" height="20"><font color="#FFFFFF"></font></td>
+                <td width="228" height="20">
+                  <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
+                    <option value="#~" selected>Quick Select</option>
+                    <option value="volumeone.htm~">Volume One</option>
+                    <option value="volumetwo.htm~">Volume Two</option>
+                    <option value="volumethree.htm~">Volume Three</option>
+                  </select>
+                  <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
+                </td>
+              </tr>
+```
+
 [OKAYPLAYER post reply](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336)
 ## 12336, RE: ?uest, read this little letter I just found......
 ### Posted by obey, Mon Feb-11-02 03:57 AM
