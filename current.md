@@ -31,7 +31,7 @@ Why black women get mad about interracial dating anyway. they say all the Black 
 A funky Poetry Website
 http://www.geocities.com/sb202us
 The Savannah style master himself
-http://www.geocities.com/seanbaker2001
+[http://www.geocities.com/seanbaker2001](https://web.archive.org/web/20020220051313/http://www.geocities.com/seanbaker2001/)
 [PRiNTER_FRiENDLY](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336) @nasa-jpl i know of some spots @redhatofficial that will unify [my web history](https://myactivity.google.com/myactivity?pli=1)
 
 @nasa @nasa-jpl @usgs @whitehouse @cityoflosangeles @stateofcalifornia 
