@@ -30,14 +30,7 @@ title: Current
 [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDpBNZevgJH1g) [The World Is A Ghetto · War](https://www.youtube.com/watch?v=VIIbT89V7EI&list=RDVIIbT89V7EI&start_radio=1)
 [Internet Archive Blogs - GeoCities, Preserved!](https://blog.archive.org/2009/08/25/geocities-preserved/)
 
- <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
-                    <option value="#~" selected>Quick Select</option>
-                    <option value="https://rashardmro.tumblr.com~">MRO_TUMBLR</option>
-                    <option value="https://rashardmro.github.io~">MRO_GiTHUB</option>
-                    <option value="https://codepen.io/thakarashard~">Rashard_onCodepen</option>
-                  </select>
-                  <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
-                  
+
 ```javascript copy
 <script language="JavaScript">
 <!--
