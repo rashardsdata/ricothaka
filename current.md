@@ -18,7 +18,7 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
-
+[https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs](https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs)
 ## [Poaddix](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
 
 [stylesheets styles111.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/styles111.css)
