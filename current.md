@@ -19,9 +19,15 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
-[Poaddix](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
+## [Poaddix](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
+
+[stylesheets styles111.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/styles111.css)
+[stylesheets poemstlye.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/poemstlye.css)
+[stylesheets stle4poets.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/stle4poets.css)
+[stylesheets headings.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/headings.css)
+
 ![image](https://github.com/user-attachments/assets/e431d7d5-c457-451c-a560-8e7b7b72a6c4)
-[Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDpBNZevgJH1g)
+[Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDpBNZevgJH1g) [The World Is A Ghetto · War](https://www.youtube.com/watch?v=VIIbT89V7EI&list=RDVIIbT89V7EI&start_radio=1)
 [Internet Archive Blogs - GeoCities, Preserved!](https://blog.archive.org/2009/08/25/geocities-preserved/)
 [OKAYPLAYER post reply](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336)
 ## 12336, RE: ?uest, read this little letter I just found......
