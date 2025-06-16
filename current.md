@@ -18,6 +18,10 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+![UC_BERKELEY](https://oercs.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_base/assets/images/logo-berkeley-white-2.svg)
+## Protect yourself from "Doxxing"
+### What is Doxxing?
+Doxxing often involves hackers attempting to embarrass or shame individuals by publishing confidential information, images or videos obtained from their personal accounts.   Initially, doxxing was used by hackers to "out" the identities of fellow bad actors/hackers.  However, more recently, it has been used to attack users with opposing viewpoints. 
 [https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs](https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs)
 ## [Poaddix](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
 
