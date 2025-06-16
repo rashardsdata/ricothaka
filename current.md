@@ -69,7 +69,7 @@ function P7_JumpMenuGo(selName,restore){ //v1.1 Beta Version by Project Seven
 </script>
 ```
 
-```html copy
+```html
 <tr> 
                 <td width="22" height="20"><font color="#FFFFFF"></font></td>
                 <td width="228" height="20">
