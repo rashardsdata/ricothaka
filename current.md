@@ -31,7 +31,7 @@ title: Current
 [Internet Archive Blogs - GeoCities, Preserved!](https://blog.archive.org/2009/08/25/geocities-preserved/)
 
 
-```javascript copy
+```javascript
 <script language="JavaScript">
 <!--
 function P7_JumpMenu(selObj,restore){ //v1.3 by Project Seven
@@ -106,6 +106,9 @@ are there any programs for people departnered by porno? @blackgirlscode
 ![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
 # #WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood [#AGiLE](https://www.oreilly.com/library/view/learning-agile/9781449363819/):#[BLOCKERS](https://www.solutioneers.co.uk/blockers/)
 This lady that look like Laurie Leshin cousin from Georgia was in here, its like 3 astro sisters. If she is the one i am thinking of she is attached to Caltech via GaTech and just working out here while whatever civil upheaval resolves in the south... The guard put her out while she was screaming im working... I KNOW FOR SURE SHE IS A DATASCiENTiST and good with #WikiMarkup its still like 6000 ppl work for JPL and LA is a very outdoorsy place bc the housing was never designed to support the native Architechture, Ms Bass is nesting and Gavin is angry at trump but i see less in your face hurtful behavior so however things work LAPD had on Michael Jackson chin gaurds an there was a big art party, the gaurd should not have put her out -#[rashard u/nasa #JPL @reddit](https://thakarashard.github.io/) 🚫 `Sorry, this post was removed by Reddit’s filters.` [Read On Reddit](https://www.reddit.com/r/NASAJobs/comments/1laloht/working_remotepost_eaton_canyon_wildfire_library/) @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles [books.google](https://books.google.com/books/about/Learning_Agile.html?id=gbxUBQAAQBAJ) [AGILE METHODOLOGIES -Gayatri Vidya Parishad College of Engineering https://gvpce.ac.in › ECE › syllabus](https://gvpce.ac.in/ECE/R-2019/syllabus/19CS11P1.pdf) [JPL to Transition to Fully Onsite Work:@nasa-jpl life](https://www.jpl.nasa.gov/news/jpl-to-transition-to-fully-onsite-work/)
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145502026&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/essential-mix" title="Essential Mix - BBC Radio 1" target="_blank" style="color: #cccccc; text-decoration: none;">Essential Mix - BBC Radio 1</a></div>
 
 ### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
 <object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
