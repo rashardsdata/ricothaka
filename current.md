@@ -18,6 +18,82 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+[https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs](https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs)
+## [Poaddix](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
+
+[stylesheets styles111.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/styles111.css)
+[stylesheets poemstlye.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/poemstlye.css)
+[stylesheets stle4poets.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/stle4poets.css)
+[stylesheets headings.css](https://web.archive.org/web/20021212231749/http://www.geocities.com/sb202us/styles/headings.css)
+
+![image](https://github.com/user-attachments/assets/e431d7d5-c457-451c-a560-8e7b7b72a6c4)
+[Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDpBNZevgJH1g) [The World Is A Ghetto · War](https://www.youtube.com/watch?v=VIIbT89V7EI&list=RDVIIbT89V7EI&start_radio=1)
+[Internet Archive Blogs - GeoCities, Preserved!](https://blog.archive.org/2009/08/25/geocities-preserved/)
+
+
+```javascript copy
+<script language="JavaScript">
+<!--
+function P7_JumpMenu(selObj,restore){ //v1.3 by Project Seven
+	var theFullString = selObj.options[selObj.selectedIndex].value;
+	if (restore) selObj.selectedIndex=0;
+	var theLength = theFullString.length;
+	var endPos = theFullString.lastIndexOf("~");
+	var theUrl, theTarget, theParent;
+	if (endPos > 0) {theUrl = theFullString.substring(0,endPos);}
+	else {theUrl = theFullString;}
+	endPos++
+	if (endPos < theLength) {theTarget = theFullString.substring(endPos,theLength)}
+	else {theTarget = "window:Main";}
+	if (theTarget == "window:New") {window.open(theUrl);}
+	else if (theTarget == "window:Main") {eval("parent.location='"+theUrl+"'");}
+	else {eval("parent.frames[\'"+theTarget+"\'].location='"+theUrl+"'");}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function P7_JumpMenuGo(selName,restore){ //v1.1 Beta Version by Project Seven
+  var selObj = MM_findObj(selName); if (selObj) P7_JumpMenu(selObj,restore);
+}
+//-->
+</script>
+```
+
+```html copy
+<tr> 
+                <td width="22" height="20"><font color="#FFFFFF"></font></td>
+                <td width="228" height="20">
+                  <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
+                    <option value="#~" selected>Quick Select</option>
+                    <option value="volumeone.htm~">Volume One</option>
+                    <option value="volumetwo.htm~">Volume Two</option>
+                    <option value="volumethree.htm~">Volume Three</option>
+                  </select>
+                  <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
+                </td>
+              </tr>
+```
+
+[OKAYPLAYER post reply](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336)
+## 12336, RE: ?uest, read this little letter I just found......
+### Posted by obey, Mon Feb-11-02 03:57 AM
+It really aint none of her business who ?uest gvin play. why that gotta matter anyway. I mean iaint never had a white girl friend, but they easier to talk to than a black girl a lot of the times, sisters be trippin especially if theythink they look good. that is not for all cases, my opinion is just based on my own experience. That chick was alme for even bringin something like that up.
+
+Why black women get mad about interracial dating anyway. they say all the Black men get white girls and stuff. If thats the case who cares, just cause you cant get a black man, does that stop you from getting a man? I wanted a chevy but i got a buick...they both serve the same function. a white man, oriental man, indian... what ever can love you just the same maybe even more. Alot of time some sisters personnality just dont be right for the average black man. Just because ?uest was talkin to a black girl dont meanhe dont give sisters no play, that girlmay have been truly sweet, or like an above post stated he might know the girl. that article should have never been run. And what makes her think that ?uest and D'angelo got the same taste anyway D might feel she lookin right while ?uest thinkin she look very WRONG.
+
+-i should get off my soap box now-
+
+A funky Poetry Website
+[http://www.geocities.com/sb202us](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
+The Savannah style master himself
+[http://www.geocities.com/seanbaker2001](https://web.archive.org/web/20020220051313/http://www.geocities.com/seanbaker2001/)
+[PRiNTER_FRiENDLY](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336) @nasa-jpl i know of some spots @redhatofficial that will unify [my web history](https://myactivity.google.com/myactivity?pli=1)
 
 @nasa @nasa-jpl @usgs @whitehouse @cityoflosangeles @stateofcalifornia 
 are there any programs for people departnered by porno? @blackgirlscode
