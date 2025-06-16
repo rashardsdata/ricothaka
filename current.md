@@ -19,6 +19,21 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+[OKAYPLAYER post reply](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336)
+## 12336, RE: ?uest, read this little letter I just found......
+### Posted by obey, Mon Feb-11-02 03:57 AM
+It really aint none of her business who ?uest gvin play. why that gotta matter anyway. I mean iaint never had a white girl friend, but they easier to talk to than a black girl a lot of the times, sisters be trippin especially if theythink they look good. that is not for all cases, my opinion is just based on my own experience. That chick was alme for even bringin something like that up.
+
+Why black women get mad about interracial dating anyway. they say all the Black men get white girls and stuff. If thats the case who cares, just cause you cant get a black man, does that stop you from getting a man? I wanted a chevy but i got a buick...they both serve the same function. a white man, oriental man, indian... what ever can love you just the same maybe even more. Alot of time some sisters personnality just dont be right for the average black man. Just because ?uest was talkin to a black girl dont meanhe dont give sisters no play, that girlmay have been truly sweet, or like an above post stated he might know the girl. that article should have never been run. And what makes her think that ?uest and D'angelo got the same taste anyway D might feel she lookin right while ?uest thinkin she look very WRONG.
+
+-i should get off my soap box now-
+
+A funky Poetry Website
+http://www.geocities.com/sb202us
+The Savannah style master himself
+http://www.geocities.com/seanbaker2001
+[PRiNTER_FRiENDLY](https://board.okayplayer.com/okp.php?az=printer_friendly&forum=19&topic_id=12327&mesg_id=12336) @nasa-jpl i know of some spots @redhatofficial that will unify [my web history](https://myactivity.google.com/myactivity?pli=1)
+
 @nasa @nasa-jpl @usgs @whitehouse @cityoflosangeles @stateofcalifornia 
 are there any programs for people departnered by porno? @blackgirlscode
 [oldschoolplaylist](https://rashardmro.github.io/mybinder/) @nasa-jpl i talkd about my hobbies and the riot on [Myhomepage](https://ricothakarashard.github.io/thakarashard/) some oh what the hell i can past the playlist in and [hurry to lunch](https://www.blessedsacramenthollywood.org/)
