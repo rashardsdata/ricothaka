@@ -19,6 +19,9 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+## The New Fantastic Four 1978
+<object data="https://archive.org/embed/the-new-fantastic-four-1978-complete-series" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
 [The IT Crowd US Pilot](https://archive.org/download/the-it-crowd_202204)
 <object data="https://archive.org/embed/the-it-crowd-us-pilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
