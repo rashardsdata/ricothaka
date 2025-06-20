@@ -19,6 +19,11 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+# [About](https://venus.wisc.edu/multimedia_video/messenger-venus-flyby/)[Venus](https://photojournal.jpl.nasa.gov/targetFamily/Venus):
+`Using archival data from the mission, launched in 1989, researchers have uncovered new evidence that tectonic activity may be deforming the planet’s surface.` [NASAJPL](https://www.jpl.nasa.gov/news/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/)
+<img class="ic" src="https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_coronae-mosaic.jpg" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7rVj_XbDnU?si=XS2lN8Mxt_cIkfRd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The New Fantastic Four 1978
 <object data="https://archive.org/embed/the-new-fantastic-four-1978-complete-series" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
