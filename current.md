@@ -25,7 +25,7 @@ title: Current
 
 <div class="section_2col ic">
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-cassini' %}
+    {% if image.path contains 'assets/images/gallery-cassini-1' %}
         <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
             <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
         </a>
