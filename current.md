@@ -19,6 +19,83 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+# Cassini: A Saturn Odyssey [lightbox](https://www.youtube.com/watch?v=fHaaIX-iSqM)
+<object width="560" height="315" data="https://www.youtube.com/embed/fHaaIX-iSqM?si=DN45gvgrgsmuI_nS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+@blackgirlscode hi have a great weekend [compiling](https://thakarashard.github.io/)
+
+<div class="section_2col ic">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-cassini-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
+
+# [Titan](https://science.nasa.gov/mission/cassini/science/titan/)
+[wiki](https://en.wikipedia.org/wiki/Titan_(moon)) [horizons @nasa @cityoflosangeles]([API SOURCE: @nasa-jpl Horizons API](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27606%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)) [photos](https://photojournal.jpl.nasa.gov/target/titan) 
+*******************************************************************************
+ Revised: Jan 26, 2022              Titan / (Saturn)                        606
+                         http://ssd.jpl.nasa.gov/?sat_phys_par
+                           http://ssd.jpl.nasa.gov/?sat_elem
+
+ SATELLITE PHYSICAL PROPERTIES:
+  Mean Radius (km)       = 2575.5   +-  2.0  Density (g/cm^3) =  1.880 +- 0.004
+  Mass (10^19 kg)        = 13455.3           Geometric Albedo =  0.2 
+  GM (km^3/s^2)          = 8978.14  +-  0.06  V(1,0)          = -1.2 
+
+ SATELLITE ORBITAL DATA:
+  Semi-major axis, a (km)= 1221.87 (10^3)  Orbital period     = 15.945421 d
+  Eccentricity, e        = 0.0288          Rotational period  = 
+  Inclination, i  (deg)  = 0.28
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / API_USER Fri Jun 20 14:50:16 2025 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: Titan (606)                     {source: sat441l}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: GEOCENTRIC
+*******************************************************************************
+Start time      : A.D. 2006-Jan-01 00:00:00.0000 UT      
+Stop  time      : A.D. 2006-Jan-20 00:00:00.0000 UT      
+Step-size       : 1440 minutes
+*******************************************************************************
+Target pole/equ : IAU_TITAN                       {West-longitude positive}
+Target radii    : 2575.15, 2574.78, 2574.47 km    {Equator_a, b, pole_c}       
+Center geodetic : 0.0, 0.0, -6378.137             {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.0, 0.0, 0.0                   {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}       
+Target primary  : Saturn
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun                             {source: DE441}
+Rel. lght bnd GM: 1.3271E+11 km^3/s^2                                          
+Atmos refraction: NO (AIRLESS)
+RA format       : HMS
+Time format     : CAL 
+Calendar mode   : Mixed Julian/Gregorian
+EOP file        : eop.250619.p250915                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2025-JUN-19. PREDICTS-> 2025-SEP-14
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+**************************************************************************************************************************
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/p/i/a/0/PIA08119.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/p/i/a/0/PIA08119.jpg)
+[API SOURCE: @nasa-jpl Horizons API](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27606%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+
+<div class="tupperware ic" markdown="1">
+	
+![PIA21450](https://photojournal.jpl.nasa.gov/figures/PIA21450_fig1.jpg)
+
+![PIA16167](https://photojournal.jpl.nasa.gov/jpegMod/PIA16167_modest.jpg)
+
+</div>
+
 # [About](https://venus.wisc.edu/multimedia_video/messenger-venus-flyby/)[Venus](https://photojournal.jpl.nasa.gov/targetFamily/Venus):
 `Using archival data from the mission, launched in 1989, researchers have uncovered new evidence that tectonic activity may be deforming the planet’s surface.` [NASAJPL](https://www.jpl.nasa.gov/news/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/)
 <img class="ic" src="https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_coronae-mosaic.jpg" />

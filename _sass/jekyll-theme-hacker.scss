@@ -951,6 +951,19 @@ embed {
   background: rgba(0, 0, 0, 0.8);
 }
 
+/* css class-declarations cannot start with a number */
+.section_2col {
+  display: grid;
+  width: auto;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 7px;
+  row-gap: 1em;
+}
+
+.section_2col img {width:100%;}
+
+.ic {
+  filter: contrast(200%); }
 
 /* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
 
