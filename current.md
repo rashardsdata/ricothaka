@@ -19,11 +19,12 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+![THESHAPEOFDEiSGN](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356713735i/13017981.jpg)
 ## The shape of Design
-by Frank Chimero
+by [Frank](https://monoskop.org/images/b/b4/Chimero_Frank_The_Shape_of_Design.pdf) [Chimero](https://www.kickstarter.com/projects/fchimero/the-shape-of-design)
 [https://shapeofdesignbook.com/](https://shapeofdesignbook.com/)
 [Archive](https://archive.org/details/sod-ebook/page/n13/mode/2up)
-![image](https://github.com/user-attachments/assets/b15752ba-1cdb-41ef-bf31-3879a0576db1) <@nasa-jpl @blackgirlscode #GOODREADS
+![image](https://github.com/user-attachments/assets/b15752ba-1cdb-41ef-bf31-3879a0576db1) <@nasa-jpl @blackgirlscode #[GOODREADS](https://www.goodreads.com/book/show/13017981-the-shape-of-design) @mozilla thanks for the rec!
 
 
 # Cassini: A Saturn Odyssey [lightbox](https://www.youtube.com/watch?v=fHaaIX-iSqM)
