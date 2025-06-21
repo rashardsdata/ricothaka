@@ -19,6 +19,8 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+![image](https://github.com/user-attachments/assets/55e4837c-7b13-4aa3-817d-a1dc6d9f99b7)
+
 ![THESHAPEOFDEiSGN](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356713735i/13017981.jpg)
 ## The shape of Design
 by [Frank](https://monoskop.org/images/b/b4/Chimero_Frank_The_Shape_of_Design.pdf) [Chimero](https://www.kickstarter.com/projects/fchimero/the-shape-of-design)
@@ -28,6 +30,8 @@ by [Frank](https://monoskop.org/images/b/b4/Chimero_Frank_The_Shape_of_Design.pd
 
 
 # Cassini: A Saturn Odyssey [lightbox](https://www.youtube.com/watch?v=fHaaIX-iSqM)
+![image](https://github.com/user-attachments/assets/44d55a47-b3ae-45ab-a83e-9f2eb90930d7)
+
 <object width="560" height="315" data="https://www.youtube.com/embed/fHaaIX-iSqM?si=DN45gvgrgsmuI_nS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 @blackgirlscode hi have a great weekend [compiling](https://thakarashard.github.io/)
 
