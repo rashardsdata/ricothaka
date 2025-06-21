@@ -19,6 +19,13 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+## The shape of Design
+by Frank Chimero
+[https://shapeofdesignbook.com/](https://shapeofdesignbook.com/)
+[Archive](https://archive.org/details/sod-ebook/page/n13/mode/2up)
+![image](https://github.com/user-attachments/assets/b15752ba-1cdb-41ef-bf31-3879a0576db1) <@nasa-jpl @blackgirlscode #GOODREADS
+
+
 # Cassini: A Saturn Odyssey [lightbox](https://www.youtube.com/watch?v=fHaaIX-iSqM)
 <object width="560" height="315" data="https://www.youtube.com/embed/fHaaIX-iSqM?si=DN45gvgrgsmuI_nS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 @blackgirlscode hi have a great weekend [compiling](https://thakarashard.github.io/)
