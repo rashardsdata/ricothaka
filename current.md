@@ -22,7 +22,8 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/bef53490-20b3-46e1-8053-e400dfee097d)
 An all-new Toyota Celica Supra debuted in 1982 offering the choice of a performance model or more luxury-focused L-Type version.[JonWong](https://www.cnet.com/roadshow/pictures/second-generation-toyota-celica-supra-gets-more-power-and-plusher/)
-[Wipeout 3 (2000)(Psygnosis)(US)[SLUS-00865] pamplet](https://archive.org/details/Wipeout_3_2000_Psygnosis_US_SLUS-00865/page/n21/mode/2up)
+
+[Wipeout 3 (2000)(Psygnosis)(US)SLUS-00865](https://archive.org/details/Wipeout_3_2000_Psygnosis_US_SLUS-00865/page/n21/mode/2up)
 ![image](https://github.com/user-attachments/assets/55e4837c-7b13-4aa3-817d-a1dc6d9f99b7)
 
 ![THESHAPEOFDEiSGN](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356713735i/13017981.jpg)
