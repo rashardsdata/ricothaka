@@ -19,9 +19,25 @@ title: Current
 {{ site.baseurl }}
 # Compiling
 
+[https://www.thedesignersrepublic.com/wipeout](https://www.thedesignersrepublic.com/wipeout)
+<object data="https://archive.org/embed/psx_wipeout3" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
+<div class="tupperware ic" markdown="1">
+
+
+![image](https://github.com/user-attachments/assets/d0550be7-9f2e-44e0-b83e-09120e244716)
+
+![image](https://github.com/user-attachments/assets/96f0e0b7-f25d-4cd3-997e-a8a943deef14)
+
+
+</div>
+
+ 
+[FANDom](https://wipeout.fandom.com/wiki/Wipeout_3)
 ![image](https://github.com/user-attachments/assets/bef53490-20b3-46e1-8053-e400dfee097d)
 An all-new Toyota Celica Supra debuted in 1982 offering the choice of a performance model or more luxury-focused L-Type version.[JonWong](https://www.cnet.com/roadshow/pictures/second-generation-toyota-celica-supra-gets-more-power-and-plusher/)
+
+<iframe src="https://archive.org/embed/wipeout3-soundtrack" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Wipeout 3 (2000)(Psygnosis)(US)SLUS-00865](https://archive.org/details/Wipeout_3_2000_Psygnosis_US_SLUS-00865/page/n21/mode/2up)
 ![image](https://github.com/user-attachments/assets/55e4837c-7b13-4aa3-817d-a1dc6d9f99b7)
