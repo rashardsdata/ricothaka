@@ -1,3 +1,30 @@
+
+
+
+ 
+### DonkeyKongCountry
+![DONKEY KONG COUNTRY @nintendo](https://upload.wikimedia.org/wikipedia/commons/7/78/Donkey_Kong_Country_Logo.webp)
+<iframe src="https://archive.org/embed/dkc_snes_2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Cloud_Mobile_C7](https://support.truconnect.com/s/article/Stratus-C7-User-Manual) [DONKEYKONGCOUNTRY:WiKi](https://en.wikipedia.org/wiki/Donkey_Kong_Country) 
+[Nintendo Training 1991](https://youtu.be/WYjgHLFZMa0) [Nintendo Power 1988 - 2004 .cbr files](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20001%20%28July-August%201988%29/) [REDDiT - Anyone know a good cbr/cbz/epub/pdf reader?](https://www.reddit.com/r/comicbooks/comments/17t5i4c/anyone_know_a_good_cbrcbzepubpdf_reader/) [Yacreader.com/](https://www.yacreader.com/) @yacreader [How Calibre Handles Comics](https://www.howtogeek.com/291916/how-to-view-cbr-and-cbz-comic-books-in-calibre/) [calibre - E-book management](https://calibre-ebook.com/)
+ 
+## DonkeyKongCountry @nintendo @libretro
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
+</video> 
+
+[Donkey Kong Country USA Commercial](https://www.youtube.com/watch?v=JqcraLSbtGY)
+[Donkey Kong Exposed: The Making of Donkey Kong Country](https://archive.org/details/donkey-kong-exposed-the-making-of-donkey-kong-country) [Donkey Kong Country - SNES Commercial US](https://youtu.be/SbHL8-XkXMA)
+
+<iframe src="https://archive.org/embed/donkey-kong-exposed-the-making-of-donkey-kong-country" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Nintendo Power Issue 066 November 1994](https://archive.org/details/nintendo-power-issue-066-november-1994/page/8/mode/2up)
+  [Nintendo_Power_066 NOVEMBER1994](https://dn721806.ca.archive.org/0/items/nintendo-power-issue-066-november-1994/Nintendo%20Power%20Issue%20066%20November%201994.pdf) [FANDOM](https://nintendo.fandom.com/wiki/Nintendo_Power_V66)
+<object data="https://dn721806.ca.archive.org/0/items/nintendo-power-issue-066-november-1994/Nintendo%20Power%20Issue%20066%20November%201994.pdf" type="application/pdf" width="600" height="400">
+ 
+[Nintendo Promotional VHS - someone walking through a collection](https://www.youtube.com/watch?v=V8zIZrY0tiM)
 ![Super Mario World (スーパーマリオワールド](https://upload.wikimedia.org/wikipedia/commons/1/10/Super_Mario_World_game_logo.svg)
 # [Super Mario World (スーパーマリオワールド](https://mario.fandom.com/wiki/Super_Mario_World)
 Sūpāmariowārudo [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro)
