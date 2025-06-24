@@ -2,9 +2,13 @@
 
 
  
-### [スーパードンキーコング](https://donkeykong.fandom.com/wiki/Donkey_Kong_Country), Sūpā Donkī Kongu
+### [スーパードンキーコング](https://donkeykong.fandom.com/wiki/Donkey_Kong_Country) / Sūpā Donkī Kongu / Donkey Kong Country
 ![DONKEY KONG COUNTRY @nintendo](https://upload.wikimedia.org/wikipedia/commons/7/78/Donkey_Kong_Country_Logo.webp)
 <iframe src="https://archive.org/embed/dkc_snes_2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![image](https://github.com/user-attachments/assets/9d2fa858-5d38-47fe-909b-47e0689de689)
+
 [FAndom](https://nintendo.fandom.com/wiki/Donkey_Kong_Country)
 [Cloud_Mobile_C7](https://support.truconnect.com/s/article/Stratus-C7-User-Manual) [DONKEYKONGCOUNTRY:WiKi](https://en.wikipedia.org/wiki/Donkey_Kong_Country) 
 [Nintendo Training 1991](https://youtu.be/WYjgHLFZMa0) [Nintendo Power 1988 - 2004 .cbr files](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20001%20%28July-August%201988%29/) [REDDiT - Anyone know a good cbr/cbz/epub/pdf reader?](https://www.reddit.com/r/comicbooks/comments/17t5i4c/anyone_know_a_good_cbrcbzepubpdf_reader/) [Yacreader.com/](https://www.yacreader.com/) @yacreader [How Calibre Handles Comics](https://www.howtogeek.com/291916/how-to-view-cbr-and-cbz-comic-books-in-calibre/) [calibre - E-book management](https://calibre-ebook.com/)
