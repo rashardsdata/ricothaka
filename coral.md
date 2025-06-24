@@ -26,7 +26,7 @@
 
 [Nintendo Power Issue 066 November 1994](https://archive.org/details/nintendo-power-issue-066-november-1994/page/8/mode/2up)
   [Nintendo_Power_066 NOVEMBER1994](https://dn721806.ca.archive.org/0/items/nintendo-power-issue-066-november-1994/Nintendo%20Power%20Issue%20066%20November%201994.pdf) [FANDOM](https://nintendo.fandom.com/wiki/Nintendo_Power_V66)
-<object data="https://dn721806.ca.archive.org/0/items/nintendo-power-issue-066-november-1994/Nintendo%20Power%20Issue%20066%20November%201994.pdf" type="application/pdf" width="600" height="400">
+<object data="https://dn721806.ca.archive.org/0/items/nintendo-power-issue-066-november-1994/Nintendo%20Power%20Issue%20066%20November%201994.pdf" type="application/pdf" width="600" height="400"></object>
  
 [Nintendo Promotional VHS - someone walking through a collection](https://www.youtube.com/watch?v=V8zIZrY0tiM)
 ![Super Mario World (スーパーマリオワールド](https://upload.wikimedia.org/wikipedia/commons/1/10/Super_Mario_World_game_logo.svg)
