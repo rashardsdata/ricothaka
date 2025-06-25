@@ -20,8 +20,9 @@ title: Current
 # Compiling
 
 # CellularSoap
-[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o)
-![image](https://github.com/user-attachments/assets/5298cc19-e31e-4834-a62f-d2006886ac22)
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [HoodBitCHAesthetic - RubiRose](https://soundcloud.com/rubianarose/hood-bitch-aesthetic?in=bubblegumpop-978449604/sets/startingover&si=395aceafbaeb470cb12ac5254c0f1a69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) [Damage
+H.E.R.](https://soundcloud.com/iamhermusic/damage?si=c63ab6b270724fc889739c88de09afd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+![image](https://github.com/user-attachments/assets/5298cc19-e31e-4834-a62f-d2006886ac22) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/140228818&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kevingates" title="Kevin Gates" target="_blank" style="color: #cccccc; text-decoration: none;">Kevin Gates</a> · <a href="https://soundcloud.com/kevingates/kevin-gates-stop-lyin-prod-by" title="Stop Lyin&#x27;" target="_blank" style="color: #cccccc; text-decoration: none;">Stop Lyin&#x27;</a></div>
 
