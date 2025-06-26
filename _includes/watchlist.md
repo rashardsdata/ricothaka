@@ -1,6 +1,43 @@
 
 # watchlist
 
+![アキラ](https://upload.wikimedia.org/wikipedia/commons/a/ab/Akira_logo.svg)
+
+
+<div class="tupperware ic" markdown="1">
+
+
+![image](https://images.darkhorse.com/covers/300/a/akira1.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p1.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p2.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p3.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p4.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p5.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p6.jpg)
+
+![image](https://images.darkhorse.com/common/salestools/previews/akirav1/akirav1p7.jpg)
+
+
+
+
+
+</div>
+
+
+[Akira (Marvel Comics English Version)](https://archive.org/details/akira-c-003-v-01-full-color-darkhorse/AKIRA%20-%20c001%20%28v01%29%20%5BFull%20Color%5D%20%5BDarkhorse%5D/) [Akira Vol. 1 TPB - darkhorse.com](https://www.darkhorse.com/Books/40-180/Akira-Vol-1-TPB)
+
+<iframe src="https://archive.org/embed/akira_20230402" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+`alt` [Akira - archive.org : great synopsis!](https://archive.org/details/akira_1988) [Akira (1988) - tokyvideo.com](https://www.tokyvideo.com/video/akira-1988) [akira english dub 2001 doesnt exist online anymore?? REDDit r/akira](https://www.reddit.com/r/akira/comments/swrubx/akira_english_dub_2001_doesnt_exist_online_anymore/)
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/WKrHRD9"  ><a href="//imgur.com/a/WKrHRD9">Akira</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
 
@@ -120,6 +157,7 @@ its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 
 
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
+
 <video controls preload="none"  width="100%" height="auto" poster="https://cover.box3.net/newsimg/dvdmov/max1126915764-frontback-cover.jpg">
 
   <source src="https://archive.org/download/a137ee3e2a37701695abd791d95bfeaf-1080p/a137ee3e2a37701695abd791d95bfeaf-1080p.mp4" type="video/mp4" />
