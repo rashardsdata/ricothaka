@@ -18,6 +18,40 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+@ nasa-jpl i have been sharing this url [https://rashardmro.github.io/](https://rashardmro.github.io/) as my [@LinkedIn](https://www.linkedin-status.com/), its just too disrespecful [@whitehouse](https://www.whitehouse.gov/news/) when i got into the relationship with the girl who is [The Teacher](https://www.youtube.com/watch?v=CiU3vIEdRMI&ab_channel=SaturdayNightLive) in that snl skit sister or whatever started raiding my fridge and my bed linkdin collapsed! I started getting thrown in the mental hospital in georgia an linkedin got status like [@github](https://www.githubstatus.com/) so since we all monitor things [like that](https://www.earthdata.nasa.gov/data/alerts-outages) . . .
+[Georgia Gateway](https://m.gateway.ga.gov/home)
+[Gateway Behavioral Health Crisis Center - https://gatewaycsb.org/](https://gatewaycsb.org/)
+![image](https://github.com/user-attachments/assets/27b654db-df14-484d-8854-d210589a8d54)
+
+![image](https://github.com/user-attachments/assets/a1c5fcc8-0c17-4cbe-a918-dc8a293a87de)
+
+# Pair released after shooting near Georgia Regional Hospital @ajc
+By [`Asia Simone Burns`](https://www.ajc.com/staff/asia-simone-burns/)
+@blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@Asia_EyeCandii__-blue?style=social&logo=X)](https://twitter.com/Asia_EyeCandii) [![Twitter Follow](https://img.shields.io/badge/Social-@ajc__-blue?style=social&logo=X)](https://twitter.com/ajc)
+Two bail bondsmen are free after an incident near Georgia Regional Hospital in DeKalb County, police confirmed to AJC.com.[Read @ajc](https://www.ajc.com/news/breaking-news/breaking-bounty-hunters-custody-after-shooting-near-georgia-regional-hospital/8S3qtvGjisoxl63ubxq7aN/)
+
+![image](https://github.com/user-attachments/assets/bd442f11-5dfb-4274-b269-c2d2e0f2149b)
+
+~ [ Division of Behavioral Health manages programs and services delivered by DBHDD’s community-based behavioral health providers for timely access to high-quality behavioral health treatment and support services. @nasa-jpl @whitehouse @nasa @blackgirlscode](https://dbhdd.georgia.gov/be-dbhdd)
+![https://careers.dbhdd.ga.gov/wp-content/uploads/2025/02/logo.svg](https://careers.dbhdd.ga.gov/wp-content/uploads/2025/02/logo.svg)
+
+## Video: What’s it’s like to report on the scene of Atlanta homicide
+[John Spink, Asia Simone Burns and Tyson A. Horne](https://www.ajc.com/news/crime/video-whats-its-like-to-report-on-the-scene-of-atlanta-homicides/UGMIXINKNRHRTE6Y5A2FBMOSX4/)
+
+# TamronHAllEmbed letter @nasa-jpl @w3c
+[SHaaDiThakaRashardRiCoTHakA - https://thakarashard.github.io/](https://thakarashard.github.io/) i asked her to check out embedding [i made a pen on @codepen](https://codepen.io/thakarashard/pen/EajrepQ)
+![image](https://github.com/user-attachments/assets/a9db042b-cf94-452a-8190-feae2bdf20eb)
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="EajrepQ" data-pen-title="tupperwareCol_6/20/2025" data-preview="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/EajrepQ">
+  tupperwareCol_6/20/2025</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
+
+![image](https://github.com/user-attachments/assets/a4964b6c-8be0-4a48-aa00-3df0c48d6301)
+
 
 # CellularSoap
 [GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [HoodBitCHAesthetic - RubiRose](https://soundcloud.com/rubianarose/hood-bitch-aesthetic?in=bubblegumpop-978449604/sets/startingover&si=395aceafbaeb470cb12ac5254c0f1a69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) [Damage
