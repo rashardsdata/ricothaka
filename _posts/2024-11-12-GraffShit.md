@@ -12,6 +12,20 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+# [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
+
+[From](https://www.youtube.com/watch?v=OG4ROzg78Bo)  [FuncrusherPlus](https://archive.org/details/company-flow-funcrusher-plus)
+
+![image](https://github.com/user-attachments/assets/22163702-040a-45a9-89e2-f81a82b9d934)
+
+<figure>
+  <figcaption>Funcrusher Plus Company Flow's 8Steps</figcaption>
+  <audio controls src="https://archive.org/download/company-flow-funcrusher-plus/Funcrusher%20Plus/02-8%20Steps%20To%20Perfection.mp3" type="audio/mpeg"></audio>
+  <a href="https://archive.org/download/company-flow-funcrusher-plus/Funcrusher%20Plus/02-8%20Steps%20To%20Perfection.mp3"> Download audio </a>
+</figure>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3m7E0Gk8gLI?si=jPP8N0ImRAGmOHKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
 
