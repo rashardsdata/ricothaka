@@ -12,9 +12,25 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+[Chappelle's Show - Mos Def](https://youtu.be/VFCey9o_0hY)
 # [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
 
-[From](https://www.youtube.com/watch?v=OG4ROzg78Bo)  [FuncrusherPlus](https://archive.org/details/company-flow-funcrusher-plus)
+![fridayiceSimpleScanStation20250627124857-5](https://github.com/user-attachments/assets/57ef43e3-d0e8-474e-b293-b342f9923799)
+
+![fridayiceSimpleScanStation20250627124857-6](https://github.com/user-attachments/assets/db95a31e-06d8-44e2-9f9a-a9aaf55ba8fd)
+
+  <audio controls src="https://archive.org/download/Nipsey_Hussle_and_DJ_Drama_-_Mailbox_Money-2015/04%20Nipsey%20Hussle%20-%20That%27s%20How%20I%20Knew%20%5BProd.%20By%20Sap%20%26%20Kicken%20J%5D.mp3" type="audio/mpeg"></audio>
+  <a href="https://archive.org/download/Nipsey_Hussle_and_DJ_Drama_-_Mailbox_Money-2015/04%20Nipsey%20Hussle%20-%20That%27s%20How%20I%20Knew%20%5BProd.%20By%20Sap%20%26%20Kicken%20J%5D.mp3">
+  Download audio </a>
+  
+[Nipsey Hussle & DJ Drama - Mailbox Money-2015](https://archive.org/details/Nipsey_Hussle_and_DJ_Drama_-_Mailbox_Money-2015) [Nipsey Hussle - Stucc In The Grind](https://www.youtube.com/watch?v=YA60W05DJlQ) [Nipsey Hussle - Funk Flex Freestyle (Stuck In The Grind)](https://www.youtube.com/watch?v=MHeOsO0OfZk) [Nipsey Hussle - Double Up Ft. Belly & Dom Kennedy](https://youtu.be/pwBFOuCrdr4) [Hussle and Motivate - Nipsey Hussle](https://youtu.be/nhcDl3S5sXQ) [Nipsey Hussle - Rap Niggas](https://youtu.be/deBu2utOqvs) [Nipsey Hussle - Victory Lap feat. Stacy Barthe](https://youtu.be/iYC9iMTC5QM) [Nipsey Hussle - Status Symbol 3 Ft. Buddy](https://youtu.be/LAJkL4dZpzk?list=RDLAJkL4dZpzk) [Nipsey Hussle - The Marathon Continues - (Short Film) Victory Lap](https://youtu.be/mFagL6yRB38)
+
+# [Nipsey](https://www.tiktok.com/@inspirationalflo/video/7294386375011650862) Hussle's [Journey](https://www.youtube.com/watch?v=yf7kSEETz5g) Of Opening A Store In The Middle Of His [Hood](https://www.youtube.com/watch?v=e9LdM6-mgAk) In [Crenshaw](https://youtu.be/QM9xgHibvzM?si=KXXSkQiunCffZKJg) (Documentary)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FnFUCgo7x8?si=V6-3kxfW5gT22X6-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[From](https://www.youtube.com/watch?v=OG4ROzg78Bo)  [FuncrusherPlus](https://archive.org/details/company-flow-funcrusher-plus) [Gucci Mane Presents "The Spot" Movie Co-Starring Keyshia Ka'oir & Rocko](https://youtu.be/vHeCGkivP3c)
 
 <iframe src="https://archive.org/embed/company-flow-funcrusher-plus" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
