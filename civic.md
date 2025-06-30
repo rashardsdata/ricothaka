@@ -28,7 +28,7 @@ anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/th
 
 <iframe src="https://archive.org/embed/sim_los-angeles-times_the-los-angeles-times_1895-08-15" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode | I, Darrin, Take This Witch, Samantha | S1E1 | Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
 
 The Port of Los Angeles: a History
 <iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -128,10 +128,7 @@ This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.or
 ![HollyHock](https://d1y502jg6fpugt.cloudfront.net/39863/archive/thumbnails/2e3c7ec0468d485fafe216928de8b6f1.jpg?Expires=1721260800&Signature=XDemaQtYYKrpWNXub57cEesK%7EJrURjPXKERaQAR5liG89UZJsIrvvATzQKZSX6Df5hNhDAnKRlE5jVkqzUkaOpS0Qiafvfc%7EFdY9VYatUdcHFlCqWwQWA1hZvFbVFDwyrK00gFFzcHuZ5NaYCeCcq29TghI1BGFap4CIm-0J%7EGvEEUEeg9S7uUNG-%7E1rkoAYaWbMLrf8JnAxlYIMb82Zz2%7EOubxJiaqHEc-przty56DfawYvpTe03uDG9o2REXuhncdUvtq2WU%7EehkeGSV8k5Ax%7Ej53rb2S3cUCMz3CBzR7KpdgbdXk814SIPv6-Y-gdsqxZf3UpSSzCJudVtW5ZUw__&Key-Pair-Id=K6UGZS9ZTDSZM)
 ![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ) 
 
-![Helvetica](https://pbs.twimg.com/media/GQD9pDwaQAEU-bs?format=jpg&name=large)
-  <embed src="https://player.vimeo.com/video/398873298?h=86b3bc6046&color=ff0179"  />
-<p><a href="https://vimeo.com/398873298">Hevetica</a> from <a href="https://vimeo.com/pkprojects">PK-Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
-<p>Helvetica the movie - English subtitles</p>
+
 
 [Seal of Los Angeles County, California](https://en.wikipedia.org/wiki/Seal_of_Los_Angeles_County,_California)
 
