@@ -17,7 +17,41 @@ title: Current
 
 {{ site.url }}
 {{ site.baseurl }}
+
 # Compiling
+### Divide and Conquer (film)
+[Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
+
+<video controls 
+  src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
+  poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+### [Divide and Conquer](https://commons.wikimedia.org/wiki/File:U.S._War_Department_-_Divide_and_Conquer_(1943).webm)
+
+Divide and rule policy (Latin: divide et impera), or divide and conquer, in politics and sociology is gaining and maintaining power divisively. This includes the exploitation of existing divisions within a political group by its political opponents, and also the deliberate creation or strengthening of such divisions.
+
+The strategy, but not the phrase, applies in many ancient cases: the example of Aulus Gabinius exists, parting the Jewish nation into five conventions, reported by Flavius Josephus in Book I, 169–170 of The Jewish War (De bello Judaico).[1] Strabo also reports in Geographica, 8.7.3[2] that the Achaean League was gradually dissolved when it became part of the Roman province of Macedonia, as the Romans treated the various states differently, wishing to preserve some and to destroy others.[citation needed]
+
+Elements of this technique involve: [citation needed]
+
+creating or encouraging divisions among the subjects to prevent alliances that could challenge the sovereign and distributing forces so that they overpower each other.
+aiding and promoting those who are willing to cooperate with the sovereign
+fostering distrust and enmity between local rulers
+encouraging meaningless expenditures that reduce the capability for political and military spending [Read<oreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_rule) [imdb](https://www.imdb.com/title/tt0173769/)
+
+[Murphy Ranch Road Trail](https://trails.lacounty.gov/Trail/311/murphy-ranch-road-trail) [Murphy’s Ranch: Abandoned Nazi Camp in Santa Monica](https://californiathroughmylens.com/murphys-ranch-abandoned-nazi-camp-in-santa-monica/)
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 @ nasa-jpl i have been sharing this url [https://rashardmro.github.io/](https://rashardmro.github.io/) as my [@LinkedIn](https://www.linkedin-status.com/), its just too disrespecful [@whitehouse](https://www.whitehouse.gov/news/) when i got into the relationship with the girl who is [The Teacher](https://www.youtube.com/watch?v=CiU3vIEdRMI&ab_channel=SaturdayNightLive) in that snl skit sister or whatever started raiding my fridge and my bed linkdin collapsed! I started getting thrown in the mental hospital in georgia an linkedin got status like [@github](https://www.githubstatus.com/) so since we all monitor things [like that](https://www.earthdata.nasa.gov/data/alerts-outages) . . .
 [Georgia Gateway](https://m.gateway.ga.gov/home)
 [Gateway Behavioral Health Crisis Center - https://gatewaycsb.org/](https://gatewaycsb.org/)
