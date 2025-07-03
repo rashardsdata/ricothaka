@@ -17,7 +17,121 @@ title: Current
 
 {{ site.url }}
 {{ site.baseurl }}
+
 # Compiling
+### Divide and Conquer (film)
+
+[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
+
+[Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
+
+<video controls 
+  src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
+  poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+### [Divide and Conquer](https://commons.wikimedia.org/wiki/File:U.S._War_Department_-_Divide_and_Conquer_(1943).webm)
+
+Divide and rule policy (Latin: divide et impera), or divide and conquer, in politics and sociology is gaining and maintaining power divisively. This includes the exploitation of existing divisions within a political group by its political opponents, and also the deliberate creation or strengthening of such divisions.
+
+The strategy, but not the phrase, applies in many ancient cases: the example of Aulus Gabinius exists, parting the Jewish nation into five conventions, reported by Flavius Josephus in Book I, 169–170 of The Jewish War (De bello Judaico).[1] Strabo also reports in Geographica, 8.7.3[2] that the Achaean League was gradually dissolved when it became part of the Roman province of Macedonia, as the Romans treated the various states differently, wishing to preserve some and to destroy others.[citation needed]
+
+Elements of this technique involve: [citation needed]
+
+creating or encouraging divisions among the subjects to prevent alliances that could challenge the sovereign and distributing forces so that they overpower each other.
+aiding and promoting those who are willing to cooperate with the sovereign
+fostering distrust and enmity between local rulers
+encouraging meaningless expenditures that reduce the capability for political and military spending [Read<oreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_rule) [imdb](https://www.imdb.com/title/tt0173769/)
+
+[Murphy Ranch Road Trail](https://trails.lacounty.gov/Trail/311/murphy-ranch-road-trail) [Murphy’s Ranch: Abandoned Nazi Camp in Santa Monica](https://californiathroughmylens.com/murphys-ranch-abandoned-nazi-camp-in-santa-monica/)
+
+
+[Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
+
+## Groundwater Declines in the U.S. Southwest
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
+## cellular magic mirror
+![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
+
+![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
+![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
+![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
+
+![LA](https://pbs.twimg.com/media/GXi-9RGaAAABja8?format=jpg&name=4096x4096)
+
+[Cryogenic Fluid Management News](https://www.nasa.gov/space-technology-mission-directorate/tdm/cryogenic-fluid-management-cfm/)
+
+![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
+
+[Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
+<video controls width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Citizen-Kane-Soundstage.jpg/960px-Citizen-Kane-Soundstage.jpg">
+    
+<source src="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4">MP4</a>
+        video.
+</video> 
+![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
+![Ms_Bass](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbmU0ajB4ejJzZWg5MGp6amk4dG5pcmV6ZnFodDNwYzkwdWdiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gu8XqgfYOZyLsd4n3d/giphy.webp)
+
+# Ms Bass
+I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory](https://www.latimes.com/archives/la-xpm-1990-11-30-me-5582-story.html). I need you to listen to her perspective. The people that make a lot of moves here dont know that its an ancient civilization! California was a satilitte of [Abyssinia](https://en.wikipedia.org/wiki/Ethiopian_Empire) millenia b4 a german waddled overhere! And the children have no respect for us! [Muni_Long](https://www.youtube.com/watch?v=vYa3ak-3p60) did some research and so did Erika and a few other girls i know with Ethioppian roots and determined that we were somalian egyptins or something... [OROMO](https://www.youtube.com/playlist?list=PLL2oNlnkQQGA1B8b0LZCz8SoFhGCZiera). Those are the children of  [Nebuchadnezzar II](https://quran.com/en/5:70/tafsirs/en-tafsir-maarif-ul-quran) moved the familyawayfromiRaq after an Ecological Attack and they settled near the [Garden Of Eden](https://anglo-ethiopian.org/publications/articles.php?type=L&reference=publications/articles/2011spring/paradise.php) in Ethiopia. At least thats where myBiblerearing brought me. So this is it.I have holes in myflesh leaking yellow fluid, if i go to UCLA they chop my legoff! And I get no access to my family likeim really mistreated personally bc i have a relationship with a popstar that got [victimizedbyporn](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/) and its a system PlayBoy put in place to eliminate any trace of the africans rulership of this region. And since He was fromIraq and moved south to Ethiopia the asian Presence in Los Angeles makes sense! And We have similar things that pop out in group dance. i love normaNi for sharing that with me. Now when you read [Atomic_Redhead](https://x.com/atomic_redhead) aarticle about The Citadel I want you to examine the architechture and see if answers exist that NAsaJPL can use to reconcile e family  ![Ethiopian in PreColumbian America](https://pbs.twimg.com/media/GWbXMKvaQAAif_m?format=jpg&name=small)
+![Rolling Stone Normani](https://pbs.twimg.com/media/ER3fr_8WoAICxpW?format=jpg&name=small)
+
+> But why an Assyrian inspired design? There are two thoughts on that. One is in the name of the company itself, Samson. Samson was a character from the Bible and known for his strength. “There’s the idea about strength in tires, and that tires are the foundation for your car,” said Adrian Scott Fine of the Los Angeles Conservancy. Fine also pointed to the fact that King Sargon’s palace, Dur-Sharrukin, had been in the headlines earlier in 1928, as it was being excavated by American archaeologists. And some of the images on the company’s main building reflect those of King Sargon. King Sargon reigned from 721 B.C. to 705 B.C. in what is now Khorsabad, Iraq. </cite> - [AtomicRedHead.cOm](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
+
+[Why LA's Citadel Looks Like An Ancient Assyrian Palace](https://laist.com/news/why-las-citadel-looks-like-an-ancie) [An Assyrian Palace Is Reborn as a Discount Outlet in a Fusion of Style and Savvy](https://www.latimes.com/archives/la-xpm-1991-02-03-re-648-story.html) [Who Knew #2 Before the Citadel Outlets the Tire Companies](https://lifeaccordingtoerick.blogspot.com/2014/08/who-knew-2-before-citadel-outlets-tire.html) [Proposed LA Metro Station](https://en.wikipedia.org/wiki/Citadel_Outlets) [Los Angeles: A Community of the Living and the Dead.](https://www.theartblog.org/2010/10/los-angeles-a-community-of-the-living-and-the-dead/) [The Outlet Mall Masquerading as an Assyrian Palace](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
+
+![Citadel](https://socallandmarks.com/index.php/2021/09/17/the-citadel-outlets/)
+![Citadel lifeaccordingtorick.blogspot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Dmq9JZUpJz1xIFmnPiXV55ykxBoBvnBdkzbXIBe_5NcvEslklMtJ8vQF-HmDsJlBkm6oBb34DVsTB9wZjjal8a7hKlr_E5-H_D5e3a49hMee_yJ6zRAF7oYmUlfOKGY2SuIBnPlL73NS/s1600/samson2.jpg)
+![citadel assyrian](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Citadel_Outlet_Los_Angeles_%284010395462%29.jpg/1024px-Citadel_Outlet_Los_Angeles_%284010395462%29.jpg)
+![atomicredhead.com](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel015.jpg?quality=100&strip=all&ssl=1)
+![cuniform](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel030.jpg?resize=765%2C510&quality=100&strip=all&ssl=1)
+![i c y](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel008.jpg?quality=100&strip=all&ssl=1)
+
+
+### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
+## 1968: East Los Angeles Walkouts
+Discrepancies in the education of Anglo and Mexican-American students surfaced in Los Angeles during the 1950s and 1960s. Mexican-American students experienced a 60% dropout rate from high school, and those who did graduate averaged the reading level of an 8th grade Anglo student. In some schools, teachers prohibited students from speaking Spanish, and in others, school staff recommended Mexican-American students educational curriculum meant to help students with mental disabilities. These schools funneled many Mexican American students into vocational programs and discouraged from post-secondary studies. In response, students, teachers, parents, and activists began to organize.[ContinueReading](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts) [Related Tweet EastLosangeles Today](https://x.com/RicoThaka/status/1831786037527638408)
+
+
+[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
+[LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
+![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
+
+![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
+
+### Dear Rep/Mayor Karen,
+I signed up for a class that [NASAJPL](https://ecostress.jpl.nasa.gov/events/ecostress-science-and-application-team-meeting-fall-2024) is offering at [CourtYard by Marriot Pasadena](https://www.booking.com/hotel/us/courtyard-los-angeles-pasadena-monrovia.html). As you can see in the [LAPD DETAinMENT on METROLA PDF](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf), I was accused of Tresspassing. I i dont know what i need to do to use the transit system safely. LAPD is pushing [FareEnforcement](https://abc7.com/post/metro-safety-stopping-fare-evaders-seen-key-preventing-crime/15054806/) but are not making exceptions. If you look at the graphic below in my [GMAiL_EMAiL_iNBOX](https://pbs.twimg.com/media/GXd4idMbwAUqOMQ?format=jpg&name=large) you will see that Los Angeles Police never emailed me back after i was victim of that Armed Gunman at CityHAll with the Playboy Backpack on, so this Tap card thing. I see people at Saint Francis with MailBoxes and There is this place in Santa Monica that offer mailboxes, but im in a different situation since i was Abandoned. I took a shower at [Reality_LA](https://realityla.com/), AND I KNOW The Medicated Shampoo and Terry Cloth towel Pulled out at least 200 bugs! The Larve breask my hair down and it just cracks off while Dry Scapl tortures me with itching and burning. Please send a team from NasaJPL to talk to them about what [Entomological warfare](https://en.wikipedia.org/wiki/Entomological_warfare#:~:text=EW%20is%20a%20specific%20type,the%20insects%20over%20target%20areas.) looks like in [Los Angeles ](https://apps.dtic.mil/sti/pdfs/ADA530979.pdf).
+
+So I want to make sure i can make the [ECOSTRESS Science and Application Team Meeting - Fall 2024](https://ecostress.jpl.nasa.gov/events/ecostress-science-and-application-team-meeting-fall-2024) meeting and start making more progress on getting my badge back. Whereever my daughter is, Erika, and the dancing girls... Id dont matter! I have to be badged. [A California driver’s license](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/) used to be easy to renew. People will not call nasajpl and they look criminal all through los angeles. One of those briefcase Cellphone providers i tried made me scared bc the calls to the front desk are routed to a Hollywood Action Movie actor who was lying to me about important processes there. [HollywoodFoodCo](https://hofoco.org/) have raffles fo id_vouchers. They have no idea how silly they look every single time i get that mediocre ass food! dead bird etc no rice...  <a href="https://ricothaka.github.io/worknotes03/#urbanheat">Click here</a> to see NASAJPL coverage of the LosangelesHeat wave and its a conversation that connects to P{Hytoplankton}, Chemical Lacerations, and unwanted amputations implemented on "[The Homeless](https://www.latimes.com/homeless-housing/story/2024-09-13/los-angeles-homeless-proposal-20-billion)"
+
+### Related Tweets
+- [#its_Rashard iSigned up for the #ECOSTRESS_WORKSHOP #NASAJPL PasadenaFD](https://x.com/RicoThaka/status/1835051975114998091)
+- [#Akire Uhave #FaceToFaceHistory with @B2K @marqueshouston!he works for 911LAPD today](https://x.com/MooNLOVER404/status/1834654762064863649) I wrote @normani a mushy note an #the_nigga_forced_me_to submit a #FingerPrint! and called me #Transient! *there was twitter rhythm in the detainiment*
+[@uspto those #Perl sites are blocked  @LAPublicLibrary http://appft.uspto.gov and http://pdfaiw.uspto.gov @esa @nickyjenner1 @nasamars #Help #XML](https://x.com/MooNLOVER404/status/1834668119840981019)
+[Ms Karen Bass I got the Covid Patents from pdfaiw.uspto.gov](https://x.com/RicoThaka/status/1833658284961882433)
+[My History NASAJPL+JEHOVAHSWiTNESSES](https://x.com/MooNLOVER404/status/1740842550393712971)
+[VanishingFamily](https://x.com/MooNLOVER404/status/1740840534099525978)
+[NASAJPL on HOLLYWOOD WALK OF FAME](https://x.com/MooNLOVER404/status/1761520866612187488)
+[Rumatoid Authritis ,,, is it Chemwar?](https://x.com/RicoThaka/status/1729962943025148011) 
+[LA COUNTY MAPPiNG DATA](https://x.com/RicoThaka/status/1832207566585393420)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 @ nasa-jpl i have been sharing this url [https://rashardmro.github.io/](https://rashardmro.github.io/) as my [@LinkedIn](https://www.linkedin-status.com/), its just too disrespecful [@whitehouse](https://www.whitehouse.gov/news/) when i got into the relationship with the girl who is [The Teacher](https://www.youtube.com/watch?v=CiU3vIEdRMI&ab_channel=SaturdayNightLive) in that snl skit sister or whatever started raiding my fridge and my bed linkdin collapsed! I started getting thrown in the mental hospital in georgia an linkedin got status like [@github](https://www.githubstatus.com/) so since we all monitor things [like that](https://www.earthdata.nasa.gov/data/alerts-outages) . . .
 [Georgia Gateway](https://m.gateway.ga.gov/home)
 [Gateway Behavioral Health Crisis Center - https://gatewaycsb.org/](https://gatewaycsb.org/)
