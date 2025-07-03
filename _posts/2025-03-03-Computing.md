@@ -4,6 +4,20 @@ title: computing
 published: true
 ---
 
+
+
+
+# CALiFORNiA_LiNUX feat [VsCodeGithubEMBED](https://code.visualstudio.com/docs/setup/vscode-web) [download](https://code.visualstudio.com/)
+<iframe src="https://archive.org/embed/screen-recording-2025-07-02-6.23.42-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2sdXMJZKLJE?si=wVcyy4QCwLnPucWJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![VSCODE](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+
+
+[How Internet Traffic works (Warriors of the Net).mp4](https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hack%20-%20How%20Internet%20Traffic%20works%20%28Warriors%20of%20the%20Net%29.mp4) https://archive.org/download/ComputerHackingDocumentriesMegaCollection
+
+
 ### PortableLinks
 If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.io/liquid/) file is hosted on differing urls but have the same content, `{{ site.url }}{{ site.baseurl }}` between quotes is a [JekyllVariable](https://jekyllrb.com/docs/variables/) theres so much that can be [defined](https://jekyllrb.com/docs/liquid/) during [Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/) that [LiquidMarkup]() will give the url of your [CurrentRepo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example)
 ```html

@@ -12,6 +12,9 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExXt21DDDY8?si=CQvK3R2ad2TOSeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Chappelle's Show - Mos Def](https://youtu.be/VFCey9o_0hY)
 # [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
 
