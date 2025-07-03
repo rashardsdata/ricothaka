@@ -18,7 +18,7 @@
 [Cryogenic Fluid Management News](https://www.nasa.gov/space-technology-mission-directorate/tdm/cryogenic-fluid-management-cfm/)
 
 ![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
-![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
+
 [Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
 <video controls width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Citizen-Kane-Soundstage.jpg/960px-Citizen-Kane-Soundstage.jpg">
     
@@ -28,7 +28,7 @@
 <a href="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4">MP4</a>
         video.
 </video> 
-
+![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
 ![Ms_Bass](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbmU0ajB4ejJzZWg5MGp6amk4dG5pcmV6ZnFodDNwYzkwdWdiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gu8XqgfYOZyLsd4n3d/giphy.webp)
 
 # Ms Bass
