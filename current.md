@@ -18,7 +18,11 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 
-# Compiling
+# Compiling 
+@nasa-jpl someone deleted my pdf archive with riot data
+<iframe src="https://archive.org/embed/clippings_202507" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+@nasa 
+
 ### Divide and Conquer (film)
 
 [1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
