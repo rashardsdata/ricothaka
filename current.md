@@ -19,6 +19,19 @@ title: Current
 {{ site.baseurl }}
 
 # Compiling 
+# [horizons](horizons.jpl.nasa.gov)
+```shell
+You have 10 minutes to retrieve the following by anonymous FTP/HTTPS:
+   Machine name:  ssd.jpl.nasa.gov
+   Directory   :  cd to "/pub/ssd/"
+   File name   :  wld3343964.15
+   File type   :  ASCII (transfer format)
+   Full path   :  https://ssd.jpl.nasa.gov/ftp/ssd/wld3343964.15
+
+ Select ... [E]phemeris, [R]edisplay, ?, <cr>:
+```
+
+
 @nasa-jpl someone deleted my pdf archive with riot data
 <iframe src="https://archive.org/embed/clippings_202507" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 @nasa 
