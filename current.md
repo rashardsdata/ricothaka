@@ -29,11 +29,11 @@ title: Current
 
 <div class="tupperware">
 <video preload="auto" width="auto" height="500px" controls> 
-        <source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4" type="video/mp4">         
+<source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4" type="video/mp4">         
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-042800.mp4" type="video/mp4">         
+<source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-042800.mp4" type="video/mp4">         
       
 </video> 
 </div>
