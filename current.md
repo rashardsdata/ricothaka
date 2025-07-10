@@ -20,6 +20,123 @@ title: Current
 
 
 # Compiling
+[Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
+
+![image](https://github.com/user-attachments/assets/74ffc323-c036-4121-869c-f5fc9d58533e)
+![image](https://github.com/user-attachments/assets/cfa90176-8eff-4d2d-92a3-d4caf4ce0877)
+
+![image](https://github.com/user-attachments/assets/47b532f3-e762-4210-b7fd-e779c2453fb4)
+
+[LDOPE @nasa-jpl](https://landweb.modaps.eosdis.nasa.gov/) 
+[KOLA 99.9](https://www.kolafm.com/) 
+is a commercial FM radio station licensed to [Redlands](https://www.cityofredlands.org/), [California](https://www.google.com/search?sca_esv=b7953b605ea5985e&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifM6z9PzBccRJMcZEA4e1mixTnhMyg:1752004504978&q=redland+california&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8EE7njRrb2FMGWExx-5ARS2dDjUqH8P7GJI3gXZTNa1ewV-CLv5ZT6fd_dbJFn0Njuz_e0Wu8_7yRkIN2Hnn3CAfH2L-S7a8qDrs-1gsjyM8Z0amfVSgtxyeHYqukoLI3D0Zmnhhn-5vvvmaIzjmG6rQIfOyt7B-TolXJ2CsS93wxGt2JQ&sa=X&sqi=2&ved=2ahUKEwjC6Kexha6OAxWmJ0QIHetYFj0Q0pQJKAN6BAgiEAE&biw=960&bih=945&dpr=1), and airs a classic hits radio format.
+- [listenlive.co/42241](https://player.listenlive.co/42241)
+[https://archive.org/details/screen-recording-2025-07-07-123028](https://archive.org/details/screen-recording-2025-07-07-123028)
+
+[Video @nasa of my activity during the jun7 iss flyover los angeles](https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4)
+![image](https://github.com/user-attachments/assets/4e167691-fcdc-495b-b740-4a2aa68402c1)
+
+@NorthropGrumman 
+# STPSat-6
+Advanced Spacecraft for the
+USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-content/uploads/DS-69-STPSat-6.pdf?v=1.0.0) : [WiKi](https://en.wikipedia.org/wiki/Space_Test_Program) : check the comments on this post
+  [SpaceCommand](https://www.ssc.spaceforce.mil/Connect-With-Us/Space-Systems-Command-Front-Door/Space-Test-Program) [USAF Space and Missile Systems Center](https://ntrs.nasa.gov/api/citations/19960054106/downloads/19960054106.pdf) [class](https://www.geo.arizona.edu/content/PlanetaryGeoscience?_gl=1*a03zo4*_gcl_au*MTQwNzAyMTMxMi4xNzUyMDg0Mzcz*_ga*NzI2OTI4MDg4LjE3NTIwODQzNzM.*_ga_7PV3540XS3*czE3NTIwODQzNzMkbzEkZzEkdDE3NTIwODQ0MjMkajEwJGwwJGg3NTE0NDY4NTQ.) [KirtLand.af](https://www.kirtland.af.mil/Portals/52/Innovation%20and%20Prototyping%20Fact%20Sheet_PA%20Approved.pdf) [Space Test Program (STP) Management and Funding(https://dod-executiveagent.osd.mil/Agents/ViewAgent.aspx?agentId=56) [RAiden_DX](https://archive.org/details/arcade_raidendx#)
+
+<div class=tupperware markdown="1">
+
+![image](https://github.com/user-attachments/assets/93607547-f37b-47fe-8c1b-ecb80de43ba6)
+
+![image](https://github.com/user-attachments/assets/875c42eb-81cc-4078-80b5-2582b1e82f49)
+
+
+</div>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid02MdLMDV8jJPyDzmRaLSdeWutg7X9vpHX5MVkk262FQr5LQUhYgWN9TM2BZd4PMFQVl&show_text=false&width=500" width="500" height="333" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid028NvzNHBMTBuC7tqhSsQceuEUHLzTEo3hF12Xp9i8C7zaZeGUYikqFEH57GYQ6k4Vl&show_text=true&width=500" width="500" height="559" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
+
+
+### [Heavy Metal - 1981](https://archive.org/details/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify) 
+[4later](https://svs.gsfc.nasa.gov/20405/)
+
+<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![image](https://github.com/user-attachments/assets/57e5acda-23bd-48d9-bebb-93c0ad595825)
+
+
+@usgs @nasa-jpl @podaac 
+# [The WaterDashBoard is back up]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-116.66617%2C29.83053%2C-98.303%2C44.1844%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-116.66617129965529%2C29.830529926211778%2C-98.30299535512766%2C44.18440445023236%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%222%2C3%2C4%2C7%2C16%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A1%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+@nasa-jpl @nasa @atfweb @dhs-gov @cityoflosangeles @ucla @stateofcalifornia Mayor KAren, Our cameras in [Losangeles](https://archive.org/details/historyoflosange00wils/page/n5/mode/2up) are broken, still, [play with the map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-116.66617%2C29.83053%2C-98.303%2C44.1844%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-116.66617129965529%2C29.830529926211778%2C-98.30299535512766%2C44.18440445023236%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%222%2C3%2C4%2C7%2C16%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A1%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) ! I included goodies the team added in like water temp etc... its your drought report for [Mr NEwsom @CAWaterBoardDataCenter](https://apnews.com/article/gavin-newsom-south-carolina-democratic-primary-d04d1f313fbe7697aa31785e0e47440b), [DroughtMon](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?conus) is another tool, im working on [Aviris](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2189) and will come back later @whitehouse @nasa @nasa-jpl 
+![image](https://github.com/user-attachments/assets/444090e6-9b3b-42ed-a2d1-6040e2a9690e)
+![image](https://github.com/user-attachments/assets/28f995b1-4c4e-4cb4-b33b-890066c7a03f)
+
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+
+[SWOT Monitors Warming Waters Off California Coast
+Full Resolution](https://svs.gsfc.nasa.gov/31247/)
+![@nasa-jpl @noaa SWOT](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031247/SWOT_2023-08_ca_coast_PIA26091_print.jpg)
+
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
+  video.
+</video>
+
+# Daytona USA [(Revision A)](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
+
+on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe) i may have to add a [poster](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/poster) attribute manually like with the [`<video>`](https://en.wikipedia.org/wiki/HTML_video) tag
+```
+<iframe src="https://www.retrogames.cc/embed/43757-daytona-usa-revision-a.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+```
+![image](https://github.com/user-attachments/assets/a82dcd0e-1c97-420e-9d1a-66367f156e9f)
+
+
+# Compiling
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/783645610108764160" data-did="f32e6c3ee19da9c765e998d7560dadacdf797d76"><a href="https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications">https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+# Global Human Built-up And Settlement Extent (HBASE) [Dataset](https://www.earthdata.nasa.gov/data/catalog/esdis-ciesin-sedac-ulandsat-hbase-v1-1.0) From Landsat
+[SEDAC](https://sedac.ciesin.columbia.edu/maps/gallery/search#) 
+
+
+[Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
+
+![image](https://github.com/user-attachments/assets/74ffc323-c036-4121-869c-f5fc9d58533e)
+
+![image](https://github.com/user-attachments/assets/47b532f3-e762-4210-b7fd-e779c2453fb4)
+
+<embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
+
+[htau](https://rashardci.github.io/holetoanotheruniverse/) [RicoThaka:Rashard](https://rashardci.github.io/holetoanotheruniverse/) has been my handle since [covidlockdown @nasa-jpl](https://gov.georgia.gov/press-releases/2020-03-16/kemp-declares-public-health-state-emergency) 
+ppl went crazy idolizing people [diy projects](https://youtu.be/gbzhR5z1T1g?si=rrnEU0fjpwETn2zq) [i started taking notes] on [losAngelesInFrastructure](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/civic.md) 
+![image](https://github.com/user-attachments/assets/81d251d5-637c-452a-a184-67685a1113b7)
+![image](https://github.com/user-attachments/assets/f54ac1d9-a032-4e2c-a7a0-d0fd857c125a)
+
+[Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html)
+![image](https://github.com/user-attachments/assets/baaa1d68-9dc5-402d-859f-ce365604fd02)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-03](https://github.com/user-attachments/assets/65977d36-712d-44a7-9f43-3fed31687f1c)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-01](https://github.com/user-attachments/assets/0bacaf25-1c6b-4ebb-9f41-32ad2df3eae4)
+[https://ode.rsl.wustl.edu/mars/](https://ode.rsl.wustl.edu/mars/)
+
 # [flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
 
 <iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
