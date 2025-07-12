@@ -20,7 +20,7 @@ title: Current
 
 
 # Compiling
-[LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html)
+[LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html) @nasa @nasa-jpl [RiotData](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/13/newsstand.html) im organizing what moved in the soil, there was a lot of [land disturbance](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/)
 <img src="https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa" alt="image"/>
 
 <video preload="auto" width="auto" height="400px" controls> 
