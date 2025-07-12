@@ -21,6 +21,53 @@ title: Current
 
 # Compiling
 
+# Don't Be a Sucker @paramount-engineering
+Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
+[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
+
+<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
+
+  <source src="https://en.wikipedia.org/wiki/File:Don%27t_Be_a_Sucker_(high_resolution_35mm_transfer).webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://en.wikipedia.org/wiki/File:Don%27t_Be_a_Sucker_(high_resolution_35mm_transfer).webm">MP4</a>
+  video.
+</video>
+
+# [@github @atfweb @nasa-jpl @cityoflosangeles @stateofcalifornia @tesla @nasa @whitehouse @dhs-gov](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) [:WikiTALK:](https://en.wikipedia.org/wiki/Talk:United_States_Army_Signal_Corps)
+
+<img width="800" height="1047" alt="image" src="https://github.com/user-attachments/assets/c3d689ca-796b-4faf-8a58-d42e0b6aa64a" />
+
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+
+[SWOT Monitors Warming Waters Off California Coast
+Full Resolution](https://svs.gsfc.nasa.gov/31247/)
+![@nasa-jpl @noaa SWOT](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031247/SWOT_2023-08_ca_coast_PIA26091_print.jpg)
+
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
+  video.
+</video>
+
+
 # ガンスミス キャッツ
 [link](https://mangafire.to/manga/gunsmith-catss.53km) [wiki](https://yandex.com/search?text=gunsmith+cats+wikipedia&lr=102734)
 
@@ -85,32 +132,6 @@ USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-con
 ![image](https://github.com/user-attachments/assets/444090e6-9b3b-42ed-a2d1-6040e2a9690e)
 ![image](https://github.com/user-attachments/assets/28f995b1-4c4e-4cb4-b33b-890066c7a03f)
 
-# Monitoring California Groundwater
-<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
-
-  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
-
-  Download the
-
-  or
-  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
-  video.
-</video>
-
-[SWOT Monitors Warming Waters Off California Coast
-Full Resolution](https://svs.gsfc.nasa.gov/31247/)
-![@nasa-jpl @noaa SWOT](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031247/SWOT_2023-08_ca_coast_PIA26091_print.jpg)
-
-<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
-
-  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
-
-  Download the
-
-  or
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
-  video.
-</video>
 
 # Daytona USA [(Revision A)](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
 
