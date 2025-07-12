@@ -49,11 +49,11 @@ Don't Be a Sucker is an anti-fascist propaganda film produced by [the United Sta
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
+	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250709-090622.mp4" type="video/mp4">	 
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250711-221041.mp4" type="video/mp4">	 
 </video> 
 </div>
 
