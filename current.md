@@ -25,14 +25,15 @@ title: Current
 Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
 [wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
 
+
 <video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
 
-  <source src="https://en.wikipedia.org/wiki/File:Don%27t_Be_a_Sucker_(high_resolution_35mm_transfer).webm" type="video/webm" />
+  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
 
   Download the
 
   or
-  <a href="https://en.wikipedia.org/wiki/File:Don%27t_Be_a_Sucker_(high_resolution_35mm_transfer).webm">MP4</a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
   video.
 </video>
 
