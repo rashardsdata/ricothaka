@@ -20,6 +20,11 @@ title: Current
 
 
 # Compiling
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
+  <source src="https://ia800400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
+</video> 
+
 
 # Don't Be a Sucker @paramount-engineering
 Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
@@ -36,6 +41,23 @@ Don't Be a Sucker is an anti-fascist propaganda film produced by [the United Sta
   <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
   video.
 </video>
+
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/screen-20250712-132411.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
 
 # [@github @atfweb @nasa-jpl @cityoflosangeles @stateofcalifornia @tesla @nasa @whitehouse @dhs-gov](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) [:WikiTALK:](https://en.wikipedia.org/wiki/Talk:United_States_Army_Signal_Corps)
 
@@ -134,6 +156,138 @@ USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-con
 ![image](https://github.com/user-attachments/assets/28f995b1-4c4e-4cb4-b33b-890066c7a03f)
 
 
+@nasajpl @blackgirlscode 
+[LAPL Blocking lacity.gov @cityoflosangeles @stateofcalifornia](https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf) Documents
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6151d655-b72b-4c93-915c-1899271c7159" />
+
+```
+<h1>NIST SPECIAL PUBLICATION 1800-21
+Mobile Device Security:</h1>
+<object data="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-21.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-21.pdf">download the PDF file.</a></p></object>
+
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+
+@nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/) & [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/How-Do-I/Apply-For/Library-Card) its [insurrection behavior](https://cha.house.gov/2024/11/dod-inspector-general-concealed-january-6-evidence), a [man in the middle attack](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack) 
+`[cite]` 
+>An attack in which an attacker is positioned between two communicating parties in order to intercept and/or alter data traveling between them. . [NIST:Digital Identity Guidelines](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf) [NIST SPECIAL PUBLICATION 1800-21:Mobile Device Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-21.pdf)
+
+I was told during my tenure at [Georgia Tech Research Institute](https://www.gtri.gatech.edu/) that we were military. I was [gently transferred](https://bubblegumpop01.tumblr.com/post/721548426405396480) from [Jehovahs Witnesses](https://www.jw.org/en/) ... Now i see a whole dept with the same exact name in Washington an they are having a problem that affects us and since @Nasa is a [SpaceForceCrew](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf) I still work for those people and they still work @caltech [@blackgirlscode](https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the) ... some sort of [migration occured](https://youtu.be/rvmSm9-wrf8)!
+
+<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
+
+
+
+```
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e14a323b-827d-4109-9f46-c4f7227147e3" />
+
+[`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@POTUS__-blue?style=social&logo=X)](https://twitter.com/POTUS)
+
+[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
+The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
+delivery of software capabilities by using modern software development practices and active
+  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
+
+![2024_R_Vuchatu1](https://github.com/user-attachments/assets/ad747502-1a2a-46c7-8e8f-6f032ed34a43)
+<dl itemscope itemtype="https://schema.org/EducationalOccupationalCredential">
+  <dt itemprop="name">Raj Vuchatu</dt>
+  <dd itemprop="description">Chief Information Officer </dd>
+</dl>
+
+
+[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
+The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
+delivery of software capabilities by using modern software development practices and active
+  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
+
+```shell
+
+Microsoft Windows [Version 10.0.22621.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal16>tracert 23.33.42.140
+
+Tracing route to a23-33-42-140.deploy.static.akamaitechnologies.com [23.33.42.140]
+over a maximum of 30 hops:
+
+  1     2 ms    <1 ms     1 ms  my.meraki.net [192.168.168.1]
+  2     2 ms     1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     4 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     5 ms     4 ms     4 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     4 ms     4 ms     4 ms  lax-agg10--losa4-agg-01--400g--01.cenic.net [137.164.11.110]
+  6     4 ms     4 ms     4 ms  lag-105-90.ear2.LosAngeles1.Level3.net [4.35.156.65]
+  7     *        *        *     Request timed out.
+  8     4 ms     4 ms     4 ms  4.59.55.2
+  9     4 ms     4 ms     4 ms  ae11.r21.lax01.icn.netarch.akamai.com [23.207.234.38]
+ 10    54 ms    54 ms    54 ms  ae29.r01.ord01.icn.netarch.akamai.com [23.32.62.121]
+ 11    72 ms    72 ms    72 ms  ae21.r02.lga01.icn.netarch.akamai.com [23.193.112.245]
+ 12    72 ms    73 ms    72 ms  ae2.r01.lga01.ien.netarch.akamai.com [23.203.156.39]
+ 13    73 ms    73 ms    73 ms  ae38.r03.border101.ewr03.fab.netarch.akamai.com [23.203.156.29]
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17    75 ms    75 ms    75 ms  a23-33-42-140.deploy.static.akamaitechnologies.com [23.33.42.140]
+
+Trace complete.
+
+C:\Users\terminal16>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SPASPUBLIC004
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-LM
+   Physical Address. . . . . . . . . : 20-88-10-60-8D-6A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::20fe:4049:b2c4:97c0%14(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.168.103(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, July 11, 2025 1:27:56 PM
+   Lease Expires . . . . . . . . . . : Saturday, July 12, 2025 1:27:56 PM
+   Default Gateway . . . . . . . . . : 192.168.168.1
+   DHCP Server . . . . . . . . . . . : 192.168.168.1
+   DHCPv6 IAID . . . . . . . . . . . : 102795280
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-BA-59-E5-20-88-10-60-8D-6A
+   DNS Servers . . . . . . . . . . . : 192.168.168.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\terminal16>
+
+
+```
+
+
+
+
 # Daytona USA [(Revision A)](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
 
 on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe) i may have to add a [poster](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/poster) attribute manually like with the [`<video>`](https://en.wikipedia.org/wiki/HTML_video) tag
@@ -141,6 +295,8 @@ on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Element
 <iframe src="https://www.retrogames.cc/embed/43757-daytona-usa-revision-a.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 ```
 ![image](https://github.com/user-attachments/assets/a82dcd0e-1c97-420e-9d1a-66367f156e9f)
+
+
 
 
 # Compiling
