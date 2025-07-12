@@ -21,6 +21,7 @@ title: Current
 
 # Compiling
 [LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html)
+<img src="https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa" alt="image"/>
 
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
