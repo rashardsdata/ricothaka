@@ -38,7 +38,7 @@ Don't Be a Sucker is an anti-fascist propaganda film produced by [the United Sta
 
 # [@github @atfweb @nasa-jpl @cityoflosangeles @stateofcalifornia @tesla @nasa @whitehouse @dhs-gov](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) [:WikiTALK:](https://en.wikipedia.org/wiki/Talk:United_States_Army_Signal_Corps)
 
-<img width="800" height="1047" alt="image" src="https://github.com/user-attachments/assets/c3d689ca-796b-4faf-8a58-d42e0b6aa64a" />
+<img alt="image" src="https://github.com/user-attachments/assets/c3d689ca-796b-4faf-8a58-d42e0b6aa64a" />
 
 # Monitoring California Groundwater
 <video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
