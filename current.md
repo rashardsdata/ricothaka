@@ -20,6 +20,20 @@ title: Current
 
 
 # Compiling
+
+# ガンスミス キャッツ
+[link](https://mangafire.to/manga/gunsmith-catss.53km) [wiki](https://yandex.com/search?text=gunsmith+cats+wikipedia&lr=102734)
+
+<img alt="image" src="https://github.com/user-attachments/assets/33dd1597-9f6f-4b4b-8178-a64857f0da8e" />
+
+[Gunsmith Cats Episode 1](https://youtu.be/rELcbhPheRM?si=_DJDvC053Bv_Mjrm)
+[pAnimeOddyssy on youTube](https://www.youtube.com/@OdysseyAnime_)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rELcbhPheRM?si=8eUTfadQlOTFnMB-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/59621cd5-5bca-4265-a8a1-c4c971c71d25" />
+
+
+
 [Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
 
 ![image](https://github.com/user-attachments/assets/74ffc323-c036-4121-869c-f5fc9d58533e)
