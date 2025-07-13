@@ -6,7 +6,11 @@ echo "can we talkto @nasa?"
 echo "can we talkto @nasa?"
 netstat -tp
 netstat -s
-
+South Pasadena 205.155.237.66
+active
+Your current session
+Seen in US
+Los Angeles 64.183.42.232 
 ifconfig -a
 traceroute lacity.gov
 traceroute lacity.org
