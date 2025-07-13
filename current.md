@@ -30,8 +30,9 @@ title: Current
 
 <img  alt="image" src="https://github.com/user-attachments/assets/59f16bc3-6116-4b17-be97-c2e77a9666d8" />
 
-# `ping [-c2](https://www.redhat.com/en/blog/ping-usage-basics) ice.gov`
-# `ping [-n](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) 2 ice.gov`
+# ping [-c2](https://www.redhat.com/en/blog/ping-usage-basics) ice.gov
+# ping [-n](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) 2 ice.gov
+
 ```shell
 Microsoft Windows [Version 10.0.22631.3880]
 (c) Microsoft Corporation. All rights reserved.
