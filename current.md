@@ -22,10 +22,28 @@ title: Current
 # Compiling
 `ping -c 2 ice.gov`
 # CaliforniaLinuxSaturdaytoSunday
+[@cityoflosangeles @stateofcalifornia @nasa @nasa-jpl](https://ia600907.us.archive.org/15/items/screen-20250712-220022/lbc.sh) thats a list of the sites i have been using too find corrupt routes 
 [archive](https://archive.org/details/screen-20250712-220022) [dOt_oRg](https://archive.org/download/screen-20250712-220022)
 <iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+![2025 SINGLES CONFERENCE](https://www.lphfamily.org/event/2025-singles-conference)
+![SINGLES-2025-GPS-CONFERENCE-768x543](https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55)
+[vsco](https://vsco.co/earthdatarashard/media/6873bd877e706c9219b2e54f) 
+<img  alt="image" src="https://github.com/user-attachments/assets/9d20cb60-7d68-4af2-b2ea-921ff680bfa8" />
+
+[2025 SINGLES CONFERENCE](https://www.lphfamily.org/wp-content/uploads/2025/07/SINGLES-2025-GPS-CONFERENCE-768x543.jpg)
+@nasa-jpl i want @blackgirlscode to know im listening to normal stations, im not doing the [jehovahwitnesbrothercreep](https://www.jwmatch.com/s/) and im only going if someone from work sees me with a group to go. Im not going places with no people that know me - [Rashard](rashardci.github.io)
+@nasajpl @blackgirlscode 
+[Comedienne Kyria Abrahams Discusses Her Memoir I'm Perfect, You're Doomed](https://www.youtube.com/watch?v=TL8xVBWJLbw)
+[I'm Perfect, You're Doomed: Tales from a Jehovah's Witness Upbringing
+Kyria Abrahams](https://goodreads.com/book/show/3905412.I_m_Perfect__You_re_Doomed_Tales_From_A_Jehovah_s_Witness_Upbringing) [REDDiT](https://www.reddit.com/r/exjw/comments/239svf/im_perfect_youre_doomed_tales_of_a_jehovahs/) [BnN](https://www.barnesandnoble.com/w/im-perfect-youre-doomed-kyria-abrahams/1100365701)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TL8xVBWJLbw?si=Nlzs6F3Qt4GqgwRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <div class="tupperware">
 	
