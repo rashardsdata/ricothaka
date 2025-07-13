@@ -26,7 +26,7 @@ title: Current
 <iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/59f16bc3-6116-4b17-be97-c2e77a9666d8" />
 
@@ -96,6 +96,7 @@ C:\Users\terminal007>
 
 [NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
 <img  alt="image" src="https://github.com/user-attachments/assets/61f95af7-74d9-419d-821a-f0d33f89b861" />
+<img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
 
 [LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html) @nasa @nasa-jpl [RiotData](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/13/newsstand.html) im organizing what moved in the soil, there was a lot of [land disturbance](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/)
 <img src="https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa" alt="image"/>
