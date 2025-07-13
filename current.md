@@ -21,6 +21,10 @@ title: Current
 
 # Compiling
 
+# CaliforniaLinuxSaturdaytoSunday
+[archive](https://archive.org/details/screen-20250712-220022) [dOt_oRg](https://archive.org/download/screen-20250712-220022)
+<iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
 
