@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 date
 uptime 
-uname -a
+uname 
 cal &&  date
 echo "can we talkto @nasa?"
 ifconfig -a
@@ -12,17 +12,22 @@ curl http://nasa.gov
 traceroute thehollywoodtheater.com
 traceroute hofoco.org
 curl http://thehollywoodtheater.com
-curl http://whitehouse.gov
+host google.com
 traceroute google.com
 nslookup jpl.nasa.gov
+whois nasa.gov
+curl http://whitehouse.gov
+ping -c 2 whitehouse.gov
 dig -x whitehouse.gov
 dig -x lacity.gov
 dig -x jpl.nasa.gov
 dig -x metro.net
 traceroute metro.net
 traceroute nasa.gov
+traceroute "155.190.2.33"
 traceroute whitehouse.gov
 traceroute netflix.com
+traceroute "205.155.237.66"
 traceroute hulu.com
 traceroute cnn.com
 traceroute pornhub.com
@@ -32,5 +37,5 @@ traceroute cia.gov
 traceroute playboy.com
 traceroute ice.gov 
 ping -c 2 ice.gov
-traceroute 216.81.59.173
+traceroute "216.81.59.173"
 cp *.* storage/shared/Documents/
