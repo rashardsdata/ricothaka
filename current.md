@@ -20,13 +20,78 @@ title: Current
 
 
 # Compiling
-
+`ping -c 2 ice.gov`
 # CaliforniaLinuxSaturdaytoSunday
 [archive](https://archive.org/details/screen-20250712-220022) [dOt_oRg](https://archive.org/download/screen-20250712-220022)
 <iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/59f16bc3-6116-4b17-be97-c2e77a9666d8" />
+
+# `ping [-c2](https://www.redhat.com/en/blog/ping-usage-basics) ice.gov`
+# `ping [-n](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) 2 ice.gov`
+```shell
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal007>ping -c2 ice.gov
+Access denied. Option -c2 requires administrative privileges.
+
+C:\Users\terminal007>ping - ice.gov
+Bad option -.
+
+Usage: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+            [-r count] [-s count] [[-j host-list] | [-k host-list]]
+            [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+            [-4] [-6] target_name
+
+Options:
+    -t             Ping the specified host until stopped.
+                   To see statistics and continue - type Control-Break;
+                   To stop - type Control-C.
+    -a             Resolve addresses to hostnames.
+    -n count       Number of echo requests to send.
+    -l size        Send buffer size.
+    -f             Set Don't Fragment flag in packet (IPv4-only).
+    -i TTL         Time To Live.
+    -v TOS         Type Of Service (IPv4-only. This setting has been deprecated
+                   and has no effect on the type of service field in the IP
+                   Header).
+    -r count       Record route for count hops (IPv4-only).
+    -s count       Timestamp for count hops (IPv4-only).
+    -j host-list   Loose source route along host-list (IPv4-only).
+    -k host-list   Strict source route along host-list (IPv4-only).
+    -w timeout     Timeout in milliseconds to wait for each reply.
+    -R             Use routing header to test reverse route also (IPv6-only).
+                   Per RFC 5095 the use of this routing header has been
+                   deprecated. Some systems may drop echo requests if
+                   this header is used.
+    -S srcaddr     Source address to use.
+    -c compartment Routing compartment identifier.
+    -p             Ping a Hyper-V Network Virtualization provider address.
+    -4             Force using IPv4.
+    -6             Force using IPv6.
+
+
+C:\Users\terminal007>ping -n2 ice.gov
+Bad value for option -n2, valid range is from 1 to 4294967295.
+
+C:\Users\terminal007>ping -n 2 ice.gov
+
+Pinging ice.gov [23.6.181.153] with 32 bytes of data:
+Reply from 23.6.181.153: bytes=32 time=4ms TTL=56
+Reply from 23.6.181.153: bytes=32 time=5ms TTL=56
+
+Ping statistics for 23.6.181.153:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+
+C:\Users\terminal007>
+```
+
 
 [NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
 <img  alt="image" src="https://github.com/user-attachments/assets/61f95af7-74d9-419d-821a-f0d33f89b861" />
