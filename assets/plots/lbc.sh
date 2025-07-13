@@ -5,7 +5,7 @@ cal &&  date
 echo "can we talkto @nasa?"
 echo "can we talkto @nasa?"
 netstat -tp
-
+netstat -s
 
 ifconfig -a
 traceroute lacity.gov
