@@ -1,9 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
 date
 uptime 
-uname 
 cal &&  date
 echo "can we talkto @nasa?"
+echo "can we talkto @nasa?"
+netstat -tp
+
+
 ifconfig -a
 traceroute lacity.gov
 traceroute lacity.org
@@ -23,7 +26,7 @@ dig -x lacity.gov
 dig -x jpl.nasa.gov
 dig -x metro.net
 traceroute metro.net
-traceroute nasa.gov
+traceroute nasa.gov/msd
 traceroute "155.190.2.33"
 traceroute whitehouse.gov
 traceroute netflix.com
