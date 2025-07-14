@@ -24,6 +24,14 @@ title: Current
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
+
+@nasa-jpl @podaac im not picking on peopell in this script!  [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676) its [The Doxxing](https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed)! [DHS investigated over 5,000 student protesters listed on doxxing website: Official](https://abcnews.go.com/US/dhs-investigated-5000-student-protesters-listed-doxxing-website/story?id=123619284)
+[Anarchists and Rioters in Portland Illegally Dox ICE Officers and Federal Law Enforcement](https://www.dhs.gov/news/2025/07/11/anarchists-and-rioters-portland-illegally-dox-ice-officers-and-federal-law)
+[Internet Outages Map](https://www.thousandeyes.com/outages/) [https://www.linkedin.com/in/nadine-el-bawab-90862413b](https://www.linkedin.com/in/nadine-el-bawab-90862413b)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0de647ea-a4a8-49e2-beaa-929be9df4b1a" />
+<script src="https://gist.github.com/ThakaRashard/6639f9611441d37ef7c61d7db49e6d93.js"></script>
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100084464911565%2Fvideos%2F715676727913349%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 [Mark Zuckerberg https://ieeexplore.ieee.org/document/8544232](https://ieeexplore.ieee.org/document/8544232) Douglas County Sheriff's Office (Georgia) IEEE Bill Nelson Veronica McGregor SpaceX #ELon Tesla i just need Allied Universal to know i was serious and i wanted witnesses that i tried, because i have that autority as a user and U.S. Department of Defense (DoD) #HELPDESK NASA Jet Propulsion Laboratory Congressmember Karen Bass International Space Station NASA Space Communications and Navigation Vandenberg Space Force Base its #COMMS Signal Corps Maxine Waters Representative Kaohly Vang Her
@@ -478,7 +486,7 @@ USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-con
 
 
 @nasajpl @blackgirlscode 
-[LAPL Blocking lacity.gov @cityoflosangeles @stateofcalifornia](https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf) Documents
+[LAPL Blocking .gov @cityoflosangeles @stateofcalifornia](https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf) Documents
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6151d655-b72b-4c93-915c-1899271c7159" />
 
 ```
@@ -493,8 +501,8 @@ RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
 <p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
 
 <h1>Los Angeles Emergency Operations Plan </h1>
-<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+<object data="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
 ```
 
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/) & [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/How-Do-I/Apply-For/Library-Card) its [insurrection behavior](https://cha.house.gov/2024/11/dod-inspector-general-concealed-january-6-evidence), a [man in the middle attack](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack) 
@@ -514,8 +522,8 @@ RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
 <p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
 
 <h1>Los Angeles Emergency Operations Plan </h1>
-<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+<object data="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
 ```
 <img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e14a323b-827d-4109-9f46-c4f7227147e3" />
