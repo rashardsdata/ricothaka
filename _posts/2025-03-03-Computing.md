@@ -5,6 +5,7 @@ published: true
 ---
 
 
+# 10 Most used [DIG](https://www.cloudns.net/blog/10-most-used-dig-commands/) @blackgirlscode @nasa-jpl @podaac @whitehouse @stateofcalifornia @cityoflosangeles 
 
 [dig Command in Linux with Examples](https://phoenixnap.com/kb/linux-dig-command-examples)
 `dig -f domain_research.txt +short`
