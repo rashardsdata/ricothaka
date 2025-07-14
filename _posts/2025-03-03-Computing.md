@@ -4,6 +4,16 @@ title: computing
 published: true
 ---
 
+![@cisco @blackgirlscode @nasa-jpl](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cisco_logo-1000px.png/330px-Cisco_logo-1000px.png) 
+
+[On-Demand Library](https://www.ciscolive.com/on-demand/on-demand-library.html?search.technology=option_1605022751751#/) + [Cisco Networking Academy: Learn Cybersecurity, Python ...
+](https://www.netacad.com/)
+<img alt="image" src="https://github.com/user-attachments/assets/90e0ad11-a445-428b-965c-d537090f41cb" />
+<img alt="image" src="https://github.com/user-attachments/assets/76e66122-bcaf-4ec5-8678-4efc56dbd5c2" />
+
+
+[Astrogeology Analysis Ready Data](https://stac.astrogeology.usgs.gov/docs/data/mars/uncontrolled_hirise/) / [The Official GitHub Training Manual](https://githubtraining.github.io/training-manual/#/):[PDF](https://githubtraining.github.io/training-manual/book.pdf) : [HTML](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+<img alt="image" src="https://github.com/user-attachments/assets/b84ebf24-0b9b-4896-93a5-7e69e90d3b57" />
 
 # 10 Most used [DIG](https://www.cloudns.net/blog/10-most-used-dig-commands/) @blackgirlscode @nasa-jpl @podaac @whitehouse @stateofcalifornia @cityoflosangeles 
 
