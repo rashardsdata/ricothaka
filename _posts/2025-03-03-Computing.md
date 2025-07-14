@@ -6,6 +6,10 @@ published: true
 
 
 
+[dig Command in Linux with Examples](https://phoenixnap.com/kb/linux-dig-command-examples)
+`dig -f domain_research.txt +short`
+![dig](https://phoenixnap.com/kb/wp-content/uploads/2024/05/dig-f-terminal-output.png)
+
 
 # CALiFORNiA_LiNUX feat [VsCodeGithubEMBED](https://code.visualstudio.com/docs/setup/vscode-web) [download](https://code.visualstudio.com/)
 <iframe src="https://archive.org/embed/screen-recording-2025-07-02-6.23.42-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
