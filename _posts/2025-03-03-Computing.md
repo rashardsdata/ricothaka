@@ -12,6 +12,9 @@ published: true
 <img alt="image" src="https://github.com/user-attachments/assets/76e66122-bcaf-4ec5-8678-4efc56dbd5c2" />
 
 
+[Astrogeology Analysis Ready Data](https://stac.astrogeology.usgs.gov/docs/data/mars/uncontrolled_hirise/) / [The Official GitHub Training Manual](https://githubtraining.github.io/training-manual/#/):[PDF](https://githubtraining.github.io/training-manual/book.pdf) : [HTML](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+<img alt="image" src="https://github.com/user-attachments/assets/b84ebf24-0b9b-4896-93a5-7e69e90d3b57" />
+
 # 10 Most used [DIG](https://www.cloudns.net/blog/10-most-used-dig-commands/) @blackgirlscode @nasa-jpl @podaac @whitehouse @stateofcalifornia @cityoflosangeles 
 
 [dig Command in Linux with Examples](https://phoenixnap.com/kb/linux-dig-command-examples)
