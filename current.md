@@ -21,6 +21,166 @@ title: Current
 
 # Compiling
 `ping -c 2 ice.gov`
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4ad1a1ca-fd86-4fba-a6de-57d2ccd522f6" />
+
+<video preload="auto" width="auto" height="400px" controls> 
+<source src="https://ia801407.us.archive.org/6/items/vid-20250714-084801/VID_20250714_093418.mp4" type="video/mp4">	 
+<source src="https://ia801407.us.archive.org/6/items/vid-20250714-084801/VID_20250714_093418.mp4" type="video/mp4">	 
+</video> 
+
+@noaa please look at this data from [The South PAsadena Branch](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) [626-403-7330](mailto:library@southpasadenaca.gov)
+
+```shell
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal036>ping noaa.gov
+
+Pinging noaa.gov [137.75.88.7] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 137.75.88.7:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\Users\terminal036>nslookup noaa.gov
+Server:  my.meraki.net
+Address:  192.168.168.1
+
+Non-authoritative answer:
+Name:    noaa.gov
+Addresses:  2610:20:8800:8c00::24
+          2610:20:8000:8c04::24
+          137.75.88.52
+          137.75.88.7
+
+
+C:\Users\terminal036>nslookup whitehouse.gov
+Server:  my.meraki.net
+Address:  192.168.168.1
+
+Non-authoritative answer:
+Name:    whitehouse.gov
+Addresses:  2a04:fa87:fffd::c000:42ae
+          192.0.66.65
+
+
+C:\Users\terminal036>tracert whitehouse.gov
+
+Tracing route to whitehouse.gov [192.0.66.65]
+over a maximum of 30 hops:
+
+  1     6 ms     1 ms     1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    12 ms    13 ms    12 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    15 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    13 ms    12 ms    12 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    17 ms    13 ms    13 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    13 ms  192.0.66.65
+
+Trace complete.
+
+C:\Users\terminal036>tracert noaa.gov
+
+Tracing route to noaa.gov [137.75.88.52]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     5 ms     5 ms     5 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     9 ms     8 ms     4 ms  lax-agg10--losa4-agg-01--400g--01.cenic.net [137.164.11.110]
+  6    12 ms    12 ms    11 ms  lax-agg10-hpr--lax-agg10-dc.cenic.net [137.164.25.33]
+  7    14 ms    15 ms    13 ms  hpr-i2--lax-agg10.cenic.net [137.164.26.201]
+  8    72 ms    75 ms    72 ms  fourhundredge-0-0-0-2.4079.core2.salt.net.internet2.edu [163.253.1.115]
+  9    73 ms    74 ms    74 ms  fourhundredge-0-0-0-0.4079.core2.denv.net.internet2.edu [163.253.1.168]
+ 10    72 ms    80 ms    74 ms  fourhundredge-0-0-0-0.4079.core2.kans.net.internet2.edu [163.253.1.251]
+ 11    74 ms    71 ms    72 ms  fourhundredge-0-0-0-0.4079.core1.chic.net.internet2.edu [163.253.2.28]
+ 12    73 ms    71 ms    73 ms  fourhundredge-0-0-0-12.4079.core1.eqch.net.internet2.edu [163.253.2.73]
+ 13    73 ms    73 ms    72 ms  fourhundredge-0-0-0-0.4079.core1.clev.net.internet2.edu [163.253.1.210]
+ 14    72 ms    72 ms    73 ms  fourhundredge-0-0-0-3.4079.core1.ashb.net.internet2.edu [163.253.1.122]
+ 15    74 ms    72 ms    72 ms  fourhundredge-0-0-0-0.4079.core1.wash.net.internet2.edu [163.253.1.119]
+ 16    71 ms    70 ms    71 ms  206.196.177.56
+ 17    71 ms    71 ms    71 ms  nwave-mcln-re.demarc.maxgigapop.net [206.196.177.195]
+ 18    71 ms    71 ms    70 ms  137.75.68.19
+ 19    71 ms    71 ms    71 ms  irb.3903.rtr3.wash.nwave.noaa.gov [137.75.68.22]
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+C:\Users\terminal036>tracert nasa.gov
+
+Tracing route to nasa.gov [192.0.66.108]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     4 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    13 ms    14 ms    12 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    12 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    12 ms    12 ms    15 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    16 ms    17 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    12 ms  192.0.66.108
+
+Trace complete.
+
+C:\Users\terminal036>tracert jpl.nasa.gov
+
+Tracing route to jpl.nasa.gov [35.160.65.171]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     4 ms     4 ms     5 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+C:\Users\terminal036>
+
+```
+
 # CaliforniaLinuxSaturdaytoSunday
 [@cityoflosangeles @stateofcalifornia @nasa @nasa-jpl](https://ia600907.us.archive.org/15/items/screen-20250712-220022/lbc.sh) thats a list of the sites i have been using too find corrupt routes 
 [archive](https://archive.org/details/screen-20250712-220022) [dOt_oRg](https://archive.org/download/screen-20250712-220022)
