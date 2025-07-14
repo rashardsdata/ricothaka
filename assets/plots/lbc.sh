@@ -25,11 +25,13 @@ whois nasa.gov
 curl http://whitehouse.gov
 ping -c 2 whitehouse.gov
 traceroute whitehouse.gov
+dig whitehouse.gov NS
 dig -x whitehouse.gov
 dig -x lacity.gov
 dig -x jpl.nasa.gov
 dig -x metro.net
 traceroute metro.net
+dig metro.net +trace
 echo "can we talkto @nasa?"
 ping -c 2 nasa.gov
 ping -c 2 jpl.nasa.gov
