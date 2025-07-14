@@ -1,12 +1,14 @@
 #!/data/data/com.termux/files/usr/bin/bash
 date
 uptime 
-cal &&  date
+cal && date
 echo "can we talkto @nasa?"
 echo "Discovered in South PAsaDena "
 traceroute "205.155.237.66"
 echo "GithubSession"
 echo "Seen in USLos Angeles"
+traceroute "155.190.3.6"
+traceroute "155.190.3.7"
 traceroute "64.183.42.232" 
 ifconfig -a
 traceroute lacity.gov
