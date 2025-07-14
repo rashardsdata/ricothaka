@@ -23,7 +23,10 @@ title: Current
 `ping -c 2 ice.gov`
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-Mark Zuckerberg https://ieeexplore.ieee.org/document/8544232 Douglas County Sheriff's Office (Georgia) IEEE Bill Nelson Veronica McGregor SpaceX #ELon Tesla i just need Allied Universal to know i was serious and i wanted witnesses that i tried, because i have that autority as a user and U.S. Department of Defense (DoD) #HELPDESK NASA Jet Propulsion Laboratory Congressmember Karen Bass International Space Station NASA Space Communications and Navigation Vandenberg Space Force Base its #COMMS Signal Corps Maxine Waters Representative Kaohly Vang Her
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100084464911565%2Fvideos%2F715676727913349%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+[Mark Zuckerberg https://ieeexplore.ieee.org/document/8544232](https://ieeexplore.ieee.org/document/8544232) Douglas County Sheriff's Office (Georgia) IEEE Bill Nelson Veronica McGregor SpaceX #ELon Tesla i just need Allied Universal to know i was serious and i wanted witnesses that i tried, because i have that autority as a user and U.S. Department of Defense (DoD) #HELPDESK NASA Jet Propulsion Laboratory Congressmember Karen Bass International Space Station NASA Space Communications and Navigation Vandenberg Space Force Base its #COMMS Signal Corps Maxine Waters Representative Kaohly Vang Her
 <img  alt="image" src="https://github.com/user-attachments/assets/0dd28f6a-502b-4017-bab1-436f20d61a02" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/d23f5b46-fb42-43b7-8f86-51286cd46fa0" />
