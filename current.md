@@ -21,7 +21,12 @@ title: Current
 
 # Compiling
 `ping -c 2 ice.gov`
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+Mark Zuckerberg https://ieeexplore.ieee.org/document/8544232 Douglas County Sheriff's Office (Georgia) IEEE Bill Nelson Veronica McGregor SpaceX #ELon Tesla i just need Allied Universal to know i was serious and i wanted witnesses that i tried, because i have that autority as a user and U.S. Department of Defense (DoD) #HELPDESK NASA Jet Propulsion Laboratory Congressmember Karen Bass International Space Station NASA Space Communications and Navigation Vandenberg Space Force Base its #COMMS Signal Corps Maxine Waters Representative Kaohly Vang Her
+<img  alt="image" src="https://github.com/user-attachments/assets/0dd28f6a-502b-4017-bab1-436f20d61a02" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/d23f5b46-fb42-43b7-8f86-51286cd46fa0" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4ad1a1ca-fd86-4fba-a6de-57d2ccd522f6" />
 
@@ -29,6 +34,10 @@ title: Current
 <source src="https://ia801407.us.archive.org/6/items/vid-20250714-084801/VID_20250714_093418.mp4" type="video/mp4">	 
 <source src="https://ia801407.us.archive.org/6/items/vid-20250714-084801/VID_20250714_093418.mp4" type="video/mp4">	 
 </video> 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02XgX419Fqq9nVgcQ91UhmC9H1puQHciU27wrhuNzhSRRcpJUbWZW3FoAQz3XJRuH6l%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdekalbsheriffga%2Fposts%2Fpfbid0T5ihHFLbFyw4EFaUxQ8oo3a4bThAgrKwzh8VubnSytkHNpTzjacAcq7hGKRexivul&show_text=true&width=500" width="500" height="793" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 @noaa please look at this data from [The South PAsadena Branch](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) [626-403-7330](mailto:library@southpasadenaca.gov)
 
