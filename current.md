@@ -20,6 +20,30 @@ title: Current
 
 
 # Compiling
+
+## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
+## Being Legit on a Dark Web social Network
+[Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
+
+## 7 Facebook and the Dark Web: A Collision 
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/document/8544232)
+
+### Summary of how NASA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
+Hello!
+
+Would someone be able to summarize how NASA is being affected by this administration and how uncertain its future is? I’m having a hard time explaining to my family how science is essentially being attacked right now. I’m so sorry to all the employees being affected by the govt. also, yall have all my love.
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lynylu/summary_of_how_nasa_is_getting_affected/">Summary of how NASA is getting affected</a><br> by<a href="https://www.reddit.com/user/ethicallobotomy/">u/ethicallobotomy</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+you are looking at it the wrong way! We have a lot of [equipment to maintain](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html#LA_fires)! here in [LosAngelesCounty](https://lacounty.gov/) u/Nasa #jpl theres [old work](https://eyes.nasa.gov/apps/mrn/#/mars) turing out new [results](https://ieeexplore.ieee.org/document/10521332/) all the time! https://www.axiomspace.com/mission-blog/ax4-splashes-down the axiom mission was still built on ranger9! and that crashed but voyager did not! And the hardware is still producing results, radio is forever, at least until it smashes into a rock https://www.nas.nasa.gov/  + https://eyes.nasa.gov/apps/dsn-now/ = alot of work for someone humble enough not to touch anything! Im an engineer by EastCoast Corporate definition but Helpdesk here and i love it, its like spaceforce where you are challeneged to work the community using the equipment to get a paycheck recommended... no felatio involved! #iLOVEiT! -Rashardkelly NAsaMars #GROUNDDATASYSTEMS iss_Research_ECOSTRESS!+[#SWOT! https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/mission/overview/) /] https://pace.gsfc.nasa.gov/
+
+`ping -c 2 whitehouse.gov`
+
+ [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
+
+[@blackgirlscode](https://open.spotify.com/track/1aALf03O95C49gY3eti3Fd?si=4ILYkEKTRNiFwORRNARR2g)
+
 `ping -c 2 ice.gov`
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
