@@ -20,6 +20,9 @@ title: Current
 
 
 # Compiling
+
+## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
 ## Being Legit on a Dark Web social Network
 [Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
 
