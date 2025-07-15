@@ -23,6 +23,9 @@ title: Current
 ## Being Legit on a Dark Web social Network
 [Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
 
+## 7 Facebook and the Dark Web: A Collision 
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/document/8544232)
+
 ### Summary of how NASA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
 Hello!
 
