@@ -6,7 +6,7 @@ name: Publish Gem
  
  jobs:
    release:
-     runs-on: ubuntu-latest
+     runs-on: macOS-latest
      steps:
        - name: Checkout
          uses: actions/checkout@v3
@@ -20,3 +20,7 @@ name: Publish Gem
        - name: Publish
          run: |
            gem push github-pages.gem --key ${{ secrets.PAGES_GEM_PUBLISH }}
+    test:
+    runs-on: [self-hosted, "${{ inputs.chosen-os }}"]
+    steps:
+    - run: echo Hello world!       
