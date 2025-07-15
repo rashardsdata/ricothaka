@@ -20,7 +20,17 @@ title: Current
 
 
 # Compiling
+## Being Legit on a Dark Web social Network
+[Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
 
+### Summary of how NASA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
+Hello!
+
+Would someone be able to summarize how NASA is being affected by this administration and how uncertain its future is? I’m having a hard time explaining to my family how science is essentially being attacked right now. I’m so sorry to all the employees being affected by the govt. also, yall have all my love.
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lynylu/summary_of_how_nasa_is_getting_affected/">Summary of how NASA is getting affected</a><br> by<a href="https://www.reddit.com/user/ethicallobotomy/">u/ethicallobotomy</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+you are looking at it the wrong way! We have a lot of [equipment to maintain](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html#LA_fires)! here in [LosAngelesCounty](https://lacounty.gov/) u/Nasa #jpl theres [old work](https://eyes.nasa.gov/apps/mrn/#/mars) turing out new [results](https://ieeexplore.ieee.org/document/10521332/) all the time! https://www.axiomspace.com/mission-blog/ax4-splashes-down the axiom mission was still built on ranger9! and that crashed but voyager did not! And the hardware is still producing results, radio is forever, at least until it smashes into a rock https://www.nas.nasa.gov/  + https://eyes.nasa.gov/apps/dsn-now/ = alot of work for someone humble enough not to touch anything! Im an engineer by EastCoast Corporate definition but Helpdesk here and i love it, its like spaceforce where you are challeneged to work the community using the equipment to get a paycheck recommended... no felatio involved! #iLOVEiT! -Rashardkelly NAsaMars #GROUNDDATASYSTEMS iss_Research_ECOSTRESS!+[#SWOT! https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/mission/overview/) /] https://pace.gsfc.nasa.gov/
 
 `ping -c 2 whitehouse.gov`
 
