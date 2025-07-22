@@ -21,6 +21,7 @@ title: Current
 
 # Compiling
 
+
 # CALiFORNiA_Linux RASHARD IMAN KELLY NASA JPL DOXXED!!!!!!!!!!!!!
 
 <iframe src="https://archive.org/embed/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -30,10 +31,63 @@ title: Current
 
 
 
+### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
+
+<iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<div class="tupperware" markdown="1">
+
+<video controls  width="auto" height="400">
+   <source src="https://ia801001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
+
+  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
+
+
+</video>
+
+<video controls  width="auto" height="400">
+   <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
+
+  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
+
+
+</video>
+
+</div>
+
+
+# California_Linux:SANTADENAWATERWAYS
+
+@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+<object data="https://archive.org/embed/California_Linux_SANTADENAWATERWAYS" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
+
+![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
 ## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
 [Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
 ## Being Legit on a Dark Web social Network
 [Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
+
+
+### WebSite Analytics [rashard_mro @nasa @whitehouse @google @nasa-jpl @deptofdefense @atfweb @dhs-gov @stateofcalifornia good morning + @blackgirlscode](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727)
+@google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
+<img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
+<img alt="image" src="https://github.com/user-attachments/assets/3430e185-98e9-4ef0-8f99-0edf18a78fea" />
+<img alt="image" src="https://github.com/user-attachments/assets/bb395cf2-1c8c-42d5-a5b5-06e3fc7a117d" />
+<img alt="Top pages/screens" src="https://github.com/user-attachments/assets/30f3549a-fadd-4e5c-a8b4-0955d3edd10d" />
+<img alt="///" src="https://github.com/user-attachments/assets/c73f3107-6b97-4c57-b5e9-e00401bd8681" />
+<img alt="Landing page: Landing page" src="https://github.com/user-attachments/assets/dc62681b-61f4-47fd-a846-f1cb66fcd107" />
+<img alt="image" src="https://github.com/user-attachments/assets/e97eac0e-bbaf-438e-8b14-d4301d3479bb" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
+<img alt="image" src="https://github.com/user-attachments/assets/cdd53b3c-03fc-48fa-ba7d-1e28cdd0a049" />
+
 
 ## 7 Facebook and the Dark Web: A Collision 
 [Doc @nasa-jpl](https://ieeexplore.ieee.org/document/8544232)
@@ -52,6 +106,504 @@ you are looking at it the wrong way! We have a lot of [equipment to maintain](ht
  [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
 
 [@blackgirlscode](https://open.spotify.com/track/1aALf03O95C49gY3eti3Fd?si=4ILYkEKTRNiFwORRNARR2g)
+
+### Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
+### Being Legit on a Dark Web social Network
+[Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
+
+### 7 Facebook and the Dark Web: A Collision 
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/document/8544232)
+
+### [Heavy Metal - 1981](https://archive.org/details/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify) 
+[4later](https://svs.gsfc.nasa.gov/20405/)
+
+<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Summary of how NAsA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
+Hello!
+
+Would someone be able to summarize how NASA is being affected by this administration and how uncertain its future is? I’m having a hard time explaining to my family how science is essentially being attacked right now. I’m so sorry to all the employees being affected by the govt. also, yall have all my love.
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lynylu/summary_of_how_nasa_is_getting_affected/">Summary of how NASA is getting affected</a><br> by<a href="https://www.reddit.com/user/ethicallobotomy/">u/ethicallobotomy</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+you are looking at it the wrong way! We have a lot of [equipment to maintain](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html#LA_fires)! here in [LosAngelesCounty](https://lacounty.gov/) u/Nasa #jpl theres [old work](https://eyes.nasa.gov/apps/mrn/#/mars) turing out new [results](https://ieeexplore.ieee.org/document/10521332/) all the time! https://www.axiomspace.com/mission-blog/ax4-splashes-down the axiom mission was still built on ranger9! and that crashed but voyager did not! And the hardware is still producing results, radio is forever, at least until it smashes into a rock https://www.nas.nasa.gov/  + https://eyes.nasa.gov/apps/dsn-now/ = alot of work for someone humble enough not to touch anything! Im an engineer by EastCoast Corporate definition but Helpdesk here and i love it, its like spaceforce where you are challeneged to work the community using the equipment to get a paycheck recommended... no felatio involved! #iLOVEiT! -Rashardkelly NAsaMars #GROUNDDATASYSTEMS iss_Research_ECOSTRESS!+[#SWOT! https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/mission/overview/) /] https://pace.gsfc.nasa.gov/
+
+`ping -c 2 whitehouse.gov`
+
+ [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
+
+[@blackgirlscode](https://open.spotify.com/track/1aALf03O95C49gY3eti3Fd?si=4ILYkEKTRNiFwORRNARR2g)
+
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+
+
+
+
+
+# [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
+![image](https://github.com/user-attachments/assets/816203b5-c6f0-4046-b3f8-a75ec39a6614)
+![image](https://github.com/user-attachments/assets/3528ab5b-0716-48b1-ae98-d61931d21a10)
+
+@nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+
+
+`ping -c 2 ice.gov`
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+@nasa-jpl @podaac im not picking on peopell in this script!  [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676) its [The Doxxing](https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed)! [DHS investigated over 5,000 student protesters listed on doxxing website: Official](https://abcnews.go.com/US/dhs-investigated-5000-student-protesters-listed-doxxing-website/story?id=123619284)
+[Anarchists and Rioters in Portland Illegally Dox ICE Officers and Federal Law Enforcement](https://www.dhs.gov/news/2025/07/11/anarchists-and-rioters-portland-illegally-dox-ice-officers-and-federal-law)
+[Internet Outages Map](https://www.thousandeyes.com/outages/) [https://www.linkedin.com/in/nadine-el-bawab-90862413b](https://www.linkedin.com/in/nadine-el-bawab-90862413b)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0de647ea-a4a8-49e2-beaa-929be9df4b1a" />
+<script src="https://gist.github.com/ThakaRashard/6639f9611441d37ef7c61d7db49e6d93.js"></script>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100084464911565%2Fvideos%2F715676727913349%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+[Mark Zuckerberg https://ieeexplore.ieee.org/document/8544232](https://ieeexplore.ieee.org/document/8544232) Douglas County Sheriff's Office (Georgia) IEEE Bill Nelson Veronica McGregor SpaceX #ELon Tesla i just need Allied Universal to know i was serious and i wanted witnesses that i tried, because i have that autority as a user and U.S. Department of Defense (DoD) #HELPDESK NASA Jet Propulsion Laboratory Congressmember Karen Bass International Space Station NASA Space Communications and Navigation Vandenberg Space Force Base its #COMMS Signal Corps Maxine Waters Representative Kaohly Vang Her
+<img  alt="image" src="https://github.com/user-attachments/assets/0dd28f6a-502b-4017-bab1-436f20d61a02" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/d23f5b46-fb42-43b7-8f86-51286cd46fa0" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4ad1a1ca-fd86-4fba-a6de-57d2ccd522f6" />
+
+<video preload="auto" width="auto" height="400px" controls> 
+<source src="https://ia801407.us.archive.org/6/items/vid-20250714-084801/VID_20250714_093418.mp4" type="video/mp4">	 
+<source src="https://ia801407.us.archive.org/6/items/vid-20250714-084801/VID_20250714_093418.mp4" type="video/mp4">	 
+</video> 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02XgX419Fqq9nVgcQ91UhmC9H1puQHciU27wrhuNzhSRRcpJUbWZW3FoAQz3XJRuH6l%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdekalbsheriffga%2Fposts%2Fpfbid0T5ihHFLbFyw4EFaUxQ8oo3a4bThAgrKwzh8VubnSytkHNpTzjacAcq7hGKRexivul&show_text=true&width=500" width="500" height="793" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@noaa please look at this data from [The South PAsadena Branch](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) [626-403-7330](mailto:library@southpasadenaca.gov)
+
+```shell
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal036>ping noaa.gov
+
+Pinging noaa.gov [137.75.88.7] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 137.75.88.7:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\Users\terminal036>nslookup noaa.gov
+Server:  my.meraki.net
+Address:  192.168.168.1
+
+Non-authoritative answer:
+Name:    noaa.gov
+Addresses:  2610:20:8800:8c00::24
+          2610:20:8000:8c04::24
+          137.75.88.52
+          137.75.88.7
+
+
+C:\Users\terminal036>nslookup whitehouse.gov
+Server:  my.meraki.net
+Address:  192.168.168.1
+
+Non-authoritative answer:
+Name:    whitehouse.gov
+Addresses:  2a04:fa87:fffd::c000:42ae
+          192.0.66.65
+
+
+C:\Users\terminal036>tracert whitehouse.gov
+
+Tracing route to whitehouse.gov [192.0.66.65]
+over a maximum of 30 hops:
+
+  1     6 ms     1 ms     1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    12 ms    13 ms    12 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    15 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    13 ms    12 ms    12 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    17 ms    13 ms    13 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    13 ms  192.0.66.65
+
+Trace complete.
+
+C:\Users\terminal036>tracert noaa.gov
+
+Tracing route to noaa.gov [137.75.88.52]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     5 ms     5 ms     5 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     9 ms     8 ms     4 ms  lax-agg10--losa4-agg-01--400g--01.cenic.net [137.164.11.110]
+  6    12 ms    12 ms    11 ms  lax-agg10-hpr--lax-agg10-dc.cenic.net [137.164.25.33]
+  7    14 ms    15 ms    13 ms  hpr-i2--lax-agg10.cenic.net [137.164.26.201]
+  8    72 ms    75 ms    72 ms  fourhundredge-0-0-0-2.4079.core2.salt.net.internet2.edu [163.253.1.115]
+  9    73 ms    74 ms    74 ms  fourhundredge-0-0-0-0.4079.core2.denv.net.internet2.edu [163.253.1.168]
+ 10    72 ms    80 ms    74 ms  fourhundredge-0-0-0-0.4079.core2.kans.net.internet2.edu [163.253.1.251]
+ 11    74 ms    71 ms    72 ms  fourhundredge-0-0-0-0.4079.core1.chic.net.internet2.edu [163.253.2.28]
+ 12    73 ms    71 ms    73 ms  fourhundredge-0-0-0-12.4079.core1.eqch.net.internet2.edu [163.253.2.73]
+ 13    73 ms    73 ms    72 ms  fourhundredge-0-0-0-0.4079.core1.clev.net.internet2.edu [163.253.1.210]
+ 14    72 ms    72 ms    73 ms  fourhundredge-0-0-0-3.4079.core1.ashb.net.internet2.edu [163.253.1.122]
+ 15    74 ms    72 ms    72 ms  fourhundredge-0-0-0-0.4079.core1.wash.net.internet2.edu [163.253.1.119]
+ 16    71 ms    70 ms    71 ms  206.196.177.56
+ 17    71 ms    71 ms    71 ms  nwave-mcln-re.demarc.maxgigapop.net [206.196.177.195]
+ 18    71 ms    71 ms    70 ms  137.75.68.19
+ 19    71 ms    71 ms    71 ms  irb.3903.rtr3.wash.nwave.noaa.gov [137.75.68.22]
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+C:\Users\terminal036>tracert nasa.gov
+
+Tracing route to nasa.gov [192.0.66.108]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     4 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    13 ms    14 ms    12 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    12 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    12 ms    12 ms    15 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    16 ms    17 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    12 ms  192.0.66.108
+
+Trace complete.
+
+C:\Users\terminal036>tracert jpl.nasa.gov
+
+Tracing route to jpl.nasa.gov [35.160.65.171]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     4 ms     4 ms     5 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+C:\Users\terminal036>
+
+```
+
+
+</h1>7 Facebook and the Dark Web: A Collision</h1>
+
+Chapter Abstract:
+“I2P: Who needs the IETF?”—From jrandom's collected I2P quotations Facebook's Tor hidden service, found at https://facebookcorewwwi.onion, is lightning in a bottle. It is at the intersection of all three legitimacies analyzed in this book: state delegation of rules and regulations to a standards body (in this case, the Internet Engineering Task Force [IETF]); corporate propriety (DigiCert, Facebook); nonprofit propriety (the Tor Project); hacker legitimacy (the [now disgraced] hacker wunderkind Jacob Appelbaum); and Dark Web authenticity (the notoriety of Silk Road). Thus, Facebook on Tor is an association of state-delegated power, respect of resources, and authenticity. It is also a symbol of the blurred lines between the Dark Web and the Clear Web, a collision of legitimation and delegitimation.
+Page(s): 195 - 220
+Copyright Year: 2018
+Online ISBN:9780262347587
+DOI: 10.7551/mitpress/11266.001.0001
+Publisher: MIT Press <a href="https://ieeexplore.ieee.org/document/8544232">READ_MORE</a>
+</h1>“Dark Web” Version of Facebook Shows a New Way to Secure the Web</h1>
+<a href="https://www.bbva.com/en/innovation/dark-web-version-facebook-shows-new-way-secure-web/">Facebook says  </a>
+it launched the site to better serve people who already access its services via Tor but are sometimes blocked by its automatic security controls. The organization behind Tor says hundreds of thousands of people access the site this way, for example from within Iran and China, countries where government authorities block Facebook access.
+
+The new .onion site will prevent Tor users from being blocked and also offers additional security. Security experts that advised Facebook on its new service say it shows how Web companies can help people preserve their security and anonymity online.
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Facebook_logo_%282023%29.svg" />
+The Facebook onion address located at https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/[2][1] (formerly facebookcorewwwi.onion) is a site that allows access to Facebook through the Tor protocol, using its .onion top-level domain.[3][4] [Wiki](https://en.wikipedia.org/wiki/Facebook_onion_address)
+	
+<h1>AXIOM-4 SPLASHDOWN, July 15, 2025, coastal California, 5:31 am ET</h1>
+During undocking activities on July 14, the webcast commentator said Axiom-4 will splashdown on July 15 at 5:31 am ET off the coast of California, about 22.5 hours after undocking.  SpaceX has moved all of its splashdowns (Dragon recovery locations) for crew and cargo to off the coast of California instead of Florida. [spacepolicyonline.com](https://spacepolicyonline.com/events/axiom-4-splashdown-july-15-2025-coastal-california-531-am-et/)
+<img src="https://spacepolicyonline.com/wp-content/uploads/2025/03/dragon-recovery-locations-CA-768x366.png" />
+	
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9d20cb60-7d68-4af2-b2ea-921ff680bfa8" />
+[2025 SINGLES CONFERENCE](https://www.lphfamily.org/wp-content/uploads/2025/07/SINGLES-2025-GPS-CONFERENCE-768x543.jpg)
+@nasa-jpl i want @blackgirlscode to know im listening to normal stations, im not doing the [jehovahwitnesbrothercreep](https://www.jwmatch.com/s/) and im only going if someone from work sees me with a group to go. Im not going places with no people that know me - [Rashard](rashardci.github.io)
+@nasajpl @blackgirlscode 
+![2025 SINGLES CONFERENCE](https://www.lphfamily.org/event/2025-singles-conference)
+![SINGLES-2025-GPS-CONFERENCE-768x543](https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55)
+[vsco](https://vsco.co/earthdatarashard/media/6873bd877e706c9219b2e54f) 
+<img  alt="image" src="https://github.com/user-attachments/assets/9d20cb60-7d68-4af2-b2ea-921ff680bfa8" />
+
+
+[Comedienne Kyria Abrahams Discusses Her Memoir I'm Perfect, You're Doomed](https://www.youtube.com/watch?v=TL8xVBWJLbw)
+[I'm Perfect, You're Doomed: Tales from a Jehovah's Witness Upbringing
+Kyria Abrahams](https://goodreads.com/book/show/3905412.I_m_Perfect__You_re_Doomed_Tales_From_A_Jehovah_s_Witness_Upbringing) [REDDiT](https://www.reddit.com/r/exjw/comments/239svf/im_perfect_youre_doomed_tales_of_a_jehovahs/) [BnN](https://www.barnesandnoble.com/w/im-perfect-youre-doomed-kyria-abrahams/1100365701)
+
+<iframe  src="https://www.youtube.com/embed/TL8xVBWJLbw?si=Nlzs6F3Qt4GqgwRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/59f16bc3-6116-4b17-be97-c2e77a9666d8" />
+<img  alt="image" src="https://github.com/user-attachments/assets/0e9bf9cb-be78-4d20-86f0-632fedba191c" />
+
+</div>
+
+# ping [-c2](https://www.redhat.com/en/blog/ping-usage-basics) ice.gov
+# ping [-n](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) 2 ice.gov
+
+
+
+# CaliforniaLinuxSaturdaytoSunday
+[@cityoflosangeles @stateofcalifornia @nasa @nasa-jpl](https://ia600907.us.archive.org/15/items/screen-20250712-220022/lbc.sh) thats a list of the sites i have been using too find corrupt routes 
+[archive](https://archive.org/details/screen-20250712-220022) [dOt_oRg](https://archive.org/download/screen-20250712-220022)
+<iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+
+
+# ping [-c2](https://www.redhat.com/en/blog/ping-usage-basics) ice.gov
+# ping [-n](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) 2 ice.gov
+
+```shell
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal007>ping -c2 ice.gov
+Access denied. Option -c2 requires administrative privileges.
+
+C:\Users\terminal007>ping - ice.gov
+Bad option -.
+
+Usage: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+            [-r count] [-s count] [[-j host-list] | [-k host-list]]
+            [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+            [-4] [-6] target_name
+
+Options:
+    -t             Ping the specified host until stopped.
+                   To see statistics and continue - type Control-Break;
+                   To stop - type Control-C.
+    -a             Resolve addresses to hostnames.
+    -n count       Number of echo requests to send.
+    -l size        Send buffer size.
+    -f             Set Don't Fragment flag in packet (IPv4-only).
+    -i TTL         Time To Live.
+    -v TOS         Type Of Service (IPv4-only. This setting has been deprecated
+                   and has no effect on the type of service field in the IP
+                   Header).
+    -r count       Record route for count hops (IPv4-only).
+    -s count       Timestamp for count hops (IPv4-only).
+    -j host-list   Loose source route along host-list (IPv4-only).
+    -k host-list   Strict source route along host-list (IPv4-only).
+    -w timeout     Timeout in milliseconds to wait for each reply.
+    -R             Use routing header to test reverse route also (IPv6-only).
+                   Per RFC 5095 the use of this routing header has been
+                   deprecated. Some systems may drop echo requests if
+                   this header is used.
+    -S srcaddr     Source address to use.
+    -c compartment Routing compartment identifier.
+    -p             Ping a Hyper-V Network Virtualization provider address.
+    -4             Force using IPv4.
+    -6             Force using IPv6.
+
+
+C:\Users\terminal007>ping -n2 ice.gov
+Bad value for option -n2, valid range is from 1 to 4294967295.
+
+C:\Users\terminal007>ping -n 2 ice.gov
+
+Pinging ice.gov [23.6.181.153] with 32 bytes of data:
+Reply from 23.6.181.153: bytes=32 time=4ms TTL=56
+Reply from 23.6.181.153: bytes=32 time=5ms TTL=56
+
+Ping statistics for 23.6.181.153:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+
+C:\Users\terminal007>
+```
+
+
+[NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/61f95af7-74d9-419d-821a-f0d33f89b861" />
+<img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
+
+[LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html) @nasa @nasa-jpl [RiotData](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/13/newsstand.html) im organizing what moved in the soil, there was a lot of [land disturbance](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/)
+<img src="https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa" alt="image"/>
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
+  <source src="https://ia800400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
+</video> 
+
+
+# Don't Be a Sucker @paramount-engineering
+Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
+[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
+
+
+<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
+
+  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
+  video.
+</video>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/788909022028955648" data-did="922e59ad06d993c94d54220703ea3365bb12f3a1"><a href="https://rashardmro.tumblr.com/post/788909022028955648/ice">https://rashardmro.tumblr.com/post/788909022028955648/ice</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> 
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/screen-20250712-132411.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250709-090622.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250711-221041.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
+
+# [@github @atfweb @nasa-jpl @cityoflosangeles @stateofcalifornia @tesla @nasa @whitehouse @dhs-gov](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) [:WikiTALK:](https://en.wikipedia.org/wiki/Talk:United_States_Army_Signal_Corps)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c3d689ca-796b-4faf-8a58-d42e0b6aa64a" />
+
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+
+[SWOT Monitors Warming Waters Off California Coast
+Full Resolution](https://svs.gsfc.nasa.gov/31247/)
+![@nasa-jpl @noaa SWOT](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031247/SWOT_2023-08_ca_coast_PIA26091_print.jpg)
+
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
+  video.
+</video>
+
+
+# ガンスミス キャッツ
+[link](https://mangafire.to/manga/gunsmith-catss.53km) [wiki](https://yandex.com/search?text=gunsmith+cats+wikipedia&lr=102734)
+
+<img alt="image" src="https://github.com/user-attachments/assets/33dd1597-9f6f-4b4b-8178-a64857f0da8e" />
+
+[Gunsmith Cats Episode 1](https://youtu.be/rELcbhPheRM?si=_DJDvC053Bv_Mjrm)
+[pAnimeOddyssy on youTube](https://www.youtube.com/@OdysseyAnime_)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rELcbhPheRM?si=8eUTfadQlOTFnMB-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/59621cd5-5bca-4265-a8a1-c4c971c71d25" />
+
+
+
+[Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
+
+![image](https://github.com/user-attachments/assets/74ffc323-c036-4121-869c-f5fc9d58533e)
+![image](https://github.com/user-attachments/assets/cfa90176-8eff-4d2d-92a3-d4caf4ce0877)
+
+![image](https://github.com/user-attachments/assets/47b532f3-e762-4210-b7fd-e779c2453fb4)
+
+[LDOPE @nasa-jpl](https://landweb.modaps.eosdis.nasa.gov/) 
+[KOLA 99.9](https://www.kolafm.com/) 
+is a commercial FM radio station licensed to [Redlands](https://www.cityofredlands.org/), [California](https://www.google.com/search?sca_esv=b7953b605ea5985e&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifM6z9PzBccRJMcZEA4e1mixTnhMyg:1752004504978&q=redland+california&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8EE7njRrb2FMGWExx-5ARS2dDjUqH8P7GJI3gXZTNa1ewV-CLv5ZT6fd_dbJFn0Njuz_e0Wu8_7yRkIN2Hnn3CAfH2L-S7a8qDrs-1gsjyM8Z0amfVSgtxyeHYqukoLI3D0Zmnhhn-5vvvmaIzjmG6rQIfOyt7B-TolXJ2CsS93wxGt2JQ&sa=X&sqi=2&ved=2ahUKEwjC6Kexha6OAxWmJ0QIHetYFj0Q0pQJKAN6BAgiEAE&biw=960&bih=945&dpr=1), and airs a classic hits radio format.
+- [listenlive.co/42241](https://player.listenlive.co/42241)
+[https://archive.org/details/screen-recording-2025-07-07-123028](https://archive.org/details/screen-recording-2025-07-07-123028)
+
+[Video @nasa of my activity during the jun7 iss flyover los angeles](https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4)
+![image](https://github.com/user-attachments/assets/4e167691-fcdc-495b-b740-4a2aa68402c1)
+
+@NorthropGrumman 
+# STPSat-6
+Advanced Spacecraft for the
+USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-content/uploads/DS-69-STPSat-6.pdf?v=1.0.0) : [WiKi](https://en.wikipedia.org/wiki/Space_Test_Program) : check the comments on this post
+  [SpaceCommand](https://www.ssc.spaceforce.mil/Connect-With-Us/Space-Systems-Command-Front-Door/Space-Test-Program) [USAF Space and Missile Systems Center](https://ntrs.nasa.gov/api/citations/19960054106/downloads/19960054106.pdf) [class](https://www.geo.arizona.edu/content/PlanetaryGeoscience?_gl=1*a03zo4*_gcl_au*MTQwNzAyMTMxMi4xNzUyMDg0Mzcz*_ga*NzI2OTI4MDg4LjE3NTIwODQzNzM.*_ga_7PV3540XS3*czE3NTIwODQzNzMkbzEkZzEkdDE3NTIwODQ0MjMkajEwJGwwJGg3NTE0NDY4NTQ.) [KirtLand.af](https://www.kirtland.af.mil/Portals/52/Innovation%20and%20Prototyping%20Fact%20Sheet_PA%20Approved.pdf) [Space Test Program (STP) Management and Funding(https://dod-executiveagent.osd.mil/Agents/ViewAgent.aspx?agentId=56) [RAiden_DX](https://archive.org/details/arcade_raidendx#)
+
+<div class=tupperware markdown="1">
+
+![image](https://github.com/user-attachments/assets/93607547-f37b-47fe-8c1b-ecb80de43ba6)
+
+![image](https://github.com/user-attachments/assets/875c42eb-81cc-4078-80b5-2582b1e82f49)
+
+
+</div>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid02MdLMDV8jJPyDzmRaLSdeWutg7X9vpHX5MVkk262FQr5LQUhYgWN9TM2BZd4PMFQVl&show_text=false&width=500" width="500" height="333" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid028NvzNHBMTBuC7tqhSsQceuEUHLzTEo3hF12Xp9i8C7zaZeGUYikqFEH57GYQ6k4Vl&show_text=true&width=500" width="500" height="559" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
+
+
+
 
 `ping -c 2 ice.gov`
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
