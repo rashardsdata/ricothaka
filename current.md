@@ -19,6 +19,9 @@ title: Current
 {{ site.baseurl }}
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/976adbd6-ddc3-4034-8fe7-17b9dba72ffd" />
+
+[DJ Rhettmatic Tape#4 - https://www.youtube.com/@TapeDeckWreck](https://youtu.be/4VsIqa74G7s?list=PLcOYYl6J93Z3TibXZIguiywfL2BkStO_y) + [AnimatedPalisadesEatonFires](https://dn721308.ca.archive.org/0/items/1newsstndupdate-simple-scan-station-20250721144640/nasa-worldview-2025%20JAN%2001-to-2025%20JAN%2030.gif)
 [OceanTopography](https://www.facebook.com/photo.php?fbid=716610017831156&set=p.716610017831156&type=3) @nasa-jpl im going to get a bite to eat @usgs @NOAAgov im trying to find river resources, [LaRiVER](https://www.loc.gov/item/ca2896/) is not hard and will help us this quarter! @cityoflosangeles @stateofcalifornia @nasa @whitehouse 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/172f4666-006f-4c95-b063-e9a0efa68285" />
