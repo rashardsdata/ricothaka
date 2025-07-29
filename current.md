@@ -24,13 +24,15 @@ title: Current
 # California_Linux:
 Monday; river checks and adb & yesterdays protest && [saturday](https://archive.org/details/vid-20250726-184935/VID_20250726_184935.mp4) [At LA's new Tesla Diner, an inflatable Elon Musk hands out Nazi salutes - sfgate.com](https://www.sfgate.com/la/article/tesla-diner-los-angeles-protests-20789970.php) [Elon Musk opened a diner in Hollywood. What could go wrong? I went to find out -theguardian.com](https://www.theguardian.com/us-news/2025/jul/26/elon-musk-tesla-diner-hollywood) [RetroArch](https://fantasyanime.com/emuhelp/retroarch) [Fat Albert and The Cosby Kids - S5: EP 8 - Soft Core](https://youtu.be/ZtqvJPo4SnU)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0qhzmmD2XLWBenuP6PCLyCQfD92igp3e8A7xAykvGrG85GgkCPkDFP5BQGq1UU89Rl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://archive.org/embed/vid-20250727-190404-adb-epa-noaa-swot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<iframe src="https://archive.org/embed/california_constitution_2019-20_0" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0oav7uZoRDz76P6CTHTbBbCdZHdQ76YTZ1ZUHkknokDze1F3yBf6mwbgFCwMgcpvml%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-<iframe src="https://archive.org/embed/california_constitution_2019-20_0" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0qhzmmD2XLWBenuP6PCLyCQfD92igp3e8A7xAykvGrG85GgkCPkDFP5BQGq1UU89Rl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0PXsDxgpLEQJL6ZAbDKhSfdkMrWct964bo9S8jeomJqwdDj9G1QhbZzknMMAa85ZHl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
