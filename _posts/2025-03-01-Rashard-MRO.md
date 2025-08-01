@@ -11,6 +11,33 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ![ContinentalBreakFast @nasa-jpl @stateofCalifornia](https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg)
 <iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/voyager-mission' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+![ICHZ02ASQ_RAW](https://github.com/user-attachments/assets/cc03899a-056a-43af-8cdd-505691b6f61f)
+[Commit 2820147 files](https://github.com/rashardgds/rashardmro/commit/2820147bbfb7c07aaec210341febce99a6a3d64a)
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d09072d9-7ea5-432b-92c0-809a79b43845)
+
+<figure>
+  <figcaption>Nuff Man A Dead:Song by Super Cat ‧ 1992
+</figcaption>
+  <audio controls src="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"></audio>
+  <a href="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"> Download audio </a>
+</figure>
+
+
 [PLANET_MARS_FROM_MRO-ESP_060346_1340_ESP_086800_1340- 07-Feb-2025 19:00](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_060300_060399/ESP_060346_1340_ESP_086800_1340/ESP_060346_1340_ESP_086800_1340_RED.browse.png)
 07-Feb-2025 19:00
 # Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
