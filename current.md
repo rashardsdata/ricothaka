@@ -23,7 +23,9 @@ title: Current
 
 
 @nasa-jpl 
-[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build!
+[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build! ... https://gis.earthdata.nasa.gov/portal/home/index.html [NASA Earthdata](https://gis.earthdata.nasa.gov/portal/home/index.html) Congressmember Karen Bass imma make some notes on my workblog an see what i can do for County of Los Angeles
+
+- [4later gta5](https://www.rockstargames.com/gta-online) 
 
 <video controls  width="auto" height="400">
    <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
@@ -32,6 +34,9 @@ title: Current
 
 
 </video>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fKNrd4bdo18S5p8CQ7eRToJTnhWHduC4ppxYgEVsVyXgT3yyMFpjY443hfdE8DFGl%26id%3D100084464911565&show_text=true&width=500" width="500" height="698" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://archive.org/embed/screen-20250802-093026" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
