@@ -19,6 +19,19 @@ title: Current
 {{ site.baseurl }}
 
 
+
+# CALiFORNiA_Linux RASHARD IMAN KELLY NASA JPL DOXXED!!!!!!!!!!!!!
+
+<iframe src="https://archive.org/embed/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe src="https://archive.org/embed/doxxing-nasa-ice-fed" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid035YMxKkXSo8fi3ESCAVrcNEM9ksLVYvzh6KJQmYeYr7XgE9kmQSHBZdGTtE3dy9f4l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # California_Linux:
@@ -78,6 +91,7 @@ Monday; river checks and adb & yesterdays protest && [saturday](https://archive.
 [NOAA from /compiling](https://thakarashard.github.io/compiling/Noaa-and-Climate_JPL) 
 
 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/5451f606-f2eb-458d-a6bd-8b98e7cd54c2" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/47dae6fd-adb3-484e-a837-b8c8046dd0e9" />
@@ -134,6 +148,7 @@ Monday; river checks and adb & yesterdays protest && [saturday](https://archive.
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
 ## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
 [Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
 ## Being Legit on a Dark Web social Network
