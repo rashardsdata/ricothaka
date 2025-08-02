@@ -20,17 +20,31 @@ title: Current
 
 
 
-# CALiFORNiA_Linux RASHARD IMAN KELLY NASA JPL DOXXED!!!!!!!!!!!!!
+
+
+@nasa-jpl 
+[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build!
+
+<video controls  width="auto" height="400">
+   <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
+
+  <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
+
+
+</video>
+
+<iframe src="https://archive.org/embed/screen-20250802-093026" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[MK today](https://fb.watch/Be4Vb3Sfoa/)
+<img alt="image" src="https://github.com/user-attachments/assets/47873096-47c2-4548-ba88-62dde8dc647f" />
+
+### # California_LinuX_rashard-ci-cd_[DOXXED](https://www.cuny.edu/about/administration/offices/transformation/diversity-equity-and-inclusion-hub/doxing/)
+[DOS](https://oercs.berkeley.edu/privacy/privacy-resources/personal-cybersecurity-and-privacy-preventing-doxxing) making notes for my manager - RAshardKelly @NASAJPL 
 
 <iframe src="https://archive.org/embed/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <iframe src="https://archive.org/embed/doxxing-nasa-ice-fed" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
-
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid035YMxKkXSo8fi3ESCAVrcNEM9ksLVYvzh6KJQmYeYr7XgE9kmQSHBZdGTtE3dy9f4l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
