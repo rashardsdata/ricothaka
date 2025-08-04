@@ -1,6 +1,10 @@
 ---
-layout: default
-mathjax: true
+layout: post
+title:  "They Said iT Was Live"
+published: true
+date:   2025-08-04 22:51:06 -0800
+tags:  live news events stories
+image: PIA01594.jpg
 ---
 
 # 🔴 LIVE: Google Cybersecurity Certificate | Google
