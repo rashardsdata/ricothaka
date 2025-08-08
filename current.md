@@ -20,6 +20,10 @@ title: Current
 
 
 
+# @NASA’s SpaceX Crew-10 Hatch Close
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn6qR__BbYg?si=zC0i-yDlc9o81Epk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/f2b8256c-cddb-484b-8101-427823eda8d8" />
 
 
 @nasa-jpl 
