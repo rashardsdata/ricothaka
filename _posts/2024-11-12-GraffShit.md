@@ -12,7 +12,35 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgraffitinewyork%2Fposts%2Fpfbid0bfxHuhJfjvxqcyUTB9hNxFJymALcqT4WXHMGcuPaiYyFBcXArdgiprXtpKhYVXFfl&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+i need martha cooper super bad, im just so embarrassed, tell ron that girl from oakland that liveed by mike was a complete wierdo and abused me sexually 12ozProphet ~ #The_King_Of_Hell 2002 
+<img alt="image @meta" src="https://github.com/user-attachments/assets/fa0b80d6-1c01-46d5-8cd2-d2e225a987c1" />
+
+![Dondi White](https://www.graffiti.org/dondi/tag.jpg)
+[https://www.dondiciakings.com/](https://www.dondiciakings.com/)
+# [DONDI White : @149st ArtistProfile](https://www.at149st.com/dondi.html) [READ @149st](https://www.at149st.com/dondi.html)
+![Dondi - ChildrenOfTheGrave](https://www.graffiti.org/dondi/train2.jpg) i forgot which one it is
+
+<img  alt="image" src="https://github.com/user-attachments/assets/01681b83-9930-40a8-9f6f-fe6805fe6174" />
+
+<div class="tupperware" markdown="1">
+  
+![dondi](https://www.graffiti.org/dondi/painting.gif)
+![Children of The Grave](https://www.graffiti.org/dondi/bode.gif)
+![ChildrenoftheGraveBlackbook](https://www.graffiti.org/dondi/childrn.jpg)
+
+</div>
+
+[Black Sabbath - Master of Reality - rhinoRecords](https://youtu.be/-8rj7dH5at4)
+[Obituary and Biography by `Zephyr` New York City October 8, 1998](https://www.graffiti.org/dondi/zeph.html)
+[Eulogy: DONDI 1961-1998](https://www.graffiti.org/dondi/eulogy.html) [ZEPH's Dondi flix](https://www.graffiti.org/dondi/zeph_flix.html) @blackgirlscode can guys do it to each other ? that was [intentional](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs)
+
+![DondiBlackbook](https://www.graffiti.org/dondi/2book.jpg)
+
+![ASiA by Dondi](https://www.graffiti.org/dondi/asia.jpg)
+
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExXt21DDDY8?si=CQvK3R2ad2TOSeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Chappelle's Show - Mos Def](https://youtu.be/VFCey9o_0hY)
