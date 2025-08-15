@@ -12,6 +12,7 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+![Dondi White](https://www.graffiti.org/dondi/tag.jpg)
 
 ![Dondi - ChildrenOfTheGrave](https://www.graffiti.org/dondi/train2.jpg) i forgot which one it is
 
@@ -25,7 +26,8 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 </div>
 
 [Black Sabbath - Master of Reality - rhinoRecords](https://youtu.be/-8rj7dH5at4)
-
+[Obituary and Biography by `Zephyr` New York City October 8, 1998](https://www.graffiti.org/dondi/zeph.html)
+[Eulogy: DONDI 1961-1998](https://www.graffiti.org/dondi/eulogy.html)
 
 ![DondiBlackbook](https://www.graffiti.org/dondi/2book.jpg)
   
