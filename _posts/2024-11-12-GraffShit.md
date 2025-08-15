@@ -12,8 +12,33 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgraffitinewyork%2Fposts%2Fpfbid0bfxHuhJfjvxqcyUTB9hNxFJymALcqT4WXHMGcuPaiYyFBcXArdgiprXtpKhYVXFfl&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+i need martha cooper super bad, im just so embarrassed, tell ron that girl from oakland that liveed by mike was a complete wierdo and abused me sexually 12ozProphet ~ #The_King_Of_Hell 2002 
+<img alt="image @meta" src="https://github.com/user-attachments/assets/fa0b80d6-1c01-46d5-8cd2-d2e225a987c1" />
+
 ![Dondi White](https://www.graffiti.org/dondi/tag.jpg)
 [https://www.dondiciakings.com/](https://www.dondiciakings.com/)
+# [DONDI White : @149st ArtistProfile](https://www.at149st.com/dondi.html)
+DONDI White was the quintessential style master. He had a unique ability to transform letters into visual symphonies. His mastery of lettering put him in an elite class of style writers.
+
+DONDI was raised in the East New York section of Brooklyn. He became involved in graffiti in the mid 1970s. Early in his painting career he showed unique artistic promise. His talent and commitment were recognized by established writers such as JEE 2 aka JAMESTOP of The Odd Partners (TOP). In 1977 DONDI was invited to join TOP.
+
+Later in 1977 DONDI formed his own crew CIA Crazy Insides Artists (later known as Corporation Illustrating Art). Under DONDI's leadership the crew quickly became a powerhouse. HULK, SID, AERON, DURO, KEL 139 and KID 56, were among the most prolific crew members of the era.
+
+DONDI was a well rounded writer, covering all bases; insides, whole cars and style writing. He divided his efforts between the BMT and IRT subway divisions. He made considerable accomplishments on the BMT subway division. During the late 1970s DONDI was hitting the BMTs with style and color schemes far more sophisticated than his peers. At this point in time skilled writers like the Prisoners Of Graffiti crew, DON of MAFIA crew and most members of The Fabulous 5 had stopped painting. For the most part throw-ups and quick straight letter pieces rendered in a limited color pallet were the rage. If not for DONDI, his crew and a small handful of others benching would have been pretty dismal. It is on the IRT division that he created some of his best known works including the Children of the Grave (a series of spectacular top-to-bottom whole cars) and ROLL UP (a widely celebrated example of style writing).
+
+Throughout the 1980s and ‘90s DONDI exhibited his work in galleries and museums including The Fun Gallery in New York City, the Yaki Kornblit Gallery in Amsterdam and the Leopold-Hoesch Museum in Germany.
+
+To the world’s misfortune DONDI passed away on October 2, 1998. His work remains relevant. It is exhibited and collected across the world and continues to inspire subsequent generations of artists.
+
+DONDi's life an artist has been detailed in Dondi White Syle Master General by Andrew Witten aka ZEPHYR and DONDI's brother, Michael White
+
+A note of respect for DONDI from @149st.
+
+Purchase Dondi White Syle Master General Art Crimes memorial for DONDI
+
+Reproduction in whole or in part without permission is prohibited. [READ @149st](https://www.at149st.com/dondi.html)
 ![Dondi - ChildrenOfTheGrave](https://www.graffiti.org/dondi/train2.jpg) i forgot which one it is
 
 <img  alt="image" src="https://github.com/user-attachments/assets/01681b83-9930-40a8-9f6f-fe6805fe6174" />
