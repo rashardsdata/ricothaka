@@ -13,6 +13,10 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 {% endfor %}
 
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/01681b83-9930-40a8-9f6f-fe6805fe6174" />
+[Black Sabbath - Master of Reality - rhinoRecords](https://youtu.be/-8rj7dH5at4)
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExXt21DDDY8?si=CQvK3R2ad2TOSeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Chappelle's Show - Mos Def](https://youtu.be/VFCey9o_0hY)
