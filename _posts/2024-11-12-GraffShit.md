@@ -17,10 +17,11 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 i need martha cooper super bad, im just so embarrassed, tell ron that girl from oakland that liveed by mike was a complete wierdo and abused me sexually 12ozProphet ~ #The_King_Of_Hell 2002 
 <img alt="image @meta" src="https://github.com/user-attachments/assets/fa0b80d6-1c01-46d5-8cd2-d2e225a987c1" />
 
-![Dondi White](https://www.graffiti.org/dondi/tag.jpg)
 [https://www.dondiciakings.com/](https://www.dondiciakings.com/)
 # [DONDI White : @149st ArtistProfile](https://www.at149st.com/dondi.html) [READ @149st](https://www.at149st.com/dondi.html)
-![Dondi - ChildrenOfTheGrave](https://www.graffiti.org/dondi/train2.jpg) i forgot which one it is
+![Dondi White](https://www.graffiti.org/dondi/tag.jpg)
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/01681b83-9930-40a8-9f6f-fe6805fe6174" />
 
@@ -32,6 +33,7 @@ i need martha cooper super bad, im just so embarrassed, tell ron that girl from 
 
 </div>
 
+![Dondi - ChildrenOfTheGrave](https://www.graffiti.org/dondi/train2.jpg) i forgot which one it is
 [Black Sabbath - Master of Reality - rhinoRecords](https://youtu.be/-8rj7dH5at4)
 [Obituary and Biography by `Zephyr` New York City October 8, 1998](https://www.graffiti.org/dondi/zeph.html)
 [Eulogy: DONDI 1961-1998](https://www.graffiti.org/dondi/eulogy.html) [ZEPH's Dondi flix](https://www.graffiti.org/dondi/zeph_flix.html) @blackgirlscode can guys do it to each other ? that was [intentional](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs)
