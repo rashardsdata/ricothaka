@@ -45,7 +45,10 @@ carousels:
 
 {{ site.time | date: '%c' }}
 
-# Currently Compling g_e, m/s^2
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+[EBOOK_READER @newshour](https://github.com/kovidgoyal/calibre) 
+<p><a href="https://commons.wikimedia.org/wiki/File:Calibre_logo_SVG_version.svg#/media/File:Calibre_logo_SVG_version.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg" alt="Calibre logo SVG version.svg" height="1024" width="1024"></a><br>By Kovid Goyal - <a rel="nofollow" class="external free" href="https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg">https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg</a>, <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License v3">GPLv3</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=162170356">Link</a></p>
 
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/791890190923907072" data-did="c7e7e40bf0f0fa13bcf1f1bc19053bfb0b8a92cb"><a href="https://rashardmro.tumblr.com/post/791890190923907072">https://rashardmro.tumblr.com/post/791890190923907072</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
  
@@ -224,4 +227,5 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 ![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
 
 <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg" />
+
 
