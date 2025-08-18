@@ -23,6 +23,8 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02ug19nvELt2Wacm2wMkVxkdcjP9ZeAKDnbC558r4uLth3SjC83SFH331FXgY9yU1Dl&show_text=true&width=500" width="500" height="416" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 [vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/) [v](https://www.reddit.com/r/MAME/comments/ub3r4j/im_trying_to_get_virtua_racing_working_and_i_have/)
 
 NASA’s SpaceX Crew-10 Hatch Close [feed](NASA’s SpaceX Crew-10 Hatch Close)
