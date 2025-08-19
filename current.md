@@ -24,6 +24,20 @@ title: Current
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 
+# Spirit Rover [HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
+[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02cyl11p1003l000m2.img.jpg)
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02per11p1003l000m2.img.jpg)
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02per11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02pol11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m2.img.jpg)
+![Spirit @nasa-pds](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m3.img.jpg)
+![@whitehouse @stateofcalifornia](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0003/2ff015eff03per27p1214l000m2.img.jpg)
+![Spirit May25](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/navcam/site0138/2nnl48ilfb2cypgxp1705r000m1.img.jpg)
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid0nt5pvMSXXMcfrNeeoe9HCCb7hwc3n97HH8zrF5JFB5L9jvsvD6rxeHwGNm66xZrol&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02ug19nvELt2Wacm2wMkVxkdcjP9ZeAKDnbC558r4uLth3SjC83SFH331FXgY9yU1Dl&show_text=true&width=500" width="500" height="416" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
