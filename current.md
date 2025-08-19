@@ -23,6 +23,10 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+# Spirit Rover [HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
+[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+
 ![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02cyl11p1003l000m2.img.jpg)
 ![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
 ![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02per11p1003l000m2.img.jpg)
