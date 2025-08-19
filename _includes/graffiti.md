@@ -2,6 +2,9 @@
 Daddy O - "Played Out" OFFICIAL MUSIC VIDEO @nasa-jpl @nasa @boeing @blackgirlscode @whitehouse @cityoflosangeles @stateofcalifornia
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=DivuCxebevJZtNX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/476240352_1600435137266645_7184547113575520445_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=f727a1&amp;_nc_ohc=yBGl9PXlmm8Q7kNvwHJxOIG&amp;_nc_oc=AdkZk1MgVAsuu60qweNfWC_-GuhFWcX9EYOjtGmQXSOmDT9D6vpatlV11CJ35xO4oVs&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=VHccEaW2nCgSotR3QnHMdA&amp;oh=00_AfUpZxcWTo44Kkl0TJLFiU28hq2J1ahKGJuHKaR8uPPkmg&amp;oe=68A991E6" alt="No photo description available."/><img width="768" height="960" alt="image" src="https://github.com/user-attachments/assets/319ac468-58cb-4db7-8e7e-1b5ba8137cbd" />
+
+
 [![Erika Blackbook Schetch i did in Tuson after we got married we were partners](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)
 
 ![Behind Beatlab, ran for 3 days](https://pbs.twimg.com/media/GBBNAjybcAEHAI7?format=jpg&name=medium)
