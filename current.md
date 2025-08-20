@@ -23,6 +23,8 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+[Jupiter Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html)
+![jupiter](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
 <img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
