@@ -549,11 +549,11 @@ p:first-of-type {
 
 
 figure {
-  border: thin #c0c0c0 solid;
+  border: thin #c0c0c0 dotted;
   display: flex;
   flex-flow: column;
   padding: 5px;
-  max-width: 220px;
+  max-width: 100%;
   margin: auto;
 }
 
