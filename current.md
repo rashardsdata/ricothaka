@@ -23,7 +23,7 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/139304339_853024948830637_5939212775752125150_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=N8MxNBVnHpAQ7kNvwEhaqEr&amp;_nc_oc=AdkoMjIjYDhgZaiMKboO585BHkLo8u6Z4yQ9trcX4jF7EwQyHiMU1xWy9CQHdqP3Z8o&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=EZf7PPclJAickycgptE1NQ&amp;oh=00_AfXEIoThyUnoDWGydJDlbPM_HT-Q5XPpNrvbf8MVozH6ew&amp;oe=68CB122B" alt="No photo description available."/>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
 <img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
@@ -284,6 +284,8 @@ you are looking at it the wrong way! We have a lot of [equipment to maintain](ht
  [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
 
 [@blackgirlscode](https://open.spotify.com/track/1aALf03O95C49gY3eti3Fd?si=4ILYkEKTRNiFwORRNARR2g)
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/139304339_853024948830637_5939212775752125150_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=N8MxNBVnHpAQ7kNvwEhaqEr&amp;_nc_oc=AdkoMjIjYDhgZaiMKboO585BHkLo8u6Z4yQ9trcX4jF7EwQyHiMU1xWy9CQHdqP3Z8o&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=EZf7PPclJAickycgptE1NQ&amp;oh=00_AfXEIoThyUnoDWGydJDlbPM_HT-Q5XPpNrvbf8MVozH6ew&amp;oe=68CB122B" alt="No photo description available."/>
 
 
 
