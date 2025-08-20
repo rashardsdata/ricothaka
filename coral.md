@@ -3,6 +3,9 @@ layout: default
 title: Current
 ---
 
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
+
+<img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02ug19nvELt2Wacm2wMkVxkdcjP9ZeAKDnbC558r4uLth3SjC83SFH331FXgY9yU1Dl&show_text=true&width=500" width="500" height="416" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
