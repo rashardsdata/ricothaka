@@ -47,26 +47,6 @@ carousels:
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-[EBOOK_READER @newshour](https://github.com/kovidgoyal/calibre) 
-<p><a href="https://commons.wikimedia.org/wiki/File:Calibre_logo_SVG_version.svg#/media/File:Calibre_logo_SVG_version.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg" alt="Calibre logo SVG version.svg" height="1024" width="1024"></a><br>By Kovid Goyal - <a rel="nofollow" class="external free" href="https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg">https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg</a>, <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License v3">GPLv3</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=162170356">Link</a></p>
-
- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/791890190923907072" data-did="c7e7e40bf0f0fa13bcf1f1bc19053bfb0b8a92cb"><a href="https://rashardmro.tumblr.com/post/791890190923907072">https://rashardmro.tumblr.com/post/791890190923907072</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
- 
-### # California_Linux: GiT 08 13 Rashard Ci Serving Sites Again Follwers Ing Missing Screen Recording 2025 08 13 4.12.14 PM# C
-[goes](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=wus&band=FireTemperature&length=24) 
-
-<iframe src="https://archive.org/embed/08-13-rashard-ci-serving-sites-again-follwers-ing-missing-screen-recording-2025-08-13-4.12.14-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0v3WyNMtogV8n6AvRvT8zHnmHDjS5HqVccJoKGAo3zZ2UrA6aVv9msZwV4BstdMBCl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-[https://alertcalifornia.org/](https://alertcalifornia.org/) [cams](https://cameras.alertcalifornia.org/?pos=37.2391_-119.0039_6) 
-
-{% include_relative current.md %}
-
-
-
---- 
 
 
 
@@ -88,6 +68,28 @@ carousels:
 4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
 {% endhighlight %}
 
+
+
+
+{% include_relative current.md %}
+
+
+
+[EBOOK_READER @newshour](https://github.com/kovidgoyal/calibre) 
+<p><a href="https://commons.wikimedia.org/wiki/File:Calibre_logo_SVG_version.svg#/media/File:Calibre_logo_SVG_version.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg" alt="Calibre logo SVG version.svg" height="1024" width="1024"></a><br>By Kovid Goyal - <a rel="nofollow" class="external free" href="https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg">https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg</a>, <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License v3">GPLv3</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=162170356">Link</a></p>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/791890190923907072" data-did="c7e7e40bf0f0fa13bcf1f1bc19053bfb0b8a92cb"><a href="https://rashardmro.tumblr.com/post/791890190923907072">https://rashardmro.tumblr.com/post/791890190923907072</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+### # California_Linux: GiT 08 13 Rashard Ci Serving Sites Again Follwers Ing Missing Screen Recording 2025 08 13 4.12.14 PM# C
+[goes](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=wus&band=FireTemperature&length=24) 
+
+<iframe src="https://archive.org/embed/08-13-rashard-ci-serving-sites-again-follwers-ing-missing-screen-recording-2025-08-13-4.12.14-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0v3WyNMtogV8n6AvRvT8zHnmHDjS5HqVccJoKGAo3zZ2UrA6aVv9msZwV4BstdMBCl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[https://alertcalifornia.org/](https://alertcalifornia.org/) [cams](https://cameras.alertcalifornia.org/?pos=37.2391_-119.0039_6) 
+--- 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 <a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
@@ -227,5 +229,6 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 ![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
 
 <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg" />
+
 
 
