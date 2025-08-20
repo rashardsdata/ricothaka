@@ -55,10 +55,12 @@ carousels:
 ---
 
 {% highlight ruby %} 
+
 1 # HOLE_TO_ANOTHER_UNiVERSE########################
 2 # TO#####rashardmro.tumblr.com####################
 3 # ANOTHER######################################### 
 4 # UNiVERSE##┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi##CORaL!
+
 {% endhighlight %}
 
 
@@ -237,6 +239,7 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 ![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
 
 <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg" />
+
 
 
 
