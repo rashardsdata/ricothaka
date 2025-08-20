@@ -1,7 +1,11 @@
 # RiCOTHAKARASHARD = RAshardKElly[Thaka] 
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
+<img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/139304339_853024948830637_5939212775752125150_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=N8MxNBVnHpAQ7kNvwEhaqEr&amp;_nc_oc=AdkoMjIjYDhgZaiMKboO585BHkLo8u6Z4yQ9trcX4jF7EwQyHiMU1xWy9CQHdqP3Z8o&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=EZf7PPclJAickycgptE1NQ&amp;oh=00_AfXEIoThyUnoDWGydJDlbPM_HT-Q5XPpNrvbf8MVozH6ew&amp;oe=68CB122B" alt="No photo description available."/><img width="2040" height="1530" alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
+<img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/138836973_853019572164508_2461786968592430031_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=9BuhOqG1EuwQ7kNvwFpSt0x&amp;_nc_oc=AdkR2cDOvl7CeuI6gT7asbl7ERhGK2nymaQMUpaWq_m_y7ZjOQAqeaRUD75JNhniEBU&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=mziiqFl3-PhaEz-O0W6_MA&amp;oh=00_AfX9Wxj7XKVm616F52bqyipIhzWW8Q2TUhZj717xg9JW8Q&amp;oe=68CB11BE" alt="No photo description available."/>
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
