@@ -23,6 +23,9 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# Venus Flyby 1990
+Compiling on [/rashardmro](https://thakarashard.github.io/rashardmro/2025/08/19/currentlycompiling.html)
+<img alt="image" src="https://github.com/user-attachments/assets/1b4f3310-0c0a-4bd6-a7a3-d2c647941d8c" />
 
 # Spirit Rover [HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
 [@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
