@@ -161,19 +161,24 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 
 
-
-
-
-
-
-
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
 <div class="normani">
     <div></div>
     <div></div>
     <div></div>
     <div></div>
-    </div>
+</div>
+
+
+
+
+
+ <img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
 
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -229,6 +234,7 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 ![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
 
 <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg" />
+
 
 
 
