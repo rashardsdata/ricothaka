@@ -23,6 +23,11 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+[Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/) pia14447-earth-triptych [image](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/)
+This trio of Junocam views of Earth was taken during Juno's close flyby on October 9, 2013. 
+![Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA14447.jpg)
+
 # Venus Flyby 1990
 Compiling on [/rashardmro](https://thakarashard.github.io/rashardmro/2025/08/19/currentlycompiling.html)
 <img alt="image" src="https://github.com/user-attachments/assets/1b4f3310-0c0a-4bd6-a7a3-d2c647941d8c" />
