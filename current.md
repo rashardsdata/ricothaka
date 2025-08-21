@@ -23,8 +23,12 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# California_Linux: Ecostress annual review cram prep + report
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 [Jupiter Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html)
-![jupiter](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
+![jupiter @blackgirlscode voyager2](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
 <img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
