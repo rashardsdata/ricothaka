@@ -21,10 +21,12 @@ title: Current
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-# NOAA Decomm
-![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
+# NOAA Decomm ? 
+![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024 @GEOS-ESM](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
 
 #### ["_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_**](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUdYBleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR6IQzec4krNbu-xceYkDD_kKohdttMvR4pr_iApGwp7oUI1LFj_-b4pWo7GdA_aem_OPRqBaBTukvStkYRclaOvg)
 @noaa i saw an article titled "_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_** [FULLARTiCLE`LinK`](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUcOhleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR7h3dRIKjzt-ArdVKEVmQmkO64bvYIa4YGnKSWH6xnAIhWxDsASnGUP_SWJPg_aem__Mxh1K4hdRJgzpstAjSCAA), @nasa-jpl that was yesterday and [DeepSpaceNetwork](https://eyes.nasa.gov/apps/dsn-now/)_[HelpDesk](https://x.com/thakasartu/status/1931030520860954828) is still [NSN](https://www.nasa.gov/near-space-network/) we even share the tool [SCaN Now](https://scan-now.gsfc.nasa.gov/scan) so if theres hardware that makes random pop ups and it stops i need to know im still working my inventory task from Charles Bolden and Jamie mantel @deptofdefense @nasa-pds @nasa-jpl @nasa and want to make sure everyone is on the same page with the Decomms . I left responses on [@meta Facebook](https://www.facebook.com/profile.php?id=100084464911565) but idk who see them, usually a woman with a lot of power and i still dont trust it... 
