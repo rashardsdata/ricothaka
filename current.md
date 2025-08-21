@@ -59,6 +59,7 @@ The TIROS Program (Television Infrared Observation Satellite) was NASA's first e
 
 
 # California_Linux: Ecostress annual review cram prep + report
+[SubLIME-Goddard-NASA/DARMA](https://github.com/SubLIME-Goddard-NASA/DARMA) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SubLIME-Goddard-NASA/DARMA.git/HEAD) <~ 4later @Goddard-NASA its just a good book at this point Andrew Feldman, im comprehending more... but its the style, something.. idk every facility has its own language, i cant wait to dive in someday, dont bother me tho @whitehouse i just send messages for later @stateofcalifornia 
 <iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
