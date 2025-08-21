@@ -24,18 +24,19 @@ title: Current
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 # California_Linux: Ecostress annual review cram prep + report
+ & [LiNK Planetary Missions - SUPPORATABLE LiST - https://nssdc.gsfc.nasa.gov/planetary/projects.html](https://nssdc.gsfc.nasa.gov/planetary/projects.html) <~ places to checkon 
 <iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
+[Rescuing a satellite stranded in space - 13 Minutes Presents: The Space Shuttle, BBC World Service - @bbc @youtube @nasa-jpl JUNO MiSSiON](https://www.youtube.com/watch?v=DCgfgLnDZJw)
 [Jupiter Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html)
 ![jupiter @blackgirlscode voyager2](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
-<img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 [Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/) pia14447-earth-triptych [image](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/)
 This trio of Junocam views of Earth was taken during Juno's close flyby on October 9, 2013. 
 ![Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA14447.jpg)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
+<img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 # Venus Flyby 1990
 Compiling on [/rashardmro](https://thakarashard.github.io/rashardmro/2025/08/19/currentlycompiling.html)
