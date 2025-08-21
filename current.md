@@ -34,7 +34,7 @@ what i left [Workday album](https://www.facebook.com/permalink.php?story_fbid=pf
 
 # POES
 Polar Operational Environmental Satellite (POES)
-The Polar Operational Environmental Satellite (POES) Project is a reimbursable project for the National Oceanic and Atmospheric Administration (NOAA). The Goddard Space Flight Center (GSFC) was responsible for the construction, integration and launch of NOAA series satellites.
+The Polar Operational Environmental Satellite (POES) Project is a reimbursable project for the National Oceanic and Atmospheric Administration (NOAA). The Goddard Space Flight Center (GSFC) was responsible for the construction, integration and launch of NOAA series satellites. @NASA-GISS @nasa-pds @blackgirlscode 
 
 <img alt="image" src="https://github.com/user-attachments/assets/831ece38-b5e7-4913-8659-39ef11a79e95" />
 
