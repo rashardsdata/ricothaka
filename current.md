@@ -34,6 +34,9 @@ what i left [Workday album](https://www.facebook.com/permalink.php?story_fbid=pf
 
 [FacebookPostReads](https://www.facebook.com/permalink.php?story_fbid=pfbid02F2FS8vz5SAhPNsdNGdZoE5DFdMtNaKq1cYX7smuapBFZJwkDcXyV4ggPLHwBiBXil&id=100084464911565)  i dont want to get dinged for neglecting equipment. If this equipment is #Decommed2025 what does it mean for maintenace and tracking ? Who will bring the units back to earth ?
 
+[WAR Eric Burdon Love is all around (full album)](https://youtu.be/WzpHpxQZL_g)
+[One Nation Under A Groove - Funkadelic (Full Album)](https://youtu.be/GmDNMx9FRgI) <~ worth a spin 
+
 <a href="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp"><img src="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp" style="width:228px;height:228px;" /></a>
 
 # POES
