@@ -23,8 +23,12 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# California_Linux: Ecostress annual review cram prep + report
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 [Jupiter Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html)
-![jupiter](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
+![jupiter @blackgirlscode voyager2](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
 <img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
@@ -148,71 +152,6 @@ Monday; river checks and adb & yesterdays protest && [saturday](https://archive.
 <img  alt="image" src="https://github.com/user-attachments/assets/172f4666-006f-4c95-b063-e9a0efa68285" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/78b3b9ce-0ff7-4c19-8bfa-6bb542c55391" />
-
-
-### Check out [LROC](https://lroc.im-ldi.com/)
-### Check out [LROC](https://lroc.im-ldi.com/)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/6fd05625-bdf7-482f-8ba8-725b0e811da8" />
-
-
-<img alt="image" src="https://github.com/user-attachments/assets/89c4cb40-5b63-40bc-83cb-e21ad7a325ee" />
-
-# Compiling
-### wildfire @noaa [@nasa](https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Dear%20Team%20at%20Nasa%20Mars.pdf) @stateofcalifornia @cityoflosangeles @nasa-jpl [@newshour](https://dn721308.ca.archive.org/0/items/1newsstndupdate-simple-scan-station-20250721144640/1newsstndupdateSimpleScanStation20250721144640.pdf)  [@nasa-jpl @cityoflosangeles :: LosAngelesCountyFireDAtA on @nasa-jpl rashardGDS.github.io](https://rashardgds.github.io/rashardmro/2025/03/29/Los-Angeles-County-Fire_Data.html)
-[NOAA from /compiling](https://thakarashard.github.io/compiling/Noaa-and-Climate_JPL) 
-
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/5451f606-f2eb-458d-a6bd-8b98e7cd54c2" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/47dae6fd-adb3-484e-a837-b8c8046dd0e9" />
-
-
-<div class="tupperware" markdown="1">
-
-<video controls  width="auto" height="400">
-   <source src="https://ia801001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
-
-  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
-
-
-</video>
-
-<video controls  width="auto" height="400">
-   <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
-
-  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
-
-
-</video>
-
-</div>
-
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:14gJtxoOvHwVbrjwtr6x5A/789733577929768960/v2" data-did="35bd1f1ccbb1c7268e2d4f8f2138776763c07365"  ><a href="https://www.tumblr.com/santamonicashaadi/789733577929768960/palisadesfire-jan7">https://www.tumblr.com/santamonicashaadi/789733577929768960/palisadesfire-jan7</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
-
-<img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWmg" alt="KAren Bass"/> 
-
-<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/40000/40110/lafires_ali_2009246_swir.jpg" alt="2009"/> 
-
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">📸 Kandidat za 🌐 fotografiju godine 2️⃣0️⃣2️⃣5️⃣.<a href="https://twitter.com/hashtag/photooftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#photooftheyear</a> <a href="https://twitter.com/hashtag/picoftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#picoftheyear</a> <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/hashtag/USA?src=hash&amp;ref_src=twsrc%5Etfw">#USA</a> <a href="https://twitter.com/hashtag/palisadesfires?src=hash&amp;ref_src=twsrc%5Etfw">#palisadesfires</a> <a href="https://twitter.com/hashtag/LosAngelesFire?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesFire</a> <a href="https://t.co/6TMNyi8RQP">pic.twitter.com/6TMNyi8RQP</a></p>&mdash; Uroš Pribićević 🇷🇸 (@PribicevicU) <a href="https://twitter.com/PribicevicU/status/1878539382887428451?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2133033627&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/lsear-thursday-7-17-25-oldrap-throwback-jonits" title="L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!" target="_blank" style="color: #cccccc; text-decoration: none;">L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!</a></div>
-
-[TEXACOSHAWDAY](https://archive.org/download/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/04-OJ%20Da%20Juiceman-It%20Is%20What%20It%20Is-MF.mp3) [PDF::CURRENTBOOKSinTEREST](https://ia801001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/1computingUPDATESimpleScanStation20250711102008.pdf)
-
-### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
-
-<iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-# California_Linux:SANTADENAWATERWAYS
-
-@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
-[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
-<object data="https://archive.org/embed/California_Linux_SANTADENAWATERWAYS" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
 
