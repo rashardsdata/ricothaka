@@ -27,14 +27,13 @@ title: Current
 
 
 ![NiH](https://www.niehs.nih.gov/themes/custom/niehs_cms/web-resources/images/niehs-logo.svg)
-@NIHGOV hi its rashard from @nasa-jpl we took grabbed some images of [the fires here in Los Angeleles](https://svs.gsfc.nasa.gov/5568/) and our latest scan shows snowlike buildup and we need to understand the implications @nasa-pds @podaac @stateofcalifornia @cityoflosangeles im not harrassig the fire dept, im Just figuring ut if its bad for us at all long term
+@NIHGOV hi its rashard from @nasa-jpl we took grabbed some images of [the fires here in Los Angeleles](https://svs.gsfc.nasa.gov/5568/) and our latest scan shows snowlike buildup and we need to understand the implications @nasa-pds @podaac @stateofcalifornia @cityoflosangeles im not harrassig the fire dept, im Just figuring ut if its bad for us at all long term - [MyData](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
 
 
 <img width="275" height="538" alt="image" src="https://github.com/user-attachments/assets/56c7254b-38d1-4058-8005-ebe256cf4761" />
 
 
 <img alt="image" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png" />
-<img alt="image" src="https://github.com/user-attachments/assets/53cac150-2e72-4dc6-8fe0-75cfdd63e856" />
 <img alt="image" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png" />
 
 # NOAA Decomm ? 
