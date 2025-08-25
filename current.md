@@ -25,6 +25,8 @@ title: Current
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# California_Linux: Ecostress annual review cram prep + report
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![NiH](https://www.niehs.nih.gov/themes/custom/niehs_cms/web-resources/images/niehs-logo.svg)
 @NIHGOV hi its rashard from @nasa-jpl we took grabbed some images of [the fires here in Los Angeleles](https://svs.gsfc.nasa.gov/5568/) and our latest scan shows snowlike buildup and we need to understand the implications @nasa-pds @podaac @stateofcalifornia @cityoflosangeles im not harrassig the fire dept, im Just figuring ut if its bad for us at all long term - [MyData](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
