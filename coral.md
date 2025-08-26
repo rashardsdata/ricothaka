@@ -3,7 +3,10 @@ layout: default
 title: Current
 ---
 
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
+
+[Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+<img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" />
+<img alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 
