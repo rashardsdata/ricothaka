@@ -24,6 +24,7 @@ title: Current
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+[LAADS_DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/imageViewer/42/VJ202DNB--5201,VNP01--5000,VNP02DNB--5200,VNP02IMG--5200,VNP02MOD--5200,VNP03DNB--5200/2025-08-19..2025-09-02/DB/-118.5,34.2,-117.8,33.6) VJ202DNB - VIIRS/JPSS2 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m [LinK](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ202DNB/) [Fungi as bioweapons](https://pubmed.ncbi.nlm.nih.gov/16815458/) [Risk assessment of fungal materials](https://pubmed.ncbi.nlm.nih.gov/35209958/) [SantaMonica?](https://www.first-nature.com/fungi/heterobasidion-annosum.php)
 
 @blackgirlscode @nasa @dhs-gov @nasa-jpl @nasa-pds @cityoflosangeles @stateofcalifornia @podaac
 
