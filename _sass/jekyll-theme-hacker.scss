@@ -73,6 +73,17 @@ background-size: 80.4px 80.4px;
   font-variant: small-caps;
 }
 
+/* for .svg .png .gif with dark colors on transparent */
+
+.whitebg {
+           background-color:white;
+         }
+.blackbg {
+           background-color:black;
+         }
+.greenbg {
+           background-color:limegreen;
+         }
 
 HGROUP {
   padding-top:0px;
