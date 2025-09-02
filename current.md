@@ -48,6 +48,15 @@ On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org
 [Heterobasidion annosum](https://www.first-nature.com/fungi/heterobasidion-annosum.php)
 <img width="509" height="117" alt="image" src="https://github.com/user-attachments/assets/ad3f9f56-eb90-4061-9cd5-6916deaaa008" />
 
+@blackgirlscode @cityoflosangeles i went to church here, and a #WhiteCollar took my photo for me @nasa-jpl @Nasa @podaac
+
+<img  alt="image" src="https://github.com/user-attachments/assets/259fdd41-288d-4b63-82cd-abf33630e8fd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e16017b0-56d0-4044-b82b-52056223dd30" />
+
+[https://www.saint-augustine.org/](https://www.saint-augustine.org/) [@StAugustinebttheSea @youtube @nasa-pds](https://www.youtube.com/c/staugustinebythesea?themeRefresh=1) [Videos in @meta post in this archive](https://archive.org/download/nasa-worldview-2025-aug-13-to-2025-aug-25)
+
+
 
 
 `www.saint-augustine.org doesn’t support a secure connection with HTTPS`
