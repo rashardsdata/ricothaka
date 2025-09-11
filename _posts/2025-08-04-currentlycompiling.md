@@ -11,6 +11,167 @@ author: "RashardKelly @nasa-jpl"
 ### Check out [LROC](https://lroc.im-ldi.com/)
 <img   alt="image" src="https://github.com/user-attachments/assets/6fd05625-bdf7-482f-8ba8-725b0e811da8" />
 
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
+LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
+
+
+<img  alt="politico @cityoflosangeles" src="https://github.com/user-attachments/assets/8c48efd3-5cae-46b0-9a65-04aa294e9684" />
+
+
+The Webb Telescope Traveling Through [Los Angeles](https://digitallibrary.usc.edu/) to Navy Yard B-roll
+Released Thursday, October [21+](https://www.pbssocal.org/shows/lost-la/los-angeles-in-buildings-the-central-library), 2021
+
+[webbtelescope.org/images](https://webbtelescope.org/images) [@esa webb esawebb.org/images/](https://esawebb.org/images/)
+[Reddit r/jameswebb](https://www.reddit.com/r/jameswebb/) [YouTube @NASAWebbTelescope](https://www.youtube.com/@NASAWebbTelescope)
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Traveling_Through_LA_SS_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Move_to_Navy_Base_1DX_LA_Footage_A_H_264.mp4" type="video/mp4">	 
+
+</video> 
+
+[B-Roll](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/897098/Yard/) footage of the Webb Telescope inside the [protective](https://www.dvidshub.net/video/897098/navsea-memorial-b-roll-package) transport container traveling through the city of Los Angeles to get to the Navy base at [Seal Beach, CA.](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Southwest/Seal-Beach-NWS/Site-Descriptions/)
+
+### Cosmic Dawn: The Untold Story of the James Webb Space Telescope
+For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this telescope overcame all odds. [Watch on @Nasa+](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) , [Youtube](https://www.youtube.com/watch?v=uSMGENDH_QI)or below @cityoflosangeles [KarenBass](https://search.yahoo.com/search?p=gavin+newsom+karen+bass+california+homeless&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1) @stateofcalifornia [GavinNewsom](https://nypost.com/2025/01/09/us-news/bass-newsom-ignored-past-warnings-about-la-wildfires/) @nasa-pds 
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/Cosmic_Dawn_Thumbnail_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" type="video/mp4">	 
+
+</video> 
+
+California Fires without Fire Pixels
+Oct 29, 2003 [ClickHere](https://svs.gsfc.nasa.gov/2847)
+The Palisades and Eaton Fires, Los Angeles, California
+Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A platform.
+[Comparison MAps @nasa-jpl EarthDataSquad](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california)
+
+![Los Angeles Sheriffs Department](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
+[ACADEMY CLASS #483 Graduation @meta](https://fb.watch/BV-soGm3j0/)
+<img  alt="image" src="https://github.com/user-attachments/assets/eb320a28-bd90-4be6-8af1-4c6a45a32fb8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/43c781fe-1f92-4abb-8708-94de0dcdb569" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1a26040c-1389-4924-967d-2c3d47e42beb" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/082137e1-e766-4e61-84df-20aee706350b" />
+
+<img width="1853" height="1079" alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
+
+[Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
+[FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
+
+![fire @nasa](https://rashardgds.github.io/assets/img/Overview_HD.png) @usgs
+
+@blackgirlscode @cityoflosangeles i went to church here, and a #WhiteCollar took my photo for me @nasa-jpl @Nasa @podaac
+
+<img  alt="image" src="https://github.com/user-attachments/assets/259fdd41-288d-4b63-82cd-abf33630e8fd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e16017b0-56d0-4044-b82b-52056223dd30" />
+
+[https://www.saint-augustine.org/](https://www.saint-augustine.org/) [@StAugustinebttheSea @youtube @nasa-pds](https://www.youtube.com/c/staugustinebythesea?themeRefresh=1) [Videos in @meta post in this archive](https://archive.org/download/nasa-worldview-2025-aug-13-to-2025-aug-25)
+
+
+[Jay Electronica The Ghost Of Christopher Wallace WITHOUT ](https://soundcloud.com/josh-calhoun-509969798/jay-electronica-the-ghost-of-christopher-wallace-without-diddy-talking-at-the-end)
+
+![OPUS](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png)
+
+OPUS ID:
+co-uvis-fuv1999_230_09_27
+Instrument Name:
+Cassini UVIS
+Planet:
+Other
+Intended Target Name(s):
+Earth
+Observation Start Time (YMDhms):
+1999-08-18T09:27:20.064
+Observation Duration (secs):
+43200
+
+![OPUS EARTH](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_03_27_full.png)
+
+[Android SDK - Low Memory Error - https://support.identity.entrust.com/](https://support.identity.entrust.com/s/article/Android#:~:text=Error%20Handling,'Dont%20keep%20activities'%20option.)
+Error Handling
+ to fix this error on Android try   [Developer options](https://developer.android.com/studio/debug/dev-options), scroll all the way down, and uncheck (turn off) the 'Dont keep activities' option. 'Unable to complete previous operation due to low memory' error message on your Android device [Android Developers](https://www.youtube.com/user/androiddevelopers) @FEMA
+
+<img alt="image" src="https://github.com/user-attachments/assets/47285529-0013-4ebb-b2b0-f3f08d5a0ba1" />
+
+
+
+# Galileo Venus Flyby
+Feb. 7, 1990
+NASA's Galileo spacecraft will obtain its first gravity assist on the long road to Jupiter on the night of February 9-10 when it flies by the planet Venus at a distance of some 10,000 miles (16,000 kilometers) above the cloudtops. [READMORE](https://www.jpl.nasa.gov/news/galileo-venus-flyby/) 
+There have been 46 space missions to the planet Venus [wiki](https://en.wikipedia.org/wiki/List_of_missions_to_Venus)
+
+
+
+@nasa-pds @stateofcalifornia [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
+[Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
+
+<img width="55" height="55" src="https://nssdc.gsfc.nasa.gov/logo/nasa_logo.gif" />
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-venus' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+[PDS Imaging Node: Data Archive](https://planetarydata.jpl.nasa.gov/img/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/mgsc_1116/extras/) @nasa-jpl [MArs Global Surveyor MGS](https://www.jpl.nasa.gov/missions/mars-global-surveyor/)
+
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid0JfgMYLrQzaansxxbGMyPedyKm3ReJuuWDFmnYoBGe7KeYbZP1ECYXfh5WnWBNT24l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/139132715_853010218832110_867348476190138051_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=yvPIPM2tcngQ7kNvwHeKoTl&amp;_nc_oc=AdnN0xr-yrmwZy1xnWKwQlTTyO9Sebr409rtLogpohiIr3AP-2qL2POlVhWsXqgadGQ&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=EnKPqz1-3hgjt48jn_NiTA&amp;oh=00_AfW2ddnwz5bU9GeAOa2NIjAPVJQcUpn1Evcuyfib1WT9Pw&amp;oe=68CB3B57" alt="No photo description available."/><img width="1848" height="1224" alt="image" src="https://github.com/user-attachments/assets/d869c1d7-cf04-4e8c-8ec1-3a1bcf80d43f" />
+
+
+![131908062_1816149488546700_4732829352018775708_n](https://github.com/user-attachments/assets/1bf6433e-c7da-4cdc-8080-532d49ce2fac)
+
+![122382703_1759953340832982_349434514516290585_n](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
+
+[ECOSTRESS @nasa-jpl Resource `&` Def page](https://thakarashard.github.io/rashardmro/2025/08/16/ECOSTRESSMonitoringplantsfromspace.html)
+<img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />
+[alt="image Jupiter Notebook Exercise" https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb](https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb)
+<img   alt="image ECOSTRESS @nasa-jpl Resource `&` Def page @nasa @whitehouse @blackgirlscode @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b26e92ca-c30d-4280-9a1d-71798b930bbb" />
+
+
+
+
+catagory post loop - by [Rashard Kelly](https://kellyrashardiman.github.io/) [NASA/JPL](https://rashardgds.github.io/)
+{% raw %}
+
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'coral'" %}
+{% for post in posts %}
+  <li>{{ post.title }}</li>
+{% endfor %}
+
+{% endraw %}
+
+[Looping Over Jekyll Collections](https://talk.jekyllrb.com/t/looping-over-jekyll-collections/1842)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/07a3629b-f57f-42b9-8df8-9ba76b1f4423" />
+
+<script src="https://gist.github.com/aamnah/dceb067c8bf79d017f1a16523b2c3a75.js"></script>
+
+[Nintendo Power 1988 - 2004](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20001%20%28July-August%201988%29/page/n1/mode/2up)
+[BinderHub](https://binderhub.readthedocs.io/en/latest/) BinderHub is a kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. It is the primary technology behind [https://mybinder.org/](https://mybinder.org/) [How-to Guides](https://repo2docker.readthedocs.io/en/latest/howto/index.html) [x11docker/gnome](https://hub.docker.com/r/x11docker/gnome)
+[You’ve discovered the about page of Michael Rose.](https://mademistakes.com/about/) + [MASTERinG_JEKYLL](https://mademistakes.com/mastering-jekyll/)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0o3cVJ7aWyGtXM35RvLcojbcgAGWzebhFjZb4SsYg2cPwW4SNNdPC8m4y9gLxd16l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02oLQCy2seUB1PuT89KmCxUJuM4UnofkMXUkmEtSBEmf94ArSekuoeRmzKDgVDSUVjl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Eu9WmsovNrcBkG7MwNe7Z8u69nLBT35dFPAVDj8y4DDMbY4Zv7WfAmMokCQ8t72kl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/89c4cb40-5b63-40bc-83cb-e21ad7a325ee" />
 
