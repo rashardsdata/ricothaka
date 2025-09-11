@@ -22,14 +22,36 @@ title: Current
 # California_Linux: The Gay Mans MessVID 20250910 135146
 <iframe src="https://archive.org/embed/vid-20250910-135146" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/details/vid-20250909-095302) for [Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/]() @nytimes 
+earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/details/vid-20250909-095302) for [Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/](https://nypost.com/2025/09/10/science/rover-finds-most-compelling-yet-in-search-for-life-on-mars/) @nytimes  [Rock found on Mars could be evidence of ancient life, NASA says](https://youtu.be/sIUqvXSSAxw) @newshour @foxbroadcasting there is something wrong with you guys view of us and astronomy, its a lingusitics barrier thats making these articles sound unpleasant and lame to an admin at the facility @nasa-jpl imma keep studying, bc i know i can heal the language issue, something missing, it could be an old mission no one is educated on like [ranger9 @nasa-jpl](https://www.jpl.nasa.gov/videos/ranger-9-impacts-moon/)  
+
+
+| [Ranger IX Television Pictures of the Moon (1965)](https://youtu.be/DldAxXDVS6g) & [Ranger 9 Impacts Moon](https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.m4v)
+
+[The Chemical Brothers Live In The Desert 2023](https://soundcloud.com/alan_w1989-1/the-chemical-brothers-live-in-the-desert-2023?si=ebefb34ee9b04c0e93a2855933c9bc85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=14%3A50) - OP = [alan_w1989 ](https://soundcloud.com/alan_w1989-1)
+
+<video controls width="450">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/webm" />
+
+
+
+  Download the
+
+  <a src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm">webM</a>
+  video.
+</video>
 
 other
 [GIRLS GANGSTERS ON A 90S TALK SHOW PART 1 OF 3](https://youtu.be/O7tCiualivQ) : [Diane Sawyer ABC News Report on Girls Gangs from ~1990](https://www.youtube.com/watch?v=hLWEwoncDzU) @nasa @nasa-jpl @blackgirlscode @cityoflosangeles [Gangsta Girls 1999 East LA, Crazy and Shy Girl are sisters..](https://youtu.be/F8fnDnG5Yh0) source [VickysTownChronicles 
-  @VickysTownChronicle on @youtube](https://www.youtube.com/@VickysTownChronicle)
+  @VickysTownChronicle on @youtube](https://www.youtube.com/@VickysTownChronicle) : [2.8M Social Security recipients impacted by reductions @cbs-news-data](https://cbs-news-data.github.io/wep-gpo_ai2html/) [cinema : CoLORS feat lapd](https://youtu.be/NzVfAj4bV40) [2PAC_MOViE:GANGRELATED](https://youtu.be/x_8uVnSGsAg?si=ktMSbJBn7mOiEBlD) [Nas: Time is Illmatic - ilmatic Documentary](https://youtu.be/iiELmkrn7pc) [SPiKELEE:DOTHERiGHTTHiNg](https://youtu.be/KVQHkq3Tk7E?si=VgrDemV1ZeQGAV5N) [STYLEWARS](https://youtu.be/CO9YgJXzRmk?t=11) : [Nightclubbing: The Birth Of Punk Rock In NYC](https://youtu.be/ksq9Vay02RU) :|:  [White Men Can't Jump free with ads according to @youtube](https://youtu.be/6n65mJ77mG8?t=30)
 
+more
+[Beats, Rhymes & Life: The Travels Of A Tribe Called Quest](https://www.youtube.com/watch?v=LqeisPcyN_8)
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+![NBC NEWS @nasa @blackgirlscode](https://d2pn8kiwq2w21t.cloudfront.net/images/P-4446A.width-1280.jpg)
+
+
 [LAADS_DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/imageViewer/42/VJ202DNB--5201,VNP01--5000,VNP02DNB--5200,VNP02IMG--5200,VNP02MOD--5200,VNP03DNB--5200/2025-08-19..2025-09-02/DB/-118.5,34.2,-117.8,33.6) VJ202DNB - VIIRS/JPSS2 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m [LinK](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ202DNB/) [Fungi as bioweapons](https://pubmed.ncbi.nlm.nih.gov/16815458/) [Risk assessment of fungal materials](https://pubmed.ncbi.nlm.nih.gov/35209958/) [SantaMonica?](https://www.first-nature.com/fungi/heterobasidion-annosum.php)
 
 @blackgirlscode @nasa @dhs-gov @nasa-jpl @nasa-pds @cityoflosangeles @stateofcalifornia @podaac
