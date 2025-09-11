@@ -37,6 +37,40 @@ NASA will host a media teleconference at 11 a.m. EDT Wednesday, Sept. 10, to dis
 
 [Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/](https://nypost.com/2025/09/10/science/rover-finds-most-compelling-yet-in-search-for-life-on-mars/) @nytimes  [Rock found on Mars could be evidence of ancient life, NASA says](https://youtu.be/sIUqvXSSAxw) @newshour @foxbroadcasting there is something wrong with you guys view of us and astronomy, its a lingusitics barrier thats making these articles sound unpleasant and lame to an admin at the facility @nasa-jpl imma keep studying, bc i know i can heal the language issue, something missing, it could be an old mission no one is educated on like [ranger9 @nasa-jpl](https://www.jpl.nasa.gov/videos/ranger-9-impacts-moon/)  
 
+
+[MARS2020 on HORiZONZ](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-168%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+
+`https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-168%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27`
+
+```shell
+Page up
+ 
+JPL Horizons, version 4.98d 
+Type '?' for brief help, '?!' for details, 
+'-' for previous prompt, 'x' to exit 
+System news updated August 7, 2025
+ 
+Horizons> mars2020
+*******************************************************************************
+ Revised: Feb 18, 2021      Mars 2020 (Perseverance & Ingenuity)           -168
+              https://mars.nasa.gov/files/mars2020/Mars2020_Fact_Sheet.pdf
+     https://mars.nasa.gov/files/mars2020/MarsHelicopterIngenuity_FactSheet.pdf 
+ MISSION LAUNCH DATE:                                           MARS LANDING:
+  Jul 30, 2020 11:50 UTC (in flight)                            Feb 18, 2021
+ LAUNCH VEHICLE:
+  Atlas V-541 from Cape Canaveral Air Force Station, Florida, USA
+ BACKGROUND:
+  This mission carries the Perseverance rover and Ingenuity Mars Helicopter
+  Landing site is an ancient river delta for a lake that once filled Jezero 
+  Crater (but is now dry).
+  Sky-crane descent system.
+ 
+ PERSEVERANCE ROVER
+  Dimensions:  3 m long, 2.7 m wide, 2.2 m tall (similar to Curiosity)
+  Mass      : 2015 kg (126 kg heavier than Curiosity)
+  Power     : MMRTG (thermoelectic generator)
+
+```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0Phg8JmOSp4wFDPN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img alt="image" src="https://github.com/user-attachments/assets/190dafc7-71cc-4f4a-ac91-27f8f1f85c6f" />
