@@ -19,8 +19,14 @@ title: Current
 {{ site.baseurl }}
 
 
+# California_Linux: The Gay Mans MessVID 20250910 135146
+<iframe src="https://archive.org/embed/vid-20250910-135146" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/details/vid-20250909-095302) for [Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/]() @nytimes 
 
+other
+[GIRLS GANGSTERS ON A 90S TALK SHOW PART 1 OF 3](https://youtu.be/O7tCiualivQ) : [Diane Sawyer ABC News Report on Girls Gangs from ~1990](https://www.youtube.com/watch?v=hLWEwoncDzU) @nasa @nasa-jpl @blackgirlscode @cityoflosangeles [Gangsta Girls 1999 East LA, Crazy and Shy Girl are sisters..](https://youtu.be/F8fnDnG5Yh0) source [VickysTownChronicles 
+  @VickysTownChronicle on @youtube](https://www.youtube.com/@VickysTownChronicle)
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
