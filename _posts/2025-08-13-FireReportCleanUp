@@ -3,18 +3,67 @@ layout: post
 mermaid: true
 published: true
 title: FireDataCleanup
-image: KL_Sun_UltraSparc.jpg
+image: Overview_HD.png
 ---
+
 ### hotlinks
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
-[NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/)
+[NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
+
+
+---
+
+# What's in the Soil? [WATCHNOW](https://www.youtube.com/watch?v=RJ8I2P_Nrxw)
+@datadesk we do a lot of environmental scanning, but we running from poachers man! help us out @FEMA latimes said you are not testing, but i dont think they doing nothing but being hustled... 
+@podaac @nasa-jpl @abc7 @cbsnews @datadesk @washingtonpost 
+
+ Guests: 
+[Tony Briscoe](mailto:tony.briscoe@latimes.com), [LA Times Environment Reporter](https://www.latimes.com/people/tony-briscoe)
+[Noah Haggerty](mailto:noah.haggerty@latimes.com), LA [Times Science and Environment Reporter](https://www.latimes.com/people/noah-haggerty) 
+Megan Lorick, [Malibu R](https://en.wikipedia.org/wiki/Talk:Malibu,_California)esident 
+[Malibu residents demand city leadership for rebuilding after devastating fires](https://www.citizenportal.ai/articles/2802815/Malibu-City/Los-Angeles-County/California/Malibu-residents-demand-city-leadership-for-rebuilding-after-devastating-fires)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJ8I2P_Nrxw?si=LhKJ6eNyz_b5L2hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/46046d49-476d-497b-ae39-3923495ddbb8" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0N8xAJvGecruXKARbk9XMTWHi5MiEY1ebYTZ7uTpL7CneemwCfeALH6HB93DmUqfbl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> @cbs-news-data @nasa-jpl @blackgirlscode @whitehouse
+
+## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+
+<picture itemprop="event" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/f3d59612-1486-433a-b178-c3e0814f05fd"  />
+</picture>
+ 
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b5fa1b9-1e5d-4eb1-bfad-4c31bf2a8968" />
+
+[@stateofcalifornia Did Lack of Cityhood hurt Altadena ? @latimes @datadesk @whitehouse](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/21ALTADENA_EATON_FiRE_2feb686a-eb67-43fe-a787-b0ea4bc6e29e.pdf)
 
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[@datadesk related firedata @nasa-jpl @nasa-pds @nasa .pdf](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/0iceraidupdateSimpleScanStation20250813171923.pdf)
+[summerofresistance @cityoflosangeles](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/1_6_20summerofresistanceSimpleScanStation20250620100012.pdf)
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-firedatacleanup' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 
 <img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
@@ -100,6 +149,10 @@ NASA / JPL
 ###
 [Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
 [ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
+
+Current Emergency Incidents
+Ongoing emergency responses in California, including all 10+ acre wildfires.[LiNK](https://www.fire.ca.gov/incidents) @stateofcalifornia 
+<img  alt="image" src="https://github.com/user-attachments/assets/57c82f91-0335-4aa1-86c9-c71717008140" />
 
 ![palisadesfire_msi_20250107.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
 
