@@ -30,12 +30,16 @@ title: Current
 
 
 Earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/details/vid-20250909-095302) for
-### Sept. 10 media teleconference
+### Sept. 10 media teleconference 
+@nasa-jpl please share with Dr Fox [Rashard`[M_R_O/JPL/@NASA]`CHECKiN](https://archive.org/download/vid-20250910-135146/VID_mars_recon_checking_MARS202020250910_135146.mp4) + [.md File: @nasa-jpl @eas HR_CHECKiN](https://archive.org/download/vid-20250910-135146/2025-09-07-HR_NASAJPL.md) @stateofcalifornia plz share with newsom camp [ViDeO:A gay mans mess](https://archive.org/download/vid-20250910-135146/agaymansmess_gavinJenNewsomVID_20250911_065449.mp4) @blackgirlscode plz share with my normani [A_and_R checkin](https://archive.org/download/vid-20250910-135146/VID_20250911_090821_normani_workreport_rashard_nasa.mp4)
+
 NASA will host a media teleconference at 11 a.m. EDT Wednesday, Sept. 10, to discuss the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper. [READ](https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) + [News @nasa-jpl @blackgirlscode](https://www.jpl.nasa.gov/news/) [@cityoflosangeles nasa.gov/live](https://www.nasa.gov/live/) [NextDayNews](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/)
 
 [Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/](https://nypost.com/2025/09/10/science/rover-finds-most-compelling-yet-in-search-for-life-on-mars/) @nytimes  [Rock found on Mars could be evidence of ancient life, NASA says](https://youtu.be/sIUqvXSSAxw) @newshour @foxbroadcasting there is something wrong with you guys view of us and astronomy, its a lingusitics barrier thats making these articles sound unpleasant and lame to an admin at the facility @nasa-jpl imma keep studying, bc i know i can heal the language issue, something missing, it could be an old mission no one is educated on like [ranger9 @nasa-jpl](https://www.jpl.nasa.gov/videos/ranger-9-impacts-moon/)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0Phg8JmOSp4wFDPN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/190dafc7-71cc-4f4a-ac91-27f8f1f85c6f" />
 
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/794336911814770688" data-did="3ee56f460ecc1b911a0cb9f39d069ca465562fdc"><a href="https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial">https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
