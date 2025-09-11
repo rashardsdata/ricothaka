@@ -20,10 +20,24 @@ title: Current
 
 
 # California_Linux: The Gay Mans MessVID 20250910 135146
+[elnino @podaac @newshour](https://archive.org/download/vid-20250910-135146/2025-09-11-ELNiNo.mp4)
 <iframe src="https://archive.org/embed/vid-20250910-135146" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/details/vid-20250909-095302) for [Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/](https://nypost.com/2025/09/10/science/rover-finds-most-compelling-yet-in-search-for-life-on-mars/) @nytimes  [Rock found on Mars could be evidence of ancient life, NASA says](https://youtu.be/sIUqvXSSAxw) @newshour @foxbroadcasting there is something wrong with you guys view of us and astronomy, its a lingusitics barrier thats making these articles sound unpleasant and lame to an admin at the facility @nasa-jpl imma keep studying, bc i know i can heal the language issue, something missing, it could be an old mission no one is educated on like [ranger9 @nasa-jpl](https://www.jpl.nasa.gov/videos/ranger-9-impacts-moon/)  
+[WildFires101 : EARTH](https://youtu.be/GznuyCpR0LQ) [LRO](https://youtu.be/kj4rRZeygNY?si=_RlN3hsiKpkzg0UQ)
+[We Are SCaN](https://youtu.be/IlJ1Xq6koA0)
 
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
+Earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/details/vid-20250909-095302) for
+### Sept. 10 media teleconference
+NASA will host a media teleconference at 11 a.m. EDT Wednesday, Sept. 10, to discuss the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper. [READ](https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) + [News @nasa-jpl @blackgirlscode](https://www.jpl.nasa.gov/news/) [@cityoflosangeles nasa.gov/live](https://www.nasa.gov/live/) [NextDayNews](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/)
+
+[Mars discovery reveals stunning new clues about ancient life on Red Planet: NASA https://nypost.com/](https://nypost.com/2025/09/10/science/rover-finds-most-compelling-yet-in-search-for-life-on-mars/) @nytimes  [Rock found on Mars could be evidence of ancient life, NASA says](https://youtu.be/sIUqvXSSAxw) @newshour @foxbroadcasting there is something wrong with you guys view of us and astronomy, its a lingusitics barrier thats making these articles sound unpleasant and lame to an admin at the facility @nasa-jpl imma keep studying, bc i know i can heal the language issue, something missing, it could be an old mission no one is educated on like [ranger9 @nasa-jpl](https://www.jpl.nasa.gov/videos/ranger-9-impacts-moon/)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0Phg8JmOSp4wFDPN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/794336911814770688" data-did="3ee56f460ecc1b911a0cb9f39d069ca465562fdc"><a href="https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial">https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 | [Ranger IX Television Pictures of the Moon (1965)](https://youtu.be/DldAxXDVS6g) & [Ranger 9 Impacts Moon](https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.m4v)
 
@@ -31,21 +45,23 @@ earlier this week [MarsMeeting Cram VID 20250909 095302](https://archive.org/det
 
 <video controls width="450">
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/webm" />
-
-
+    <source src="https://archive.org/download/vid-20250910-135146/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/webm" />
 
   Download the
 
-  <a src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm">webM</a>
+<a src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm">webM</a>
   video.
 </video>
 
 other
-[GIRLS GANGSTERS ON A 90S TALK SHOW PART 1 OF 3](https://youtu.be/O7tCiualivQ) : [Diane Sawyer ABC News Report on Girls Gangs from ~1990](https://www.youtube.com/watch?v=hLWEwoncDzU) @nasa @nasa-jpl @blackgirlscode @cityoflosangeles [Gangsta Girls 1999 East LA, Crazy and Shy Girl are sisters..](https://youtu.be/F8fnDnG5Yh0) source [VickysTownChronicles 
-  @VickysTownChronicle on @youtube](https://www.youtube.com/@VickysTownChronicle) : [2.8M Social Security recipients impacted by reductions @cbs-news-data](https://cbs-news-data.github.io/wep-gpo_ai2html/) [cinema : CoLORS feat lapd](https://youtu.be/NzVfAj4bV40) [2PAC_MOViE:GANGRELATED](https://youtu.be/x_8uVnSGsAg?si=ktMSbJBn7mOiEBlD) [Nas: Time is Illmatic - ilmatic Documentary](https://youtu.be/iiELmkrn7pc) [SPiKELEE:DOTHERiGHTTHiNg](https://youtu.be/KVQHkq3Tk7E?si=VgrDemV1ZeQGAV5N) [STYLEWARS](https://youtu.be/CO9YgJXzRmk?t=11) : [Nightclubbing: The Birth Of Punk Rock In NYC](https://youtu.be/ksq9Vay02RU) :|:  [White Men Can't Jump free with ads according to @youtube](https://youtu.be/6n65mJ77mG8?t=30)
 
+[GIRLS GANGSTERS ON A 90S TALK SHOW PART 1 OF 3](https://youtu.be/O7tCiualivQ) : [Diane Sawyer ABC News Report on Girls Gangs from ~1990](https://www.youtube.com/watch?v=hLWEwoncDzU) @nasa @nasa-jpl @blackgirlscode @cityoflosangeles [Gangsta Girls 1999 East LA, Crazy and Shy Girl are sisters..](https://youtu.be/F8fnDnG5Yh0) source [VickysTownChronicles 
+  @VickysTownChronicle on @youtube](https://www.youtube.com/@VickysTownChronicle) : [2.8M Social Security recipients impacted by reductions @cbs-news-data](https://cbs-news-data.github.io/wep-gpo_ai2html/) 
+  
 more
-[Beats, Rhymes & Life: The Travels Of A Tribe Called Quest](https://www.youtube.com/watch?v=LqeisPcyN_8)
+
+[Beats, Rhymes & Life: The Travels Of A Tribe Called Quest](https://www.youtube.com/watch?v=LqeisPcyN_8) [cinema : CoLORS feat lapd](https://youtu.be/NzVfAj4bV40) [2PAC_MOViE:GANGRELATED](https://youtu.be/x_8uVnSGsAg?si=ktMSbJBn7mOiEBlD) [Nas: Time is Illmatic - ilmatic Documentary](https://youtu.be/iiELmkrn7pc) [SPiKELEE:DOTHERiGHTTHiNg](https://youtu.be/KVQHkq3Tk7E?si=VgrDemV1ZeQGAV5N) [STYLEWARS](https://youtu.be/CO9YgJXzRmk?t=11) : [Nightclubbing: The Birth Of Punk Rock In NYC](https://youtu.be/ksq9Vay02RU) :|:  [White Men Can't Jump free with ads according to @youtube](https://youtu.be/6n65mJ77mG8?t=30)
+
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
