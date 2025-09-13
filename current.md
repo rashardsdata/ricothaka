@@ -19,6 +19,13 @@ title: Current
 {{ site.baseurl }}
 
 
+
+[Madden3d0](https://youtu.be/yJvyQzDChRM)
+[abandonware - romsfun.com/roms/3do/john-madden-football](https://romsfun.com/roms/3do/john-madden-football.html)
+
+<img alt="John Madden and the NFL team up to create a new version of John Madden Football, designed specifically for the 3DO Interactive Multiplayer. You get the proven gameplay of the best selling 16-bit football game of all time, all new digitized graphics, CD quality sound and over 100 authentic video highlights from NFL Films. So, suit up and experience the only game that delivers real NFL action!" src="https://github.com/user-attachments/assets/d90e038e-4523-4638-8e71-1ffb72652a0f" />
+
+
 # California_Linux: The Gay Mans MessVID 20250910 135146
 [elnino @podaac @newshour](https://archive.org/download/vid-20250910-135146/2025-09-11-ELNiNo.mp4)
 <iframe src="https://archive.org/embed/vid-20250910-135146" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
