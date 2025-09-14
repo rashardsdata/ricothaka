@@ -59,10 +59,19 @@ Most images acquired by MAHLI in daylight use the sun as an illumination source.
 
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg)
 
+
 <img width="870" height="805" alt="@blackgirlscode @normani https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg @nasa-jpl @whitehouse @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/0118261a-228c-41cd-9cac-5aba0d012d94" />
 
   
 <img  alt="image mars polar ice cap photographed by MAriner 9" src="https://github.com/user-attachments/assets/e9f2390f-c455-48ee-b5db-88b7d85ff2fe" />
+
+<img alt="image mars polar ice cap photographed by MAriner 9" src="https://github.com/user-attachments/assets/746cead5-2300-469a-8902-dd86b25e02a7" />
+
+[NASA Technical Reports Server (NTRS) 19900004096: The Voyager Neptune travel guide @nasa-jpl @blackgirlscode](https://ia801007.us.archive.org/22/items/CAssiniDatastoredownload_6308_175/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf)
+
+<iframe src="https://archive.org/embed/NASA_NTRS_Archive_19900004096" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 
 
 ## Library Suppression in Hollywood 
