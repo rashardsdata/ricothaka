@@ -18,8 +18,19 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 
+# What was Mariner 9?
+### INSTRUMENTS
 
+Imaging system
+Infrared radiometer
+Ultraviolet spectrometer
+Infrared interferometer spectrometer
+NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos. [READMORE @nasa-jpl](https://www.jpl.nasa.gov/missions/mariner-9-mariner-i/)
+## Clouds Areound Martian Volcanos
+<img  alt="image" src="https://github.com/user-attachments/assets/d1604525-5eba-4b0f-aa3a-36214a2e7604" />
+<img   alt="image" src="https://github.com/user-attachments/assets/9c01c56d-64e4-4e81-92bf-dda434556d4f" />
 
+![mariner 9 @nasa-jpl @blackgirlscode @northropgrumman](https://science.nasa.gov/wp-content/uploads/2017/12/mariner-1971.jpg)
 
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
