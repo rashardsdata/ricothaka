@@ -18,6 +18,10 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 
+
+
+<img  alt="NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos." src="https://github.com/user-attachments/assets/bfc51582-dc38-4eba-910c-053d7a2b331e" />
+
 # What was Mariner 9?
 ### INSTRUMENTS
 
