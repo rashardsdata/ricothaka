@@ -20,6 +20,73 @@ title: Current
 
 
 
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+# Data
+[MArs Moons](https://science.nasa.gov/mars/moons/)
+
+
+
+# Viking Project
+![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
+### OCCURRED 47 YEARS AGO
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+### PIA02985: Dust storm in the Thaumasia region of Mars
+#### Original Caption Released with Image:
+This Viking Orbiter 2 image shows a large dust storm over the Thaumasia region on Mars. This large disturbance soon grew into the first global dust storm observed by the Viking Orbiters. This image was taken at 9:00 local time near perihelion when heating of Mars is at a maximum. The image is at 1400 km across and north is at 1:00. (Viking Orbiter 176B02).
+
+Image Credit:
+[NASA/JPL](https://github.com/customer-stories/jpl)
+![p](https://photojournal.jpl.nasa.gov/jpeg/PIA02985.jpg)
+
+## Sol 4461: Mars Hand Lens Imager (MAHLI)
+Most images acquired by MAHLI in daylight use the sun as an illumination source. However, in some cases, MAHLI's two groups of white light LEDs and one group of longwave ultraviolet (UV) LEDs might be used to illuminate targets [READMORE](https://mars.nasa.gov/raw_images/1436574/?site=msl) `Credits: NASA/JPL-Caltech/MSSS`
+![PENNY_ON_MARS](https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg)
+
+
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg)
+
+  
+
+
+## Library Suppression in Hollywood 
+[.mp4 @cityoflosangeles @stateofcalifornia @nasa @whitehouse @nasa-pds @nasa--jpl](https://archive.org/download/vid-20250225-101844/VID_20250225_101844.mp4)
+<iframe src="https://archive.org/embed/vid-20250225-101844" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+i got better with the cart, my wife is sold for sex in that area and i had recently been robbed and trying to organize my research
+<iframe src="https://archive.org/embed/vid-20250909-095302" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+ [Mars Relay Network](https://eyes.nasa.gov/apps/mrn/#/mars) i have not looked at i got swamped learning [FirMS](https://www.youtube.com/watch?v=xfSlkvQb7To) i found a @twitter account for a Mars Relay Network feed but it said its dead from APi Changes... if im not online, can someone let me in since its Veterans day? [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss) [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss)
+
+```
+Mars Relay Network
+@mrn_status
+Automated by @russss
+Killed by Twitter's API changes.
+```
+
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+[Practical Mobile Forensics (2014).pdf](https://github.com/ricoThaka/crate/blob/master/Practical%20Mobile%20Forensics%20(2014).pdf) [ Project MK-ULTRA cia-readingroom](https://www.cia.gov/readingroom/docs/project%20mk-ultra%5B15545700%5D.pdf)
+# Sol 4359: Mars Hand Lens Imager [MAHLI](https://www.msss.com/science-images/mahli-acquires-test-image-en-route-to-mars.php)
+
+
 [Madden3d0](https://youtu.be/yJvyQzDChRM)
 [abandonware - romsfun.com/roms/3do/john-madden-football @nasa @whitehouse](https://romsfun.com/roms/3do/john-madden-football.html)
 
