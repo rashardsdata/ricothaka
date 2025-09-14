@@ -343,6 +343,205 @@ end
 <dd>Green</dd>
 </dl>
 
+
+
+Donate:     https://termux.dev/donate
+Community:  https://termux.dev/community
+
+Working with packages:
+
+ - Search:  pkg search <query>
+ - Install: pkg install <package>
+ - Upgrade: pkg upgrade
+
+Subscribing to additional repositories:
+
+ - Root:    pkg install root-repo
+ - X11:     pkg install x11-repo
+
+For fixing any repository issues,
+try 'termux-change-repo' command.
+
+Report issues at https://termux.dev/issues
+hello
+~ $ nc -t horizons.jpl.nasa.gov 6775
+��������!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ Unable to negotiate connection within 2 seconds. Defaults:
+
+
+
+ TERM= vt102, ROWS= 9999, COLUMNS= 9999, ECHO on, FULL-DUPLEX
+
+
+
+ Your terminal, command-line, telnet, or connection program
+ may not be compliant with RFC 854 and RFC 1073 standards:
+
+
+
+           http://tools.ietf.org/rfc/rfc854.txt
+           http://tools.ietf.org/rfc/rfc1073.txt
+
+
+
+ Using a different program to connect may solve the problem.
+
+-OR -
+ The network may be slow and need > 2 seconds (try again).
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  ======================================================================
+  |                     Jet Propulsion Laboratory                      |
+  |
+                   |
+  |                  * * *    W A R N I N G   * * *                    |
+  |
+                   |
+  |                          Property of the                           |
+  |                      UNITED STATES GOVERNMENT                      |
+  |
+                   |
+  |    This computer is funded by the United States Government and     |
+  | operated by the California Institute of Technology in support of   |
+  | ongoing U.S. Government programs and activities.  If you are not   |
+  | authorized to access this system, disconnect now
+
+
+
+     ___    _____     ___
+
+
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
+    | | | |  __ \ /| | | |       Solar System Dynamics Group
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory
+
+JPL Horizons, version 4.98d                         Type '?' for brief help, '?!' for details,          '-' for previous prompt, 'x' to exit                System news updated August 7, 2025
+
+Horizons> 'im at central, gonna weather plot for northrop's launch @karenbass #mer'
+'im at central, gonna weather plot for northrop's launch @karenbass #mer'
+Missing operator in "'IM AT CENTRAL".
+Horizons>
+
+Horizons>
+Inactive connection ... terminating Horizons!
+~ $ nc -t horizons.jpl.nasa.gov 6775
+��������!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ Unable to negotiate connection within 2 seconds. Defaults:
+
+
+
+ TERM= vt102, ROWS= 9999, COLUMNS= 9999, ECHO on, FULL-DUPLEX
+
+
+
+ Your terminal, command-line, telnet, or connection program
+ may not be compliant with RFC 854 and RFC 1073 standards:
+
+
+
+           http://tools.ietf.org/rfc/rfc854.txt
+           http://tools.ietf.org/rfc/rfc1073.txt
+
+
+
+ Using a different program to connect may solve the problem.
+
+-OR -
+ The network may be slow and need > 2 seconds (try again).
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  ======================================================================
+  |                     Jet Propulsion Laboratory                      |
+  |
+                   |
+  |                  * * *    W A R N I N G   * * *                    |
+  |
+                   |
+  |                          Property of the                           |
+  |                      UNITED STATES GOVERNMENT                      |
+  |
+                   |
+  |    This computer is funded by the United States Government and     |
+  | operated by the California Institute of Technology in support of   |
+  | ongoing U.S. Government programs and activities.  If you are not   |
+  | authorized to access this system, disconnect now
+
+
+
+     ___    _____     ___
+
+
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
+    | | | |  __ \ /| | | |       Solar System Dynamics Group
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory
+
+JPL Horizons, version 4.98d                         Type '?' for brief help, '?!' for details,          '-' for previous prompt, 'x' to exit                System news updated August 7, 2025
+
+Horizons> saturn
+saturn
+*******************************************************************************
+ Multiple major-bodies match string "SATURN*"
+
+  ID#      Name                               Designation  IAU/aliases/other
+  -------  ---------------------------------- -----------  -------------------
+        6  Saturn Barycenter
+
+      699  Saturn
+
+
+
+   Number of matches =  2. Use ID# to make unique selection.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: 699
+699
+*******************************************************************************
+ Revised: January 26, 2022             Saturn                               699
+
+ PHYSICAL DATA:
+  Mass x10^26 (kg)      = 5.6834          Density (g/cm^3)       =  0.687+-.001
+  Equat. radius (1 bar) = 60268+-4 km     Polar radius (km)      = 54364+-10
+  Vol. Mean Radius (km) = 58232+-6        Flattening             =  0.09796
+  Geometric Albedo      = 0.47            Rocky core mass (Mc/M) =  0.1027
+  Sid. rot. period (III)= 10h 39m 22.4s   Sid. rot. rate (rad/s) =  0.000163785
+  Mean solar day, hrs   =~10.656
+  GM (km^3/s^2)         = 37931206.234    GM 1-sigma (km^3/s^2)  = +- 98
+  Equ. grav, ge (m/s^2) = 10.44           Pol. grav, gp (m/s^2)  = 12.14+-0.01
+  Vis. magnitude V(1,0) = -8.88
+  Vis. mag. (opposition)= +0.67           Obliquity to orbit     = 26.73 deg
+  Sidereal orbit period = 29.447498 yr    Sidereal orbit period  = 10755.698 d
+  Mean daily motion     = 0.0334979 deg/d Mean orbit velocity    =  9.68 km/s
+  Atmos. temp. (1 bar)  = 134+-4 K        Escape speed, km/s    =  35.5
+  Aroche(ice)/Rp        =  2.71           Hill's sphere rad. Rp  = 1100
+
+       Perihelion  Aphelion    Mean
+  Solar Constant (W/m^2)         16.8        13.6        15.1
+  Maximum Planetary IR (W/m^2)    4.7         4.5         4.6
+  Minimum Planetary IR (W/m^2)    4.7         4.5         4.6
+*******************************************************************************
+ Select ... [E]phemeris, [F]tp, [M]ail, [R]edisplay, ?, <cr>: Ncat: Software caused connection abort.
+~ $
+******************************************************************************
+
+                         U.S. GOVERNMENT COMPUTER
+
+This US Government computer is for authorized users only.  By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+Attention user: You are downloading data from NASA's Land Processes Distributed
+Active Archive Center (LP DAAC) located at the USGS Earth Resources Observation and
+Science (EROS) Center.
+
+This data is open to the public and browse images are freely available without
+restriction.  Satellite data products may require a NASA Earthdata Login username
+and password.  To obtain a NASA Earthdata Login account, please visit
+https://urs.earthdata.nasa.gov/users/new/.
+
+For more information about the data you are downloading, including documentation
+and how to properly cite the data, please visit https://lpdaac.usgs.gov/.
+
+**************************************
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
