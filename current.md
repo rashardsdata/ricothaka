@@ -18,6 +18,19 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 
+[Gunsmith Cats Episode 1 1080p Subbed](https://youtu.be/rELcbhPheRM?si=mZ4NL3hLQiIRrSdL)
+By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenichi Sonoda</a> - <a rel="nofollow" class="external free" href="https://www.amazon.co.jp/dp/B00A2MCLJY">https://www.amazon.co.jp/dp/B00A2MCLJY</a>, <a href="//en.wikipedia.org/wiki/File:Gunsmith_Cats_volume_1_cover.jpg" title="Fair use of copyrighted material in the context of Gunsmith Cats">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=69585498">Link</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png"><img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png" style="width:180px;height:252px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> 
+
+[Fire and Ice (1983 film)](https://youtu.be/iqGl01na3a4?si=PYxA8SzkXaMKxhJc)
+[imdb](https://www.imdb.com/title/tt0085542/)
+
+[Red Earth / War-Zard (Euro 961121)](https://www.retrogames.cc/arcade-games/red-earth-war-zard-euro-961121.html)
+Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a fantasy-themed 2D fighting game released by Capcom as an arcade game in 1996. It was the first game for Capcom's CP System III hardware,[2] the same hardware which Street Fighter III and its derivatives ran on.[3] After not being released on a home platform for 26 years, it was announced on February 20, 2022 that Red Earth would receive its first port as a part of the Capcom Fighting Collection on June 24, 2022 for PlayStation 4, Xbox One, Nintendo Switch, and PC.[4] 
+
+<a href="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg" style="width:180px;height:252px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> 
+
 
 
 <img  alt="NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos." src="https://github.com/user-attachments/assets/bfc51582-dc38-4eba-910c-053d7a2b331e" />
