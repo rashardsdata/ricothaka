@@ -18,6 +18,9 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 
+### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 [W00006765](https://solarsystem.nasa.gov/raw_images/69301/?layout=hds)
 <div class="tupperware">
