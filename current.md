@@ -3,18 +3,14 @@ layout: default
 title: Current
 ---
 
-<div class="box">
+# Compiling 
+Hello , I want you to know that im doxxed, so whatever format im coming throught to you on, i hope your blogs are ok. @nasa-jpl I have been doing more outdoor work because the library been struggling, Like [CLPS](https://www.youtube.com/watch?v=oRrr5ARF1po) The Cygnus XL Resupply was [blocked](https://archive.org/details/vid-20250914-182140) @blackgirlscode im stuck here till im dismissed
+# ወደ ሮሜ ሰዎች 13 
+1ነፍስ ሁሉ በበላይ ላሉት ባለ ሥልጣኖች ይገዛ። ከእግዚአብሔር ካልተገኘ በቀር ሥልጣን የለምና፤ ያሉትም ባለ ሥልጣኖች በእግዚአብሔር የተሾሙ ናቸው።
 
-  {% for post in site.posts %}
-     
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-  
-     
-  {% endfor %}
-   
- </div> 
+Im learning my support role with the EcoStress Tool on the Space Station
 
-
+[OST @blackgirlcode](https://youtu.be/stwV3Q2q2RY?si=zePxvjrhYMm6_DAH)
 {{ site.url }}
 {{ site.baseurl }}
 
@@ -34,6 +30,19 @@ title: Current
   <img src="https://solarsystem.nasa.gov/images/casJPGFullS30/W00028313.jpg" alt="N00083211.jpg was taken on 2007-05-14 11:03" />
 
 </div>
+
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
+
 
 #tesla Diner Revolt & Space Weather 
 [LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) [openscape](https://nasa-openscapes.github.io/)
