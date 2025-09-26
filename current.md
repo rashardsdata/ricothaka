@@ -8,7 +8,8 @@ Hello , I want you to know that im doxxed, so whatever format im coming throught
 # ወደ ሮሜ ሰዎች 13 
 1ነፍስ ሁሉ በበላይ ላሉት ባለ ሥልጣኖች ይገዛ። ከእግዚአብሔር ካልተገኘ በቀር ሥልጣን የለምና፤ ያሉትም ባለ ሥልጣኖች በእግዚአብሔር የተሾሙ ናቸው።
 
-Im learning my support role with the EcoStress Tool on the Space Station
+Im learning [my support role](https://krashardiman-ctrl.github.io/2025/09/23/ECOSTRESSMonitoringplantsfromspace.html) with the [EcoStress Tool](https://eyes.nasa.gov/apps/solar-system/#/sc_iss_ecostress) on the Space Station
+<img  alt="image @nasa-pds @emit-sds" src="https://github.com/user-attachments/assets/70171375-2562-4231-89e2-263944b75756" />
 
 [OST @blackgirlcode](https://youtu.be/stwV3Q2q2RY?si=zePxvjrhYMm6_DAH)
 {{ site.url }}
