@@ -4,6 +4,85 @@ title: Current
 ---
 
 # Compiling 
+
+
+
+
+### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
+
+<style>
+.whitebg {background-color:white;}
+</style>
+
+## Viewing Imaging Meta
+[ExifTool](https://exiftool.org/)
+
+<IMG class="whitebg" src="https://exiftool.org/ET-256.png" /> 
+
+[Termux Packages](https://packages-cf.termux.dev/apt/termux-main/?fbclid=IwZXh0bgNhZW0CMTEAAR4O8I7ACeRsUh8NVasN4pcL-3UGdbakLQT1OjbtT5_hVKVi9N_MbAT0Guu3Bw_aem_NRPBpFjy99OAnsr_Y3yPiQ) 
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+```shell
+
+~/.../Documents/scripts $ pkg install exiftool
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+Reading package lists... 100Reading package lists... Done
+Building dependency tree... Building dependency tree... Building dependency tree... Building dependency tree... Building dependency tree... Done
+Reading state information...Reading state information...Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  clang libcompiler-rt
+  libllvm lld llvm
+  ndk-sysroot
+Use 'apt autoremove' to remove them.
+The following additional packages will be installed:
+  libandroid-utimes perl
+The following NEW packages will be installed:
+  exiftool
+  libandroid-utimes perl
+0 upgraded, 3 newly installed, 0 to remove and 201 not upgraded.
+Need to get 3746 kB/18.5 MB of archives.
+After this operation, 89.7 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+Get:1 https://packages-cf.termux.dev/apt/termux-main stable/main aarch64 exiftool all 13.37 [3746 kB]
+Fetched 3746 kB in 1s (3795 kB/s)
+Selecting previously unselected package libandroid-utimes.
+(Reading database ... 28043 files and directories currently installed.)
+Preparing to unpack .../libandroid-utimes_0.4_aarch64.deb ...
+Unpacking libandroid-utimes (0.4) ...
+Selecting previously unselected package perl.
+Preparing to unpack .../perl_5.40.3_aarch64.deb ...
+Unpacking perl (5.40.3) ...
+Selecting previously unselected package exiftool.
+Preparing to unpack .../exiftool_13.37_all.deb ...
+Unpacking exiftool (13.37) ...
+Setting up libandroid-utimes (0.4) ...
+Setting up perl (5.40.3) ...
+Setting up exiftool (13.37) ...
+Processing triggers for mandoc (1.14.6-5) ...
+~/.../Documents/scripts $ man exiftool
+man: No entry for exiftool in the manual.
+~/.../Documents/scripts $ exiftool --version
+NAME
+    exiftool - Read and writ
+e meta information in files
+SYNOPSIS
+  Reading
+    exiftool [*OPTIONS*] [-*
+TAG*...] [--*TAG*...] *FILE*
+...
+  Writing
+    exiftool [*OPTIONS*] -*T
+--More--(0%) Normani #iloveyousomuch
+```
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Sx1S1d6hYguzZccgXAzFm6MnCMrAw5cbN8FcTASuV9yspSbhvH6FXwv8cucNU91Zl%26id%3D100084464911565&show_text=true&width=500" width="500" height="362" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 Hello , I want you to know that im doxxed, so whatever format im coming throught to you on, i hope your blogs are ok. @nasa-jpl I have been doing more outdoor work because the library been struggling, Like [CLPS](https://www.youtube.com/watch?v=oRrr5ARF1po) The Cygnus XL Resupply was [blocked](https://archive.org/details/vid-20250914-182140) @blackgirlscode im stuck here till im dismissed
 # ወደ ሮሜ ሰዎች 13 
 1ነፍስ ሁሉ በበላይ ላሉት ባለ ሥልጣኖች ይገዛ። ከእግዚአብሔር ካልተገኘ በቀር ሥልጣን የለምና፤ ያሉትም ባለ ሥልጣኖች በእግዚአብሔር የተሾሙ ናቸው።
@@ -15,8 +94,6 @@ Im learning [my support role](https://krashardiman-ctrl.github.io/2025/09/23/ECO
 {{ site.url }}
 {{ site.baseurl }}
 
-### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
-<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 [W00006765](https://solarsystem.nasa.gov/raw_images/69301/?layout=hds)
