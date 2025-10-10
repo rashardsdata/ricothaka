@@ -1065,6 +1065,6 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 
 <picture itemprop="image">
   <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
-  <source srcset="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
-  <img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+  <source srcset="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
 </picture>
