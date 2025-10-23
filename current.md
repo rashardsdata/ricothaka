@@ -11,6 +11,65 @@ title: Current
 ### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+# Currently Compiling 
+`jekyll.version`  {{ jekyll.version }}
+
+
+# Super Chase - Criminal Termination 1993
+## スーパー・チェイス・クリミナル・ターミネション
+[wiki](https://en.wikipedia.org/wiki/Super_Chase_H.Q.) : [Museum](https://www.arcade-museum.com/Videogame/super-chase-criminal-termination)  : [LaunchBoX](https://gamesdb.launchbox-app.com/games/details/39251-super-chase-criminal-termination)
+: [AbandonWare](https://www.myabandonware.com/game/super-chase-criminal-termination-aue)
+<img width="320" height="78" alt="strategywiki.org/wiki/File:Super_Chase_marquee" src="https://github.com/user-attachments/assets/cfb677ff-4c75-406f-acc5-6d42ef5eafff" />
+
+<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://rashardiman.github.io/)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+[https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)
+
+# NASA Appropriations and Authorizations:
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dd12c5e3-bea3-4691-a96b-f0c7364f7aa1" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b021997d-e137-4fa5-916e-f3eec6f512aa" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b6c8898f-2eee-48c5-b54a-f579cd2093ed" />
+
+# HiView 
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format 
+[Intro, April 2012 Update](https://www.youtube.com/watch?v=y3PCKnACusk) ::: [UserGuide @newshour @datadesk](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) ::: [Download](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView)
+![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg) [gdscc.nasa.gov/index.php/tours/](https://www.gdscc.nasa.gov/index.php/tours/)
+![HiPOD @HiRiSE @NASA @blackgirlscode](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+
+### Panoply Data Viewer
+Panoply requires a computer with Java 11 [download](https://www.giss.nasa.gov/tools/panoply/download/)
+4 NETCDF files GiS_DATA
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3svun7l5s26" data-bluesky-cid="bafyreidj5jh5o5hugtalpnir7jfxmi6e6mnk757m3wu2dyd6ic6kwf7e44" data-bluesky-embed-color-mode="system"><p lang="en">#MR_OBAMA! its rashard from @nasaearthwatch.bsky.social #EARTHDATA #LOSANGELES #JPL but im confused bc the gate and the call center are not follwoing protocol, iDont knw how to tell u github.com/rashardsdata... @crockett.house.gov @beyer.house.gov @repgwenmoore.bsky.social @judiciarydems.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">October 22, 2025 at 3:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
+
 
 # AnimalFarm 1954
 
@@ -39,6 +98,7 @@ title: Current
 <IMG class="whitebg" src="https://exiftool.org/ET-256.png" /> 
 
 [Termux Packages](https://packages-cf.termux.dev/apt/termux-main/?fbclid=IwZXh0bgNhZW0CMTEAAR4O8I7ACeRsUh8NVasN4pcL-3UGdbakLQT1OjbtT5_hVKVi9N_MbAT0Guu3Bw_aem_NRPBpFjy99OAnsr_Y3yPiQ) 
+
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
