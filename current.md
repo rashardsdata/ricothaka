@@ -11,6 +11,9 @@ Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20
 
 @SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
 
+[@nasa-jpl ViRTUAL_TOUR](https://www.jpl.nasa.gov/virtual-tour/) ::: [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) ::: [NSN](https://scan-now.gsfc.nasa.gov/)
+<img  alt="image" src="https://github.com/user-attachments/assets/563e8d6b-1d44-48ec-8b0c-4cd700773691" />
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dQFMMP13Dxv6UudfnHjP2q8XyP7Q9RTNNuf7Cmh85xfC8CUbSTVJ96ikTQvV2aTel%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) 
