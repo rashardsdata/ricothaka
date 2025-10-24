@@ -4,6 +4,11 @@ title: Current
 ---
 
 # Compiling 
+# California_Linux: 
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 @SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dQFMMP13Dxv6UudfnHjP2q8XyP7Q9RTNNuf7Cmh85xfC8CUbSTVJ96ikTQvV2aTel%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
