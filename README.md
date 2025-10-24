@@ -1,4 +1,11 @@
 # RiCOTHAKARASHARD = RAshardKElly[Thaka] 
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
