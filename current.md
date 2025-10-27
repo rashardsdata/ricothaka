@@ -3,13 +3,29 @@ layout: default
 title: Current
 ---
 
-# Compiling 
+
+
+# Currently Compiling 
+`jekyll.version`  {{ jekyll.version }}
+
+
+
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
 
 # California_Linux: 
+AMERICAN FEDERATION OF
+GOVERNMENT EMPLOYEES, AFL-CIO et
+al.,
+Plaintiffs,
+ v.
+UNITED STATES OFFICE OF
+MANAGEMENT AND BUDGET
+[DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+@cityoflosangeles [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov [Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
 
 ![duckStation](https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg)
 
@@ -51,10 +67,6 @@ At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
 [CORALiLoveu](https://rashardiman.github.io/)
 ### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-# Currently Compiling 
-`jekyll.version`  {{ jekyll.version }}
-
 
 
 
