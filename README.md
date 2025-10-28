@@ -3,6 +3,9 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+![@commercegov @icegov @dhs-gov @noaagov @nasa @whitehouse](https://www.google.com/logos/doodles/2025/learning-about-photosynthesis-uk-copy-6753651837110918-2xa.gif)
+
 ![@google @nasa-jpl @NASA-DEVELOP @blackgirlscode](https://grt.thisbrng.com/SearchViewGrt/images/Frame_29.png)
 
 
