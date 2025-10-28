@@ -12,6 +12,14 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+
+# Kool Moe Dee vs Busy Bee Starski Dec 1981 Harlem World
+[listen](https://youtu.be/am9C2_DZ7s4?si=XNp2B6xVg-nMa-cS)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/9eff9f45-3e67-4f79-a5cb-5c724702b8c8" />
+
+
 ## Wild Style (1982)
 [wiki](https://en.wikipedia.org/wiki/Charlie_Ahearn)
 [youtube.com/@CharlieAhearnNY](https://www.youtube.com/@CharlieAhearnNY)
