@@ -1,9 +1,9 @@
 # RiCOTHAKARASHARD = RAshardKElly[Thaka] 
 
-![@google](https://grt.thisbrng.com/SearchViewGrt/images/Frame_29.png)
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+![@google @nasa-jpl @NASA-DEVELOP @blackgirlscode](https://grt.thisbrng.com/SearchViewGrt/images/Frame_29.png)
 
 
 
