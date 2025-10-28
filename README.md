@@ -8,6 +8,7 @@
 
 ![@google @nasa-jpl @NASA-DEVELOP @blackgirlscode](https://grt.thisbrng.com/SearchViewGrt/images/Frame_29.png)
 
+![@cityoflosangeles @newshour my google mini still 430s10thst @blackgirlscode?](https://www.google.com/logos/doodles/2025/googles-27th-birthday-6753651837110886.2-2x.png)
 
 ![@gatech](https://www.google.com/logos/doodles/2025/learning-the-quadratic-equation-uk-copy-6753651837110916-2xa.gif)
 
