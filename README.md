@@ -8,6 +8,9 @@
 
 ![@google @nasa-jpl @NASA-DEVELOP @blackgirlscode](https://grt.thisbrng.com/SearchViewGrt/images/Frame_29.png)
 
+
+![@gatech](https://www.google.com/logos/doodles/2025/learning-the-quadratic-equation-uk-copy-6753651837110916-2xa.gif)
+
 ![@blackgirlscode](https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png)
 
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
