@@ -15,6 +15,19 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
 
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding.
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://rashardiman.github.io/linux/) 
+
+
 
 # Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
 
@@ -27,10 +40,10 @@ and from space. That’s where the Tracking and Data Relay Satellite
 
 <img  alt="image" src="https://github.com/user-attachments/assets/31e784ea-0455-48b9-9961-cacea495a0af" />
 
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
 
 # California_Linux: 
-AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
-[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+
 @cityoflosangeles [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov [Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
 
 
@@ -82,10 +95,10 @@ The station was designed between 1984 and 1993. Elements of the station were in 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid03xgJUwU4joJgkUwiz1w3rNYKTFVY1mu2sV99Xg1agFJyhinAjmcrhdYJnTzia3Csl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
+
 Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
 @SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
 
 
@@ -116,6 +129,7 @@ At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
 
 [Changelog @rashardsdata](https://rashardsdata.github.io/changelog) [rashardCompiling...currentData](https://rashardsdata.github.io/)
 [CORALiLoveu](https://rashardiman.github.io/)
+
 ### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -570,7 +584,7 @@ more
 ## Santa Monica 
 @nasa @nasa-jpl @blackgirlscode @nasa-pds
 On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org/), [La First UMC](https://www.lafirstumc.org/) was closed for [SabbathSunday](https://www.catholic.com/tract/sabbath-or-sunday) I saw some lumps on the trees i remember in savannah and think that they are Chemical Weapons used to bring root rot like many of the trees in atlanta. I read further about a fungus that looks the same. If it is natural pheonomena, the big blue flux in
-
+[Linuxupdate](https://thakarashard.github.io/linux/)
 
 [GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)](https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1)
 [Heterobasidion annosum](https://www.first-nature.com/fungi/heterobasidion-annosum.php)
