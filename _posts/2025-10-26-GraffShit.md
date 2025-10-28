@@ -12,6 +12,39 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+## Wild Style (1982)
+[wiki](https://en.wikipedia.org/wiki/Charlie_Ahearn)
+[youtube.com/@CharlieAhearnNY](https://www.youtube.com/@CharlieAhearnNY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3n5zaUoecI?si=vpzBRoeok42HB5vT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+artcrimes.com moved to https://www.graffiti.org/ 
+[https://www.graffiti.org/](https://www.graffiti.org/)
+![ARTCRiMES](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
+<img  alt="image" src="https://github.com/user-attachments/assets/63bc6d97-d8d7-4d99-9dc4-28b73ebdaf2c" />
+
+[Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) <~ Watch on @youtube
+#FiCtiONDRAMAREALiTY
+plot;[tourist hurting locals, im talking about freaknik not tourist!](https://www.youtube.com/watch?v=cb5XECdy2aQ)
+[imdb](https://www.imdb.com/title/tt0094894/) A police veteran and his rookie partner fight Los Angeles gangs.
+
+Related doc [Graffiti_VeriteVOL1](https://archive.org/download/graffiti-verite-vol.-1)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c93b63d2-714b-4f81-a866-e2f4eb9b23ec" />
+
+<img src="https://raw.githubusercontent.com/rashardsdata/rashardsdata.github.io/refs/heads/master/assets/img/545385041_753749844117173_4094454863368912744_n.jpg" />
+
+
+@blackgirlscode 
+![GVEh0ibaEAE0I-p](https://github.com/user-attachments/assets/48f3291e-53e8-412f-ab29-1d63f2a549d2)
+
+<img  alt="CultChild by Rashard and Sartu" src="https://github.com/user-attachments/assets/3df62c9c-14c1-4358-ba54-820ca9b77fc8" />
+# While I was gone
+@cityoflosangeles @stateofcalifornia @nasa-jpl @nasa-pds @dhs-gov @npr @newshour
+
+we got pushed around and settled in atlanta, and other ppl started spending time with me and i want everyone accounted for so i never disrupt a mission again... im sorry for missing [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/), I want you guys to have graffiti samples because someone threw a rally against me and i think the [NoKingsRiots](https://abc7.com/post/no-kings-protests-trump-administration-return-southern-california/18031981/) are somehow connected @datadesk 
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgraffitinewyork%2Fposts%2Fpfbid0bfxHuhJfjvxqcyUTB9hNxFJymALcqT4WXHMGcuPaiYyFBcXArdgiprXtpKhYVXFfl&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 i need martha cooper super bad, im just so embarrassed, tell ron that girl from oakland that liveed by mike was a complete wierdo and abused me sexually 12ozProphet ~ #The_King_Of_Hell 2002 
