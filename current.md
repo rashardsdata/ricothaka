@@ -15,22 +15,28 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
 
+
+# Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
+
+The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
+faraway galaxies, satellite navigation, and even the health and safety
+of our astronauts rely on communications systems that move data to
+and from space. That’s where the Tracking and Data Relay Satellite
+(TDRS) constellation comes in. + [@nasa GeneralDynamics](https://gdmissionsystems.com/satellite-ground-systems/tracking-and-data-relay-satellite-system)
+[DOWNLOAD-PDF @TheSpaceDevs](https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/31e784ea-0455-48b9-9961-cacea495a0af" />
+
+
 # California_Linux: 
-AMERICAN FEDERATION OF
-GOVERNMENT EMPLOYEES, AFL-CIO et
-al.,
-Plaintiffs,
- v.
-UNITED STATES OFFICE OF
-MANAGEMENT AND BUDGET
-[DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
 [@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
 @cityoflosangeles [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov [Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
 
 
 
 [@nasa iSS current position](https://eyes.nasa.gov/apps/earth/#/)
-[SpotTheStaTioN]() : [@apple iOS](https://apps.apple.com/us/app/spot-the-station/id6449235044) : [@android](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US)
+[SpotTheStaTioN](https://www.loc.gov/programs/john-w-kluge-center/chairs-fellowships/chairs/blumberg-nasa-chair-in-astrobiology/) : [@apple iOS](https://apps.apple.com/us/app/spot-the-station/id6449235044) : [@android](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US)
 
 Roscosmos Spacewalk 65
 
