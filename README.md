@@ -13,8 +13,8 @@
 ![@gatech](https://www.google.com/logos/doodles/2025/learning-the-quadratic-equation-uk-copy-6753651837110916-2xa.gif)
 
 ![@blackgirlscode](https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png)
-
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
+![DNS @blackgirlscode #re:#Coral](https://www.google.com/logos/doodles/2025/learning-about-dna-uk-copy-6753651837110917-2xa.gif)
+<img  alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/139304339_853024948830637_5939212775752125150_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=N8MxNBVnHpAQ7kNvwEhaqEr&amp;_nc_oc=AdkoMjIjYDhgZaiMKboO585BHkLo8u6Z4yQ9trcX4jF7EwQyHiMU1xWy9CQHdqP3Z8o&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=EZf7PPclJAickycgptE1NQ&amp;oh=00_AfXEIoThyUnoDWGydJDlbPM_HT-Q5XPpNrvbf8MVozH6ew&amp;oe=68CB122B" alt="No photo description available."/><img width="2040" height="1530" alt="image" src="https://github.com/user-attachments/assets/2213919f-b44e-4288-9d74-3ddf73ebe7af" />
