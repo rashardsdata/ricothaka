@@ -7,19 +7,7 @@ title: Current
 
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
-
-
-
-[Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
-The Chemical Brothers -
-Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
-
-## NASA Appropriations and Authorizations: At a Glance
-[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
-Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding.
-AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
-[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+ [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
 
 Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
@@ -27,6 +15,119 @@ Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
 
 @SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://rashardiman.github.io/linux/) 
 
+
+
+<style>
+.whitebg {background-color:white;}
+</style>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+# Viking Project
+![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
+### OCCURRED 47 YEARS AGO
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+### PIA02985: Dust storm in the Thaumasia region of Mars
+#### Original Caption Released with Image:
+This Viking Orbiter 2 image shows a large dust storm over the Thaumasia region on Mars. This large disturbance soon grew into the first global dust storm observed by the Viking Orbiters. This image was taken at 9:00 local time near perihelion when heating of Mars is at a maximum. The image is at 1400 km across and north is at 1:00. (Viking Orbiter 176B02).
+
+Image Credit:
+[NASA/JPL](https://github.com/customer-stories/jpl)
+![p](https://photojournal.jpl.nasa.gov/jpeg/PIA02985.jpg)
+
+## Sol 4461: Mars Hand Lens Imager (MAHLI)
+Most images acquired by MAHLI in daylight use the sun as an illumination source. However, in some cases, MAHLI's two groups of white light LEDs and one group of longwave ultraviolet (UV) LEDs might be used to illuminate targets [READMORE](https://mars.nasa.gov/raw_images/1436574/?site=msl) `Credits: NASA/JPL-Caltech/MSSS`
+![PENNY_ON_MARS](https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg)
+
+# Viking 1
+The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](https://www.mid.ru/en/main_en) Mars, Viking 1 was part of [a](https://www.esa.int/Education) two-part mission to investigate the Red Planet and search for signs of life.
+
+## Viking Lander 1 EDR Image Browser
+[Browse Image Directories](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/index.htm)
+![a0xx/12a010b4.gif](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/image/a0xx/12a010b4.gif)
+
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/solar-system/#/home" width="100%" height=400px ></object>
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
+    </object>
+
+
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+
+@nasa-jpl 
+[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build! ... https://gis.earthdata.nasa.gov/portal/home/index.html [NASA Earthdata](https://gis.earthdata.nasa.gov/portal/home/index.html) Congressmember Karen Bass imma make some notes on my workblog an see what i can do for County of Los Angeles
+
+- [4later gta5](https://www.rockstargames.com/gta-online) 
+
+<video controls  width="auto" height="400">
+   <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
+
+  <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
+
+
+</video>
+
+
+
+
+### [Heavy Metal - 1981](https://archive.org/details/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify) 
+[4later](https://svs.gsfc.nasa.gov/20405/)
+
+<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+
+
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+
+# Spirit Rover
+[HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
+[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+
+<img  alt="NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos." src="https://github.com/user-attachments/assets/bfc51582-dc38-4eba-910c-053d7a2b331e" />
+
+# What was Mariner 9?
+### INSTRUMENTS
+
+- Imaging system
+- Infrared radiometer
+- Ultraviolet spectrometer
+- Infrared interferometer spectrometer
+
+NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos. [READMORE @nasa-jpl](https://www.jpl.nasa.gov/missions/mariner-9-mariner-i/)
+
+[John Uri 50 Years Ago: Mariner 9 Enters Mars Orbit](https://www.nasa.gov/wp-content/uploads/2021/11/mariner_9_2_path_to_mars.jpg) On Nov. 13, 1971, Mariner 9 entered orbit around Mars, the first spacecraft to orbit another planet. Managed by [NASA’s Jet Propulsion Laboratory in Pasadena, California](https://www.jpl.nasa.gov/virtual-tour/) @stateofcalifornia @cityoflosangeles @nasa-pds @podaac @newshour @cbsnews
+## Clouds Areound Martian Volcanos
+<img  alt="image" src="https://github.com/user-attachments/assets/d1604525-5eba-4b0f-aa3a-36214a2e7604" />
+<img   alt="image" src="https://github.com/user-attachments/assets/9c01c56d-64e4-4e81-92bf-dda434556d4f" />
+
+![mariner 9 @nasa-jpl @blackgirlscode @northropgrumman](https://science.nasa.gov/wp-content/uploads/2017/12/mariner-1971.jpg)
 
 
 # Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
@@ -788,6 +889,41 @@ RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS : Effective: July 19, 2022 @nasa @whit
 </picture>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+
+
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+
+# Spirit Rover
+[HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
+[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+
+<img  alt="NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos." src="https://github.com/user-attachments/assets/bfc51582-dc38-4eba-910c-053d7a2b331e" />
+
+# What was Mariner 9?
+### INSTRUMENTS
+
+- Imaging system
+- Infrared radiometer
+- Ultraviolet spectrometer
+- Infrared interferometer spectrometer
+
+NASA's Mariner 9 was the first spacecraft to orbit another planet, when it beat the Soviet Mars 2—which had an 11-day head start—to the Red Planet. Mariner 9 mapped 85% of the Martian surface and sent back more than 7,000 pictures, including images of Olympus Mons, Valles Marineris, and the moons Phobos and Deimos. [READMORE @nasa-jpl](https://www.jpl.nasa.gov/missions/mariner-9-mariner-i/)
+
+[John Uri 50 Years Ago: Mariner 9 Enters Mars Orbit](https://www.nasa.gov/wp-content/uploads/2021/11/mariner_9_2_path_to_mars.jpg) On Nov. 13, 1971, Mariner 9 entered orbit around Mars, the first spacecraft to orbit another planet. Managed by [NASA’s Jet Propulsion Laboratory in Pasadena, California](https://www.jpl.nasa.gov/virtual-tour/) @stateofcalifornia @cityoflosangeles @nasa-pds @podaac @newshour @cbsnews
+## Clouds Areound Martian Volcanos
+<img  alt="image" src="https://github.com/user-attachments/assets/d1604525-5eba-4b0f-aa3a-36214a2e7604" />
+<img   alt="image" src="https://github.com/user-attachments/assets/9c01c56d-64e4-4e81-92bf-dda434556d4f" />
+
+![mariner 9 @nasa-jpl @blackgirlscode @northropgrumman](https://science.nasa.gov/wp-content/uploads/2017/12/mariner-1971.jpg)
+
 
 ## Ecostress [link](https://essp.nasa.gov/earth-pathfinder-quests/projects/ecostress/)
 ECOSTRESS (Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station) is an ongoing scientific experiment in which a radiometer mounted on the International Space Station (ISS) measures the temperature of plants growing in specific locations on Earth over the course of a solar year. [WiKi](https://en.wikipedia.org/wiki/ECOSTRESS) [TALK:ECOSTRESS](https://en.wikipedia.org/wiki/Talk:ECOSTRESS)
